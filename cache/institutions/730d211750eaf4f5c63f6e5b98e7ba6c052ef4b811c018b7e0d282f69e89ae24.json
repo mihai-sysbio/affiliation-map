@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I183067930",
+  "ror": "https://ror.org/0220qvk04",
+  "display_name": "Shanghai Jiao Tong University",
+  "country_code": "CN",
+  "type": "education",
+  "geo": {
+    "city": "Shanghai",
+    "geonames_city_id": "1796236",
+    "region": null,
+    "country_code": "CN",
+    "country": "China",
+    "latitude": 31.222219467163086,
+    "longitude": 121.45806121826172
+  }
+}

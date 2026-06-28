@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I22248866",
+  "ror": "https://ror.org/02kbmgc12",
+  "display_name": "AgroParisTech",
+  "country_code": "FR",
+  "type": "education",
+  "geo": {
+    "city": "Palaiseau",
+    "geonames_city_id": "2988758",
+    "region": "Île-de-France",
+    "country_code": "FR",
+    "country": "France",
+    "latitude": 48.71828,
+    "longitude": 2.2498
+  }
+}

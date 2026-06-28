@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I4210114428",
+  "ror": "https://ror.org/029gksr15",
+  "display_name": "SilicoLife (Portugal)",
+  "country_code": "PT",
+  "type": "company",
+  "geo": {
+    "city": "Braga",
+    "geonames_city_id": "2742032",
+    "region": null,
+    "country_code": "PT",
+    "country": "Portugal",
+    "latitude": 41.55186462402344,
+    "longitude": -8.388213157653809
+  }
+}

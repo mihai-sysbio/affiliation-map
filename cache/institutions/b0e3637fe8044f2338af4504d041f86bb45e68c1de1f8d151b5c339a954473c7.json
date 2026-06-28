@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I3017594750",
+  "ror": "https://ror.org/0471cyx86",
+  "display_name": "Microbiologie de l’alimentation au service de la santé",
+  "country_code": "FR",
+  "type": "facility",
+  "geo": {
+    "city": "Orsay",
+    "geonames_city_id": "2988507",
+    "region": null,
+    "country_code": "FR",
+    "country": "France",
+    "latitude": 48.69572067260742,
+    "longitude": 2.187269926071167
+  }
+}

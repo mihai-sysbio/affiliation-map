@@ -1,0 +1,1289 @@
+{
+  "id": "https://openalex.org/W4280620685",
+  "doi": "https://doi.org/10.3390/jof8050524",
+  "title": "Ustilago maydis Metabolic Characterization and Growth Quantification with a Genome-Scale Metabolic Model",
+  "display_name": "Ustilago maydis Metabolic Characterization and Growth Quantification with a Genome-Scale Metabolic Model",
+  "publication_year": 2022,
+  "publication_date": "2022-05-20",
+  "ids": {
+    "openalex": "https://openalex.org/W4280620685",
+    "doi": "https://doi.org/10.3390/jof8050524",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/35628779"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/jof8050524",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/jof8050524",
+    "pdf_url": "https://www.mdpi.com/2309-608X/8/5/524/pdf?version=1653035946",
+    "source": {
+      "id": "https://openalex.org/S2737643958",
+      "display_name": "Journal of Fungi",
+      "issn_l": "2309-608X",
+      "issn": [
+        "2309-608X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Fungi",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2309-608X/8/5/524/pdf?version=1653035946",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5076649110",
+        "display_name": "Ulf W. Liebal",
+        "orcid": "https://orcid.org/0000-0001-5172-7339"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Ulf W. Liebal",
+      "raw_affiliation_strings": [
+        "iAMB-Institute of Applied Microbiology, ABBt, RWTH Aachen University, Worringerweg 1, 52074 Aachen, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5172-7339",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "iAMB-Institute of Applied Microbiology, ABBt, RWTH Aachen University, Worringerweg 1, 52074 Aachen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5023492454",
+        "display_name": "Lena Ullmann",
+        "orcid": "https://orcid.org/0000-0002-7140-2045"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lena Ullmann",
+      "raw_affiliation_strings": [
+        "iAMB-Institute of Applied Microbiology, ABBt, RWTH Aachen University, Worringerweg 1, 52074 Aachen, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7140-2045",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "iAMB-Institute of Applied Microbiology, ABBt, RWTH Aachen University, Worringerweg 1, 52074 Aachen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5010680234",
+        "display_name": "Christian Lieven",
+        "orcid": "https://orcid.org/0000-0001-5377-4091"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801134892",
+          "display_name": "Novo Nordisk Foundation",
+          "ror": "https://ror.org/04txyc737",
+          "country_code": "DK",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801134892"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I96673099",
+          "display_name": "Technical University of Denmark",
+          "ror": "https://ror.org/04qtj9h94",
+          "country_code": "DK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ],
+      "countries": [
+        "DK"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Christian Lieven",
+      "raw_affiliation_strings": [
+        "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, DK-2800 Kgs. Lyngby, Denmark",
+        "Unseen Biometrics ApS, DK-2800 Kgs. Lyngby, Denmark"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5377-4091",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, DK-2800 Kgs. Lyngby, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I2801134892",
+            "https://openalex.org/I96673099"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Unseen Biometrics ApS, DK-2800 Kgs. Lyngby, Denmark",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5049313058",
+        "display_name": "Philipp Kohl",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Philipp Kohl",
+      "raw_affiliation_strings": [
+        "iAMB-Institute of Applied Microbiology, ABBt, RWTH Aachen University, Worringerweg 1, 52074 Aachen, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "iAMB-Institute of Applied Microbiology, ABBt, RWTH Aachen University, Worringerweg 1, 52074 Aachen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003426357",
+        "display_name": "Daniel Wibberg",
+        "orcid": "https://orcid.org/0000-0002-1331-4311"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I20121455",
+          "display_name": "Bielefeld University",
+          "ror": "https://ror.org/02hpadn98",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I20121455"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Daniel Wibberg",
+      "raw_affiliation_strings": [
+        "Genome Research of Industrial Microorganisms, CeBiTec, Bielefeld University, 33501 Bielefeld, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1331-4311",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genome Research of Industrial Microorganisms, CeBiTec, Bielefeld University, 33501 Bielefeld, Germany",
+          "institution_ids": [
+            "https://openalex.org/I20121455"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037065418",
+        "display_name": "Thiemo Zambanini",
+        "orcid": "https://orcid.org/0000-0002-1647-9293"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Thiemo Zambanini",
+      "raw_affiliation_strings": [
+        "iAMB-Institute of Applied Microbiology, ABBt, RWTH Aachen University, Worringerweg 1, 52074 Aachen, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "iAMB-Institute of Applied Microbiology, ABBt, RWTH Aachen University, Worringerweg 1, 52074 Aachen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5021545487",
+        "display_name": "Lars M. Blank",
+        "orcid": "https://orcid.org/0000-0003-0961-4976"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Lars M. Blank",
+      "raw_affiliation_strings": [
+        "iAMB-Institute of Applied Microbiology, ABBt, RWTH Aachen University, Worringerweg 1, 52074 Aachen, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0961-4976",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "iAMB-Institute of Applied Microbiology, ABBt, RWTH Aachen University, Worringerweg 1, 52074 Aachen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 7,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5021545487",
+    "https://openalex.org/A5076649110"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I887968799"
+  ],
+  "apc_list": {
+    "value": 2000,
+    "currency": "CHF",
+    "value_usd": 2165
+  },
+  "apc_paid": {
+    "value": 2000,
+    "currency": "CHF",
+    "value_usd": 2165
+  },
+  "fwci": 1.6462,
+  "has_fulltext": false,
+  "cited_by_count": 18,
+  "citation_normalized_percentile": {
+    "value": 0.83681173,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "8",
+    "issue": "5",
+    "first_page": "524",
+    "last_page": "524"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10932",
+    "display_name": "Microbial Metabolic Engineering and Bioproduction",
+    "score": 0.9998000264167786,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10932",
+      "display_name": "Microbial Metabolic Engineering and Bioproduction",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10171",
+      "display_name": "Biofuel production and bioconversion",
+      "score": 0.9994000196456909,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10497",
+      "display_name": "Fungal and yeast genetics research",
+      "score": 0.9900000095367432,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/ustilago",
+      "display_name": "Ustilago",
+      "score": 0.984134316444397
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.7437271475791931
+    },
+    {
+      "id": "https://openalex.org/keywords/genome",
+      "display_name": "Genome",
+      "score": 0.604835033416748
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolic-pathway",
+      "display_name": "Metabolic pathway",
+      "score": 0.5285448431968689
+    },
+    {
+      "id": "https://openalex.org/keywords/model-organism",
+      "display_name": "Model organism",
+      "score": 0.518446147441864
+    },
+    {
+      "id": "https://openalex.org/keywords/smut",
+      "display_name": "Smut",
+      "score": 0.4682140350341797
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.3952597975730896
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.34965288639068604
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.3247394263744354
+    },
+    {
+      "id": "https://openalex.org/keywords/botany",
+      "display_name": "Botany",
+      "score": 0.21664497256278992
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2781222273",
+      "wikidata": "https://www.wikidata.org/wiki/Q2361375",
+      "display_name": "Ustilago",
+      "level": 3,
+      "score": 0.984134316444397
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.7437271475791931
+    },
+    {
+      "id": "https://openalex.org/C141231307",
+      "wikidata": "https://www.wikidata.org/wiki/Q7020",
+      "display_name": "Genome",
+      "level": 3,
+      "score": 0.604835033416748
+    },
+    {
+      "id": "https://openalex.org/C192989942",
+      "wikidata": "https://www.wikidata.org/wiki/Q68685",
+      "display_name": "Metabolic pathway",
+      "level": 3,
+      "score": 0.5285448431968689
+    },
+    {
+      "id": "https://openalex.org/C19843653",
+      "wikidata": "https://www.wikidata.org/wiki/Q213907",
+      "display_name": "Model organism",
+      "level": 3,
+      "score": 0.518446147441864
+    },
+    {
+      "id": "https://openalex.org/C2778443809",
+      "wikidata": "https://www.wikidata.org/wiki/Q3297002",
+      "display_name": "Smut",
+      "level": 2,
+      "score": 0.4682140350341797
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.3952597975730896
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.34965288639068604
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.3247394263744354
+    },
+    {
+      "id": "https://openalex.org/C59822182",
+      "wikidata": "https://www.wikidata.org/wiki/Q441",
+      "display_name": "Botany",
+      "level": 1,
+      "score": 0.21664497256278992
+    }
+  ],
+  "mesh": [],
+  "locations_count": 6,
+  "locations": [
+    {
+      "id": "doi:10.3390/jof8050524",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/jof8050524",
+      "pdf_url": "https://www.mdpi.com/2309-608X/8/5/524/pdf?version=1653035946",
+      "source": {
+        "id": "https://openalex.org/S2737643958",
+        "display_name": "Journal of Fungi",
+        "issn_l": "2309-608X",
+        "issn": [
+          "2309-608X"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Fungi",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:35628779",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/35628779",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of fungi (Basel, Switzerland)",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:99dfc86221ba4406bd3632d82e928773",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/99dfc86221ba4406bd3632d82e928773",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Journal of Fungi, Vol 8, Iss 5, p 524 (2022)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pub.uni-bielefeld.de:2963695",
+      "is_oa": true,
+      "landing_page_url": "https://nbn-resolving.org/urn:nbn:de:0070-pub-29636953",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401670",
+        "display_name": "PUB – Publications at Bielefeld University (Bielefeld University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I20121455",
+        "host_organization_name": "Bielefeld University",
+        "host_organization_lineage": [
+          "https://openalex.org/I20121455"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "http://purl.org/coar/resource_type/c_6501"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:9147497",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9147497",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "J Fungi (Basel)",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:pure.atira.dk:publications/21451588-08ba-41f3-86ac-448a499e2b23",
+      "is_oa": true,
+      "landing_page_url": "https://orbit.dtu.dk/en/publications/21451588-08ba-41f3-86ac-448a499e2b23",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400705",
+        "display_name": "Technical University of Denmark, DTU Orbit (Technical University of Denmark, DTU)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I96673099",
+        "host_organization_name": "Technical University of Denmark",
+        "host_organization_lineage": [
+          "https://openalex.org/I96673099"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Liebal , U W , Ullmann , L , Lieven , C , Kohl , P , Wibberg , D , Zambanini , T &amp; Blank , L M 2022 , ' Ustilago maydis Metabolic Characterization and Growth Quantification with a Genome-Scale Metabolic Model ' , Journal of Fungi , vol. 8 , no. 5 , 524 . https://doi.org/10.3390/jof8050524",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/jof8050524",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/jof8050524",
+    "pdf_url": "https://www.mdpi.com/2309-608X/8/5/524/pdf?version=1653035946",
+    "source": {
+      "id": "https://openalex.org/S2737643958",
+      "display_name": "Journal of Fungi",
+      "issn_l": "2309-608X",
+      "issn": [
+        "2309-608X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Fungi",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G449284392",
+      "display_name": null,
+      "funder_award_id": "FSC-2186",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320879",
+      "display_name": "Deutsche Forschungsgemeinschaft",
+      "ror": "https://ror.org/018mejw64"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4280620685.pdf"
+  },
+  "referenced_works_count": 48,
+  "referenced_works": [
+    "https://openalex.org/W1970319896",
+    "https://openalex.org/W1982855075",
+    "https://openalex.org/W1996047071",
+    "https://openalex.org/W2007497503",
+    "https://openalex.org/W2023432111",
+    "https://openalex.org/W2025310576",
+    "https://openalex.org/W2063726689",
+    "https://openalex.org/W2071569502",
+    "https://openalex.org/W2085993965",
+    "https://openalex.org/W2105200499",
+    "https://openalex.org/W2120172561",
+    "https://openalex.org/W2128242967",
+    "https://openalex.org/W2128601422",
+    "https://openalex.org/W2133579817",
+    "https://openalex.org/W2140937954",
+    "https://openalex.org/W2141148930",
+    "https://openalex.org/W2142237411",
+    "https://openalex.org/W2145944929",
+    "https://openalex.org/W2148853951",
+    "https://openalex.org/W2149429041",
+    "https://openalex.org/W2155606054",
+    "https://openalex.org/W2155628349",
+    "https://openalex.org/W2157253968",
+    "https://openalex.org/W2164926676",
+    "https://openalex.org/W2170551349",
+    "https://openalex.org/W2309283376",
+    "https://openalex.org/W2531569665",
+    "https://openalex.org/W2537112517",
+    "https://openalex.org/W2616621860",
+    "https://openalex.org/W2810352238",
+    "https://openalex.org/W2937418575",
+    "https://openalex.org/W2950354111",
+    "https://openalex.org/W2965590414",
+    "https://openalex.org/W2987986872",
+    "https://openalex.org/W2997079753",
+    "https://openalex.org/W3010629926",
+    "https://openalex.org/W3014412917",
+    "https://openalex.org/W3087744872",
+    "https://openalex.org/W3110410849",
+    "https://openalex.org/W3118003191",
+    "https://openalex.org/W3130508264",
+    "https://openalex.org/W3162058474",
+    "https://openalex.org/W3213171917",
+    "https://openalex.org/W4205313053",
+    "https://openalex.org/W4221114666",
+    "https://openalex.org/W4230770774",
+    "https://openalex.org/W4239834664",
+    "https://openalex.org/W6805726555"
+  ],
+  "related_works": [
+    "https://openalex.org/W1999931937",
+    "https://openalex.org/W74246096",
+    "https://openalex.org/W2941864148",
+    "https://openalex.org/W2318399073",
+    "https://openalex.org/W3138750844",
+    "https://openalex.org/W4312828118",
+    "https://openalex.org/W2197311889",
+    "https://openalex.org/W4200044048",
+    "https://openalex.org/W4312796984",
+    "https://openalex.org/W2008669119"
+  ],
+  "abstract_inverted_index": {
+    "Ustilago": [
+      0,
+      54
+    ],
+    "maydis": [
+      1,
+      55,
+      137
+    ],
+    "is": [
+      2
+    ],
+    "an": [
+      3,
+      15
+    ],
+    "important": [
+      4
+    ],
+    "plant": [
+      5
+    ],
+    "pathogen": [
+      6
+    ],
+    "that": [
+      7
+    ],
+    "causes": [
+      8
+    ],
+    "corn": [
+      9
+    ],
+    "smut": [
+      10
+    ],
+    "disease": [
+      11
+    ],
+    "and": [
+      12,
+      36,
+      68,
+      72,
+      81,
+      107
+    ],
+    "serves": [
+      13
+    ],
+    "as": [
+      14,
+      158,
+      160
+    ],
+    "effective": [
+      16
+    ],
+    "biotechnological": [
+      17,
+      162
+    ],
+    "production": [
+      18
+    ],
+    "host.": [
+      19
+    ],
+    "The": [
+      20,
+      86,
+      117,
+      145
+    ],
+    "lack": [
+      21
+    ],
+    "of": [
+      22,
+      31,
+      40,
+      53,
+      60,
+      133,
+      151
+    ],
+    "a": [
+      23,
+      28,
+      37,
+      121
+    ],
+    "comprehensive": [
+      24
+    ],
+    "metabolic": [
+      25,
+      42,
+      50,
+      61,
+      141,
+      152
+    ],
+    "overview": [
+      26
+    ],
+    "hinders": [
+      27
+    ],
+    "full": [
+      29,
+      38
+    ],
+    "understanding": [
+      30
+    ],
+    "the": [
+      32,
+      47,
+      58,
+      73,
+      83,
+      96
+    ],
+    "organism’s": [
+      33
+    ],
+    "environmental": [
+      34,
+      156
+    ],
+    "adaptation": [
+      35
+    ],
+    "use": [
+      39
+    ],
+    "its": [
+      41
+    ],
+    "potential.": [
+      43
+    ],
+    "Here,": [
+      44
+    ],
+    "we": [
+      45
+    ],
+    "report": [
+      46
+    ],
+    "first": [
+      48
+    ],
+    "genome-scale": [
+      49
+    ],
+    "model": [
+      51,
+      88,
+      147
+    ],
+    "(GSMM)": [
+      52
+    ],
+    "(iUma22)": [
+      56
+    ],
+    "for": [
+      57,
+      149,
+      161
+    ],
+    "simulation": [
+      59
+    ],
+    "activities.": [
+      62
+    ],
+    "iUma22": [
+      63
+    ],
+    "was": [
+      64,
+      76,
+      101
+    ],
+    "reconstructed": [
+      65
+    ],
+    "from": [
+      66,
+      78,
+      82
+    ],
+    "sequencing": [
+      67
+    ],
+    "annotation": [
+      69
+    ],
+    "using": [
+      70
+    ],
+    "PathwayTools,": [
+      71
+    ],
+    "biomass": [
+      74
+    ],
+    "equation": [
+      75
+    ],
+    "derived": [
+      77
+    ],
+    "literature": [
+      79
+    ],
+    "values": [
+      80
+    ],
+    "codon": [
+      84
+    ],
+    "composition.": [
+      85
+    ],
+    "final": [
+      87
+    ],
+    "contains": [
+      89
+    ],
+    "over": [
+      90
+    ],
+    "25%": [
+      91
+    ],
+    "annotated": [
+      92
+    ],
+    "genes": [
+      93
+    ],
+    "(6909)": [
+      94
+    ],
+    "in": [
+      95,
+      123,
+      143
+    ],
+    "sequenced": [
+      97
+    ],
+    "genome.": [
+      98
+    ],
+    "Substrate": [
+      99
+    ],
+    "utilization": [
+      100
+    ],
+    "corrected": [
+      102
+    ],
+    "by": [
+      103
+    ],
+    "BIOLOG": [
+      104
+    ],
+    "phenotype": [
+      105
+    ],
+    "arrays,": [
+      106
+    ],
+    "exponential": [
+      108
+    ],
+    "batch": [
+      109
+    ],
+    "cultivations": [
+      110
+    ],
+    "were": [
+      111
+    ],
+    "used": [
+      112
+    ],
+    "to": [
+      113,
+      154
+    ],
+    "test": [
+      114
+    ],
+    "growth": [
+      115,
+      118
+    ],
+    "predictions.": [
+      116
+    ],
+    "data": [
+      119
+    ],
+    "revealed": [
+      120
+    ],
+    "decrease": [
+      122
+    ],
+    "glucose": [
+      124,
+      129
+    ],
+    "uptake": [
+      125
+    ],
+    "rate": [
+      126
+    ],
+    "with": [
+      127
+    ],
+    "rising": [
+      128
+    ],
+    "concentration.": [
+      130
+    ],
+    "A": [
+      131
+    ],
+    "pangenome": [
+      132
+    ],
+    "four": [
+      134
+    ],
+    "different": [
+      135,
+      155
+    ],
+    "U.": [
+      136
+    ],
+    "strains": [
+      138
+    ],
+    "highlighted": [
+      139
+    ],
+    "missing": [
+      140
+    ],
+    "pathways": [
+      142
+    ],
+    "iUma22.": [
+      144
+    ],
+    "new": [
+      146
+    ],
+    "allows": [
+      148
+    ],
+    "studies": [
+      150
+    ],
+    "adaptations": [
+      153
+    ],
+    "niches": [
+      157
+    ],
+    "well": [
+      159
+    ],
+    "applications.": [
+      163
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-24T13:16:06.693445",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,1668 @@
+{
+  "id": "https://openalex.org/W2991390001",
+  "doi": "https://doi.org/10.1186/s12896-021-00675-w",
+  "title": "Genome-scale model reconstruction of the methylotrophic yeast Ogataea polymorpha",
+  "display_name": "Genome-scale model reconstruction of the methylotrophic yeast Ogataea polymorpha",
+  "publication_year": 2021,
+  "publication_date": "2021-03-15",
+  "ids": {
+    "openalex": "https://openalex.org/W2991390001",
+    "doi": "https://doi.org/10.1186/s12896-021-00675-w",
+    "mag": "2991390001",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/33722219"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1186/s12896-021-00675-w",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/s12896-021-00675-w",
+    "pdf_url": "https://bmcbiotechnol.biomedcentral.com/counter/pdf/10.1186/s12896-021-00675-w",
+    "source": {
+      "id": "https://openalex.org/S53489610",
+      "display_name": "BMC Biotechnology",
+      "issn_l": "1472-6750",
+      "issn": [
+        "1472-6750"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320256",
+      "host_organization_name": "BioMed Central",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320256",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "BioMed Central",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "BMC Biotechnology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://bmcbiotechnol.biomedcentral.com/counter/pdf/10.1186/s12896-021-00675-w",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5076649110",
+        "display_name": "Ulf W. Liebal",
+        "orcid": "https://orcid.org/0000-0001-5172-7339"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ulf W Liebal",
+      "raw_affiliation_strings": [
+        "Institute of Applied Microbiology-iAMB, Aachen Biology and Biotechnology-ABBt, RWTH Aachen University, Worringer Weg 1, Aachen, 52074, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Applied Microbiology-iAMB, Aachen Biology and Biotechnology-ABBt, RWTH Aachen University, Worringer Weg 1, Aachen, 52074, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027015452",
+        "display_name": "Brigida A Fabry",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Brigida A Fabry",
+      "raw_affiliation_strings": [
+        "Institute of Applied Microbiology-iAMB, Aachen Biology and Biotechnology-ABBt, RWTH Aachen University, Worringer Weg 1, Aachen, 52074, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Applied Microbiology-iAMB, Aachen Biology and Biotechnology-ABBt, RWTH Aachen University, Worringer Weg 1, Aachen, 52074, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5045741050",
+        "display_name": "Aarthi Ravikrishnan",
+        "orcid": "https://orcid.org/0000-0003-2391-0202"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66068411",
+          "display_name": "Genome Institute of Singapore",
+          "ror": "https://ror.org/05k8wg936",
+          "country_code": "SG",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I115228651",
+            "https://openalex.org/I2801752549",
+            "https://openalex.org/I66068411"
+          ]
+        }
+      ],
+      "countries": [
+        "SG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aarthi Ravikrishnan",
+      "raw_affiliation_strings": [
+        "Genome Institute of Singapore, 60 Biopolis Street, Genome, 03-01, Singapore, 138672, Singapore"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Genome Institute of Singapore, 60 Biopolis Street, Genome, 03-01, Singapore, 138672, Singapore",
+          "institution_ids": [
+            "https://openalex.org/I66068411"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5054535039",
+        "display_name": "Constantin VL Schedel",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Constantin VL Schedel",
+      "raw_affiliation_strings": [
+        "Institute of Applied Microbiology-iAMB, Aachen Biology and Biotechnology-ABBt, RWTH Aachen University, Worringer Weg 1, Aachen, 52074, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Applied Microbiology-iAMB, Aachen Biology and Biotechnology-ABBt, RWTH Aachen University, Worringer Weg 1, Aachen, 52074, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5089183823",
+        "display_name": "Simone Schmitz",
+        "orcid": "https://orcid.org/0000-0002-7654-2055"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Simone Schmitz",
+      "raw_affiliation_strings": [
+        "Institute of Applied Microbiology-iAMB, Aachen Biology and Biotechnology-ABBt, RWTH Aachen University, Worringer Weg 1, Aachen, 52074, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Applied Microbiology-iAMB, Aachen Biology and Biotechnology-ABBt, RWTH Aachen University, Worringer Weg 1, Aachen, 52074, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021545487",
+        "display_name": "Lars M. Blank",
+        "orcid": "https://orcid.org/0000-0003-0961-4976"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Lars M Blank",
+      "raw_affiliation_strings": [
+        "Institute of Applied Microbiology-iAMB, Aachen Biology and Biotechnology-ABBt, RWTH Aachen University, Worringer Weg 1, Aachen, 52074, Germany. lars.blank@rwth-aachen.de",
+        "Institute of Applied Microbiology-iAMB, Aachen Biology and Biotechnology-ABBt, RWTH Aachen University, Worringer Weg 1, Aachen, 52074, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Applied Microbiology-iAMB, Aachen Biology and Biotechnology-ABBt, RWTH Aachen University, Worringer Weg 1, Aachen, 52074, Germany. lars.blank@rwth-aachen.de",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Applied Microbiology-iAMB, Aachen Biology and Biotechnology-ABBt, RWTH Aachen University, Worringer Weg 1, Aachen, 52074, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5040665605",
+        "display_name": "Birgitta E. Ebert",
+        "orcid": "https://orcid.org/0000-0001-9425-7509"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1292875679",
+          "display_name": "Commonwealth Scientific and Industrial Research Organisation",
+          "ror": "https://ror.org/03qn8fb07",
+          "country_code": "AU",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1292875679",
+            "https://openalex.org/I2801453606",
+            "https://openalex.org/I4387156119"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I165143802",
+          "display_name": "The University of Queensland",
+          "ror": "https://ror.org/00rqy9422",
+          "country_code": "AU",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165143802"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "AU",
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Birgitta E Ebert",
+      "raw_affiliation_strings": [
+        "Australian Institute for Bioengineering and Nanotechnology, The University of Queensland, Brisbane, QLD 4072, Australia",
+        "CSIRO Future Science Platform in Synthetic Biology, Commonwealth Scientific and Industrial Research Organisation (CSIRO), Black Mountain, ACT 2601, Australia",
+        "Institute of Applied Microbiology-iAMB, Aachen Biology and Biotechnology-ABBt, RWTH Aachen University, Worringer Weg 1, Aachen, 52074, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Australian Institute for Bioengineering and Nanotechnology, The University of Queensland, Brisbane, QLD 4072, Australia",
+          "institution_ids": [
+            "https://openalex.org/I165143802"
+          ]
+        },
+        {
+          "raw_affiliation_string": "CSIRO Future Science Platform in Synthetic Biology, Commonwealth Scientific and Industrial Research Organisation (CSIRO), Black Mountain, ACT 2601, Australia",
+          "institution_ids": [
+            "https://openalex.org/I1292875679"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Applied Microbiology-iAMB, Aachen Biology and Biotechnology-ABBt, RWTH Aachen University, Worringer Weg 1, Aachen, 52074, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 7,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5021545487"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I887968799"
+  ],
+  "apc_list": {
+    "value": 1570,
+    "currency": "GBP",
+    "value_usd": 1925
+  },
+  "apc_paid": {
+    "value": 1570,
+    "currency": "GBP",
+    "value_usd": 1925
+  },
+  "fwci": 1.3027,
+  "has_fulltext": true,
+  "cited_by_count": 20,
+  "citation_normalized_percentile": {
+    "value": 0.79295392,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "21",
+    "issue": "1",
+    "first_page": "23",
+    "last_page": "23"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10932",
+    "display_name": "Microbial Metabolic Engineering and Bioproduction",
+    "score": 0.5638999938964844,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10932",
+      "display_name": "Microbial Metabolic Engineering and Bioproduction",
+      "score": 0.5638999938964844,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10497",
+      "display_name": "Fungal and yeast genetics research",
+      "score": 0.27000001072883606,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10171",
+      "display_name": "Biofuel production and bioconversion",
+      "score": 0.07620000094175339,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.8413949012756348
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolic-engineering",
+      "display_name": "Metabolic engineering",
+      "score": 0.7532453536987305
+    },
+    {
+      "id": "https://openalex.org/keywords/yeast",
+      "display_name": "Yeast",
+      "score": 0.666210949420929
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.6152181029319763
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolic-network",
+      "display_name": "Metabolic network",
+      "score": 0.5974253416061401
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolomics",
+      "display_name": "Metabolomics",
+      "score": 0.5745071172714233
+    },
+    {
+      "id": "https://openalex.org/keywords/organism",
+      "display_name": "Organism",
+      "score": 0.5691893100738525
+    },
+    {
+      "id": "https://openalex.org/keywords/model-organism",
+      "display_name": "Model organism",
+      "score": 0.547166109085083
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolic-pathway",
+      "display_name": "Metabolic pathway",
+      "score": 0.48133429884910583
+    },
+    {
+      "id": "https://openalex.org/keywords/synthetic-biology",
+      "display_name": "Synthetic biology",
+      "score": 0.48119693994522095
+    },
+    {
+      "id": "https://openalex.org/keywords/genome",
+      "display_name": "Genome",
+      "score": 0.4531276226043701
+    },
+    {
+      "id": "https://openalex.org/keywords/substrate",
+      "display_name": "Substrate (aquarium)",
+      "score": 0.41166096925735474
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemical-engineering",
+      "display_name": "Biochemical engineering",
+      "score": 0.38034215569496155
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.2402840256690979
+    },
+    {
+      "id": "https://openalex.org/keywords/bioinformatics",
+      "display_name": "Bioinformatics",
+      "score": 0.19160285592079163
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.18067237734794617
+    },
+    {
+      "id": "https://openalex.org/keywords/ecology",
+      "display_name": "Ecology",
+      "score": 0.094980388879776
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.8413949012756348
+    },
+    {
+      "id": "https://openalex.org/C6350086",
+      "wikidata": "https://www.wikidata.org/wiki/Q6822347",
+      "display_name": "Metabolic engineering",
+      "level": 3,
+      "score": 0.7532453536987305
+    },
+    {
+      "id": "https://openalex.org/C2779222958",
+      "wikidata": "https://www.wikidata.org/wiki/Q45422",
+      "display_name": "Yeast",
+      "level": 2,
+      "score": 0.666210949420929
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.6152181029319763
+    },
+    {
+      "id": "https://openalex.org/C101810790",
+      "wikidata": "https://www.wikidata.org/wiki/Q2263094",
+      "display_name": "Metabolic network",
+      "level": 2,
+      "score": 0.5974253416061401
+    },
+    {
+      "id": "https://openalex.org/C21565614",
+      "wikidata": "https://www.wikidata.org/wiki/Q12149006",
+      "display_name": "Metabolomics",
+      "level": 2,
+      "score": 0.5745071172714233
+    },
+    {
+      "id": "https://openalex.org/C137858568",
+      "wikidata": "https://www.wikidata.org/wiki/Q7239",
+      "display_name": "Organism",
+      "level": 2,
+      "score": 0.5691893100738525
+    },
+    {
+      "id": "https://openalex.org/C19843653",
+      "wikidata": "https://www.wikidata.org/wiki/Q213907",
+      "display_name": "Model organism",
+      "level": 3,
+      "score": 0.547166109085083
+    },
+    {
+      "id": "https://openalex.org/C192989942",
+      "wikidata": "https://www.wikidata.org/wiki/Q68685",
+      "display_name": "Metabolic pathway",
+      "level": 3,
+      "score": 0.48133429884910583
+    },
+    {
+      "id": "https://openalex.org/C191908910",
+      "wikidata": "https://www.wikidata.org/wiki/Q862838",
+      "display_name": "Synthetic biology",
+      "level": 2,
+      "score": 0.48119693994522095
+    },
+    {
+      "id": "https://openalex.org/C141231307",
+      "wikidata": "https://www.wikidata.org/wiki/Q7020",
+      "display_name": "Genome",
+      "level": 3,
+      "score": 0.4531276226043701
+    },
+    {
+      "id": "https://openalex.org/C2777289219",
+      "wikidata": "https://www.wikidata.org/wiki/Q7632154",
+      "display_name": "Substrate (aquarium)",
+      "level": 2,
+      "score": 0.41166096925735474
+    },
+    {
+      "id": "https://openalex.org/C183696295",
+      "wikidata": "https://www.wikidata.org/wiki/Q2487696",
+      "display_name": "Biochemical engineering",
+      "level": 1,
+      "score": 0.38034215569496155
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.2402840256690979
+    },
+    {
+      "id": "https://openalex.org/C60644358",
+      "wikidata": "https://www.wikidata.org/wiki/Q128570",
+      "display_name": "Bioinformatics",
+      "level": 1,
+      "score": 0.19160285592079163
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.18067237734794617
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.094980388879776
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000432",
+      "descriptor_name": "Methanol",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000432",
+      "descriptor_name": "Methanol",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000432",
+      "descriptor_name": "Methanol",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004718",
+      "descriptor_name": "Saccharomycetales",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004718",
+      "descriptor_name": "Saccharomycetales",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004718",
+      "descriptor_name": "Saccharomycetales",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004718",
+      "descriptor_name": "Saccharomycetales",
+      "qualifier_ui": "Q000254",
+      "qualifier_name": "growth & development",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004718",
+      "descriptor_name": "Saccharomycetales",
+      "qualifier_ui": "Q000254",
+      "qualifier_name": "growth & development",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004718",
+      "descriptor_name": "Saccharomycetales",
+      "qualifier_ui": "Q000254",
+      "qualifier_name": "growth & development",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004718",
+      "descriptor_name": "Saccharomycetales",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004718",
+      "descriptor_name": "Saccharomycetales",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004718",
+      "descriptor_name": "Saccharomycetales",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005285",
+      "descriptor_name": "Fermentation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005285",
+      "descriptor_name": "Fermentation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005285",
+      "descriptor_name": "Fermentation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005656",
+      "descriptor_name": "Fungal Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005656",
+      "descriptor_name": "Fungal Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005656",
+      "descriptor_name": "Fungal Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005656",
+      "descriptor_name": "Fungal Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005656",
+      "descriptor_name": "Fungal Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005656",
+      "descriptor_name": "Fungal Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016681",
+      "descriptor_name": "Genome, Fungal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016681",
+      "descriptor_name": "Genome, Fungal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016681",
+      "descriptor_name": "Genome, Fungal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D052818",
+      "descriptor_name": "Autotrophic Processes",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D052818",
+      "descriptor_name": "Autotrophic Processes",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D052818",
+      "descriptor_name": "Autotrophic Processes",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1186/s12896-021-00675-w",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1186/s12896-021-00675-w",
+      "pdf_url": "https://bmcbiotechnol.biomedcentral.com/counter/pdf/10.1186/s12896-021-00675-w",
+      "source": {
+        "id": "https://openalex.org/S53489610",
+        "display_name": "BMC Biotechnology",
+        "issn_l": "1472-6750",
+        "issn": [
+          "1472-6750"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320256",
+        "host_organization_name": "BioMed Central",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320256",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "BioMed Central",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "BMC Biotechnology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:33722219",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/33722219",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "BMC biotechnology",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:7962355",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7962355",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "BMC Biotechnol",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:86ba75e7bd374c8bacda99c3ada716e4",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/86ba75e7bd374c8bacda99c3ada716e4",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "BMC Biotechnology, Vol 21, Iss 1, Pp 1-8 (2021)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1186/s12896-021-00675-w",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/s12896-021-00675-w",
+    "pdf_url": "https://bmcbiotechnol.biomedcentral.com/counter/pdf/10.1186/s12896-021-00675-w",
+    "source": {
+      "id": "https://openalex.org/S53489610",
+      "display_name": "BMC Biotechnology",
+      "issn_l": "1472-6750",
+      "issn": [
+        "1472-6750"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320256",
+      "host_organization_name": "BioMed Central",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320256",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "BioMed Central",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "BMC Biotechnology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.49000000953674316,
+      "id": "https://metadata.un.org/sdg/9",
+      "display_name": "Industry, innovation and infrastructure"
+    },
+    {
+      "score": 0.4000000059604645,
+      "id": "https://metadata.un.org/sdg/12",
+      "display_name": "Responsible consumption and production"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1118431254",
+      "display_name": null,
+      "funder_award_id": "FKZ 031A217F",
+      "funder_id": "https://openalex.org/F4320321114",
+      "funder_display_name": "Bundesministerium für Bildung und Forschung"
+    },
+    {
+      "id": "https://openalex.org/G1354695261",
+      "display_name": "EXC 2186: Das Fuel Science Center – Adaptive Umwandlungssysteme für erneuerbare Energie und Kohlenstoffquellen",
+      "funder_award_id": "390919832",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G4210881642",
+      "display_name": null,
+      "funder_award_id": "031A217F",
+      "funder_id": "https://openalex.org/F4320321114",
+      "funder_display_name": "Bundesministerium für Bildung und Forschung"
+    },
+    {
+      "id": "https://openalex.org/G5403315466",
+      "display_name": null,
+      "funder_award_id": "Exzellenzcluster 2186",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G6278682452",
+      "display_name": null,
+      "funder_award_id": "390919832",
+      "funder_id": "https://openalex.org/F4320321114",
+      "funder_display_name": "Bundesministerium für Bildung und Forschung"
+    },
+    {
+      "id": "https://openalex.org/G7273481077",
+      "display_name": null,
+      "funder_award_id": "ID: 390919832",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G8840750273",
+      "display_name": null,
+      "funder_award_id": "DE-82",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320386",
+      "display_name": "Commonwealth Scientific and Industrial Research Organisation",
+      "ror": "https://ror.org/03qn8fb07"
+    },
+    {
+      "id": "https://openalex.org/F4320320879",
+      "display_name": "Deutsche Forschungsgemeinschaft",
+      "ror": "https://ror.org/018mejw64"
+    },
+    {
+      "id": "https://openalex.org/F4320321114",
+      "display_name": "Bundesministerium für Bildung und Forschung",
+      "ror": "https://ror.org/04pz7b180"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2991390001.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2991390001.grobid-xml"
+  },
+  "referenced_works_count": 34,
+  "referenced_works": [
+    "https://openalex.org/W1484037209",
+    "https://openalex.org/W1520720212",
+    "https://openalex.org/W1601397374",
+    "https://openalex.org/W1979835060",
+    "https://openalex.org/W1981898996",
+    "https://openalex.org/W1987916789",
+    "https://openalex.org/W2002756590",
+    "https://openalex.org/W2010930876",
+    "https://openalex.org/W2026970231",
+    "https://openalex.org/W2060606422",
+    "https://openalex.org/W2097682067",
+    "https://openalex.org/W2107185990",
+    "https://openalex.org/W2122012609",
+    "https://openalex.org/W2132673252",
+    "https://openalex.org/W2134221731",
+    "https://openalex.org/W2137076128",
+    "https://openalex.org/W2150501344",
+    "https://openalex.org/W2159482845",
+    "https://openalex.org/W2162628363",
+    "https://openalex.org/W2168695178",
+    "https://openalex.org/W2276185269",
+    "https://openalex.org/W2330172115",
+    "https://openalex.org/W2512706593",
+    "https://openalex.org/W2612384569",
+    "https://openalex.org/W2735208389",
+    "https://openalex.org/W2769450325",
+    "https://openalex.org/W2770083493",
+    "https://openalex.org/W2799679878",
+    "https://openalex.org/W2810352238",
+    "https://openalex.org/W2884458766",
+    "https://openalex.org/W2967666605",
+    "https://openalex.org/W3010629926",
+    "https://openalex.org/W3136918052",
+    "https://openalex.org/W4294216483"
+  ],
+  "related_works": [
+    "https://openalex.org/W2126646394",
+    "https://openalex.org/W3047447888",
+    "https://openalex.org/W2053717739",
+    "https://openalex.org/W2626617466",
+    "https://openalex.org/W1999457307",
+    "https://openalex.org/W2059128096",
+    "https://openalex.org/W2032408161",
+    "https://openalex.org/W2402358048",
+    "https://openalex.org/W2119866908",
+    "https://openalex.org/W2580403151"
+  ],
+  "abstract_inverted_index": {
+    "BACKGROUND:": [
+      0
+    ],
+    "Ogataea": [
+      1
+    ],
+    "polymorpha": [
+      2,
+      28,
+      171
+    ],
+    "is": [
+      3,
+      85
+    ],
+    "a": [
+      4,
+      37,
+      56,
+      74,
+      97,
+      108,
+      189
+    ],
+    "thermotolerant,": [
+      5
+    ],
+    "methylotrophic": [
+      6
+    ],
+    "yeast": [
+      7,
+      104
+    ],
+    "with": [
+      8,
+      73
+    ],
+    "significant": [
+      9
+    ],
+    "industrial": [
+      10
+    ],
+    "applications.": [
+      11
+    ],
+    "While": [
+      12
+    ],
+    "previously": [
+      13
+    ],
+    "mainly": [
+      14
+    ],
+    "used": [
+      15,
+      96
+    ],
+    "for": [
+      16,
+      23,
+      87
+    ],
+    "protein": [
+      17
+    ],
+    "synthesis,": [
+      18
+    ],
+    "it": [
+      19
+    ],
+    "also": [
+      20
+    ],
+    "holds": [
+      21
+    ],
+    "promise": [
+      22
+    ],
+    "producing": [
+      24
+    ],
+    "platform": [
+      25
+    ],
+    "chemicals.": [
+      26
+    ],
+    "O.": [
+      27,
+      88,
+      170
+    ],
+    "has": [
+      29
+    ],
+    "the": [
+      30,
+      53,
+      62,
+      101,
+      127,
+      138,
+      145,
+      158,
+      174,
+      182
+    ],
+    "distinct": [
+      31
+    ],
+    "advantage": [
+      32
+    ],
+    "of": [
+      33,
+      52,
+      61,
+      100,
+      129,
+      137,
+      169,
+      176,
+      184
+    ],
+    "using": [
+      34
+    ],
+    "methanol": [
+      35,
+      192
+    ],
+    "as": [
+      36,
+      107,
+      132
+    ],
+    "substrate,": [
+      38
+    ],
+    "which": [
+      39
+    ],
+    "could": [
+      40
+    ],
+    "be": [
+      41
+    ],
+    "potentially": [
+      42
+    ],
+    "derived": [
+      43
+    ],
+    "from": [
+      44
+    ],
+    "carbon": [
+      45,
+      133
+    ],
+    "capture": [
+      46
+    ],
+    "and": [
+      47,
+      59,
+      110,
+      116,
+      147,
+      180
+    ],
+    "utilization": [
+      48
+    ],
+    "streams.": [
+      49
+    ],
+    "Full": [
+      50
+    ],
+    "development": [
+      51
+    ],
+    "organism": [
+      54
+    ],
+    "into": [
+      55
+    ],
+    "production": [
+      57,
+      185
+    ],
+    "strain": [
+      58,
+      67
+    ],
+    "estimation": [
+      60
+    ],
+    "metabolic": [
+      63,
+      71,
+      76,
+      83,
+      167,
+      178
+    ],
+    "capabilities": [
+      64,
+      179
+    ],
+    "require": [
+      65
+    ],
+    "additional": [
+      66
+    ],
+    "design,": [
+      68
+    ],
+    "guided": [
+      69
+    ],
+    "by": [
+      70,
+      144
+    ],
+    "modeling": [
+      72
+    ],
+    "genome-scale": [
+      75,
+      82,
+      166
+    ],
+    "model.": [
+      77,
+      162
+    ],
+    "However,": [
+      78
+    ],
+    "to": [
+      79,
+      125
+    ],
+    "date,": [
+      80
+    ],
+    "no": [
+      81
+    ],
+    "model": [
+      84,
+      146,
+      168
+    ],
+    "available": [
+      86
+    ],
+    "polymorpha.": [
+      89
+    ],
+    "RESULTS:": [
+      90
+    ],
+    "To": [
+      91
+    ],
+    "overcome": [
+      92
+    ],
+    "this": [
+      93
+    ],
+    "limitation,": [
+      94
+    ],
+    "we": [
+      95,
+      120
+    ],
+    "published": [
+      98
+    ],
+    "reconstruction": [
+      99
+    ],
+    "closely": [
+      102
+    ],
+    "related": [
+      103
+    ],
+    "Komagataella": [
+      105
+    ],
+    "phaffii": [
+      106,
+      160
+    ],
+    "reference": [
+      109,
+      161
+    ],
+    "corrected": [
+      111
+    ],
+    "reactions": [
+      112
+    ],
+    "based": [
+      113
+    ],
+    "on": [
+      114
+    ],
+    "KEGG": [
+      115
+    ],
+    "MGOB": [
+      117
+    ],
+    "annotation.": [
+      118
+    ],
+    "Additionally,": [
+      119
+    ],
+    "conducted": [
+      121
+    ],
+    "phenotype": [
+      122
+    ],
+    "microarray": [
+      123
+    ],
+    "experiments": [
+      124
+    ],
+    "test": [
+      126
+    ],
+    "suitability": [
+      128
+    ],
+    "190": [
+      130
+    ],
+    "substrates": [
+      131,
+      150
+    ],
+    "sources.": [
+      134
+    ],
+    "Over": [
+      135
+    ],
+    "three-quarter": [
+      136
+    ],
+    "substrate": [
+      139
+    ],
+    "use": [
+      140
+    ],
+    "was": [
+      141
+    ],
+    "correctly": [
+      142
+    ],
+    "reproduced": [
+      143
+    ],
+    "27": [
+      148
+    ],
+    "new": [
+      149
+    ],
+    "were": [
+      151,
+      154
+    ],
+    "added,": [
+      152
+    ],
+    "that": [
+      153
+    ],
+    "not": [
+      155
+    ],
+    "present": [
+      156
+    ],
+    "in": [
+      157
+    ],
+    "K.": [
+      159
+    ],
+    "CONCLUSION:": [
+      163
+    ],
+    "The": [
+      164
+    ],
+    "developed": [
+      165
+    ],
+    "will": [
+      172
+    ],
+    "support": [
+      173
+    ],
+    "engineering": [
+      175
+    ],
+    "synthetic": [
+      177
+    ],
+    "enable": [
+      181
+    ],
+    "optimization": [
+      183
+    ],
+    "processes,": [
+      186
+    ],
+    "thereby": [
+      187
+    ],
+    "supporting": [
+      188
+    ],
+    "sustainable": [
+      190
+    ],
+    "future": [
+      191
+    ],
+    "economy.": [
+      193
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-22T08:00:12.763002",
+  "created_date": "2025-10-10T00:00:00"
+}

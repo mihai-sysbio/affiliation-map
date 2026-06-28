@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I277688954",
+  "ror": "https://ror.org/03xjwb503",
+  "display_name": "Université Paris-Saclay",
+  "country_code": "FR",
+  "type": "education",
+  "geo": {
+    "city": "Gif-sur-Yvette",
+    "geonames_city_id": "3016078",
+    "region": "Île-de-France",
+    "country_code": "FR",
+    "country": "France",
+    "latitude": 48.68333,
+    "longitude": 2.13333
+  }
+}

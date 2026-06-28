@@ -1,0 +1,617 @@
+{
+  "id": "https://openalex.org/W7151904352",
+  "doi": "https://doi.org/10.1073/pnas.2516511123",
+  "display_name": "Reconstruction of human metabolic models with large language models",
+  "publication_year": 2026,
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5010358431",
+        "display_name": "Jiahao Luo",
+        "orcid": "https://orcid.org/0000-0002-7111-1360"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110997",
+          "display_name": "Ministry of Education",
+          "ror": "https://ror.org/01xexqx38",
+          "country_code": "ME",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210110997"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210114105",
+          "display_name": "Tsinghua–Berkeley Shenzhen Institute",
+          "ror": "https://ror.org/02hhwwz98",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210114105",
+            "https://openalex.org/I95457486",
+            "https://openalex.org/I99065089"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99065089",
+          "display_name": "Tsinghua University",
+          "ror": "https://ror.org/03cve4549",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I99065089"
+          ]
+        }
+      ],
+      "countries": [
+        "CN",
+        "ME"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jiahao Luo",
+      "raw_affiliation_strings": [
+        "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University",
+        "Key Laboratory for Industrial Biocatalysis, Ministry of Education, Institute of Biochemical Engineering, Department of Chemical Engineering, Tsinghua University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University",
+          "institution_ids": [
+            "https://openalex.org/I4210114105",
+            "https://openalex.org/I99065089"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Key Laboratory for Industrial Biocatalysis, Ministry of Education, Institute of Biochemical Engineering, Department of Chemical Engineering, Tsinghua University",
+          "institution_ids": [
+            "https://openalex.org/I4210110997"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Hao Wang",
+        "orcid": "https://orcid.org/0000-0001-7475-0136"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hao Wang",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7475-0136",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5044759671",
+        "display_name": "Devlin C. Moyer",
+        "orcid": "https://orcid.org/0000-0002-6997-9531"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I111088046",
+          "display_name": "Boston University",
+          "ror": "https://ror.org/05qwgg493",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I111088046"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Devlin Moyer",
+      "raw_affiliation_strings": [
+        "Bioinformatics Program, Boston University",
+        "Department of Biology, Boston University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Bioinformatics Program, Boston University",
+          "institution_ids": [
+            "https://openalex.org/I111088046"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biology, Boston University",
+          "institution_ids": [
+            "https://openalex.org/I111088046"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5113426990",
+        "display_name": "Zhetao Guo",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110997",
+          "display_name": "Ministry of Education",
+          "ror": "https://ror.org/01xexqx38",
+          "country_code": "ME",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210110997"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210114105",
+          "display_name": "Tsinghua–Berkeley Shenzhen Institute",
+          "ror": "https://ror.org/02hhwwz98",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210114105",
+            "https://openalex.org/I95457486",
+            "https://openalex.org/I99065089"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99065089",
+          "display_name": "Tsinghua University",
+          "ror": "https://ror.org/03cve4549",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I99065089"
+          ]
+        }
+      ],
+      "countries": [
+        "CN",
+        "ME"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Zhetao Guo",
+      "raw_affiliation_strings": [
+        "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University",
+        "Key Laboratory for Industrial Biocatalysis, Ministry of Education, Institute of Biochemical Engineering, Department of Chemical Engineering, Tsinghua University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University",
+          "institution_ids": [
+            "https://openalex.org/I4210114105",
+            "https://openalex.org/I99065089"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Key Laboratory for Industrial Biocatalysis, Ministry of Education, Institute of Biochemical Engineering, Department of Chemical Engineering, Tsinghua University",
+          "institution_ids": [
+            "https://openalex.org/I4210110997"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5090227920",
+        "display_name": "Jonathan L. Robinson",
+        "orcid": "https://orcid.org/0000-0001-8567-5960"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210146628",
+          "display_name": "BioInnovation Institute",
+          "ror": "https://ror.org/048b3qc73",
+          "country_code": "DK",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210146628"
+          ]
+        }
+      ],
+      "countries": [
+        "DK"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jonathan L. Robinson",
+      "raw_affiliation_strings": [
+        "BioInnovation Institute"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "BioInnovation Institute",
+          "institution_ids": [
+            "https://openalex.org/I4210146628"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080173528",
+        "display_name": "Johan Gustafsson",
+        "orcid": "https://orcid.org/0000-0001-5072-2659"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I881427289",
+          "display_name": "University of Gothenburg",
+          "ror": "https://ror.org/01tm6cn81",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I881427289"
+          ]
+        }
+      ],
+      "countries": [
+        "SE",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Johan Gustafsson",
+      "raw_affiliation_strings": [
+        "Broad Institute of Massachusetts Institute of Technology and Harvard",
+        "Department of Medical Biochemistry and Cell Biology, Institute of Biomedicine, Sahlgrenska Academy, University of Gothenburg"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of Massachusetts Institute of Technology and Harvard",
+          "institution_ids": [
+            "https://openalex.org/I107606265",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Medical Biochemistry and Cell Biology, Institute of Biomedicine, Sahlgrenska Academy, University of Gothenburg",
+          "institution_ids": [
+            "https://openalex.org/I881427289"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5133150863",
+        "display_name": "Mihail Anton",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210138342",
+          "display_name": "Wellcome Connecting Science",
+          "ror": "https://ror.org/03v9cqb05",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I4210138342"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mihail Anton",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology",
+        "ELIXIR, Wellcome Genome Campus"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "ELIXIR, Wellcome Genome Campus",
+          "institution_ids": [
+            "https://openalex.org/I4210138342"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5133171656",
+        "display_name": "Yu Chen",
+        "orcid": "https://orcid.org/0000-0003-3326-9068"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210145761",
+          "display_name": "Shenzhen Institutes of Advanced Technology",
+          "ror": "https://ror.org/04gh4er46",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I19820366",
+            "https://openalex.org/I4210145761"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yu Chen",
+      "raw_affiliation_strings": [
+        "Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3326-9068",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences",
+          "institution_ids": [
+            "https://openalex.org/I4210145761"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5059167313",
+        "display_name": "Eduard J. Kerkhoven",
+        "orcid": "https://orcid.org/0000-0002-3593-5792"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800139495",
+          "display_name": "Science for Life Laboratory",
+          "ror": "https://ror.org/04ev03g22",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2800139495"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2801134892",
+          "display_name": "Novo Nordisk Foundation",
+          "ror": "https://ror.org/04txyc737",
+          "country_code": "DK",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801134892"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "DK",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eduard J. Kerkhoven",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology",
+        "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark",
+        "SciLifeLab, Chalmers University of Technology"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3593-5792",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark",
+          "institution_ids": [
+            "https://openalex.org/I2801134892"
+          ]
+        },
+        {
+          "raw_affiliation_string": "SciLifeLab, Chalmers University of Technology",
+          "institution_ids": [
+            "https://openalex.org/I66862912",
+            "https://openalex.org/I2800139495"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083238115",
+        "display_name": "Jens Nielsen",
+        "orcid": "https://orcid.org/0000-0002-9955-6003"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210146628",
+          "display_name": "BioInnovation Institute",
+          "ror": "https://ror.org/048b3qc73",
+          "country_code": "DK",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210146628"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "DK",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jens Nielsen",
+      "raw_affiliation_strings": [
+        "BioInnovation Institute",
+        "Department of Life Sciences, Chalmers University of Technology"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9955-6003",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "BioInnovation Institute",
+          "institution_ids": [
+            "https://openalex.org/I4210146628"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5100731088",
+        "display_name": "Feiran Li",
+        "orcid": "https://orcid.org/0000-0001-9155-5260"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110997",
+          "display_name": "Ministry of Education",
+          "ror": "https://ror.org/01xexqx38",
+          "country_code": "ME",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210110997"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210114105",
+          "display_name": "Tsinghua–Berkeley Shenzhen Institute",
+          "ror": "https://ror.org/02hhwwz98",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210114105",
+            "https://openalex.org/I95457486",
+            "https://openalex.org/I99065089"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99065089",
+          "display_name": "Tsinghua University",
+          "ror": "https://ror.org/03cve4549",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I99065089"
+          ]
+        }
+      ],
+      "countries": [
+        "CN",
+        "ME"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Feiran Li",
+      "raw_affiliation_strings": [
+        "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University",
+        "Key Laboratory for Industrial Biocatalysis, Ministry of Education, Institute of Biochemical Engineering, Department of Chemical Engineering, Tsinghua University"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-9155-5260",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University",
+          "institution_ids": [
+            "https://openalex.org/I4210114105",
+            "https://openalex.org/I99065089"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Key Laboratory for Industrial Biocatalysis, Ministry of Education, Institute of Biochemical Engineering, Department of Chemical Engineering, Tsinghua University",
+          "institution_ids": [
+            "https://openalex.org/I4210110997"
+          ]
+        }
+      ]
+    }
+  ]
+}

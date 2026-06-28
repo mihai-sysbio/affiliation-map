@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I8087733",
+  "ror": "https://ror.org/03a1kwz48",
+  "display_name": "University of Tübingen",
+  "country_code": "DE",
+  "type": "education",
+  "geo": {
+    "city": "Tübingen",
+    "geonames_city_id": "2820860",
+    "region": null,
+    "country_code": "DE",
+    "country": "Germany",
+    "latitude": 48.52265930175781,
+    "longitude": 9.052220344543457
+  }
+}

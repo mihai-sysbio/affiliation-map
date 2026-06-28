@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I4210138342",
+  "ror": "https://ror.org/03v9cqb05",
+  "display_name": "Wellcome Connecting Science",
+  "country_code": "GB",
+  "type": "other",
+  "geo": {
+    "city": "Cambridge",
+    "geonames_city_id": "2653941",
+    "region": null,
+    "country_code": "GB",
+    "country": "United Kingdom",
+    "latitude": 52.07892608642578,
+    "longitude": 0.18798969686031342
+  }
+}

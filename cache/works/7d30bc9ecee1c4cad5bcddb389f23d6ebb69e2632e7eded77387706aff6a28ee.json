@@ -1,0 +1,736 @@
+{
+  "id": "https://openalex.org/W3183463549",
+  "doi": "https://doi.org/10.1073/pnas.2102344118",
+  "display_name": "Genome-scale metabolic network reconstruction of model animals as a platform for translational research",
+  "publication_year": 2021,
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5100663368",
+        "display_name": "Hao Wang",
+        "orcid": "https://orcid.org/0000-0001-7475-0136"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800139495",
+          "display_name": "Science for Life Laboratory",
+          "ror": "https://ror.org/04ev03g22",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2800139495"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210124641",
+          "display_name": "Wallenberg Wood Science Center",
+          "ror": "https://ror.org/039qvmf95",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I102134673",
+            "https://openalex.org/I4210124641",
+            "https://openalex.org/I66862912",
+            "https://openalex.org/I86987016"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I881427289",
+          "display_name": "University of Gothenburg",
+          "ror": "https://ror.org/01tm6cn81",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I881427289"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hao Wang",
+      "raw_affiliation_strings": [
+        "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+        "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+        "Wallenberg Center for Molecular and Translational Medicine, University of Gothenburg, 405 30 Gothenburg, Sweden;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7475-0136",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I2800139495",
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Wallenberg Center for Molecular and Translational Medicine, University of Gothenburg, 405 30 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I4210124641",
+            "https://openalex.org/I881427289"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5090227920",
+        "display_name": "Jonathan L. Robinson",
+        "orcid": "https://orcid.org/0000-0001-8567-5960"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800139495",
+          "display_name": "Science for Life Laboratory",
+          "ror": "https://ror.org/04ev03g22",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2800139495"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jonathan L. Robinson",
+      "raw_affiliation_strings": [
+        "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+        "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8567-5960",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I2800139495",
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006192970",
+        "display_name": "Pınar Kocabaş",
+        "orcid": "https://orcid.org/0000-0001-9788-2019"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pinar Kocabas",
+      "raw_affiliation_strings": [
+        "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-9788-2019",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080173528",
+        "display_name": "Johan Gustafsson",
+        "orcid": "https://orcid.org/0000-0001-5072-2659"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Johan Gustafsson",
+      "raw_affiliation_strings": [
+        "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5072-2659",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5038426035",
+        "display_name": "Mihail Anton",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800139495",
+          "display_name": "Science for Life Laboratory",
+          "ror": "https://ror.org/04ev03g22",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2800139495"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mihail Anton",
+      "raw_affiliation_strings": [
+        "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7753-9042",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I2800139495",
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003839767",
+        "display_name": "Pierre‐Etienne Cholley",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800139495",
+          "display_name": "Science for Life Laboratory",
+          "ror": "https://ror.org/04ev03g22",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2800139495"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pierre-Etienne Cholley",
+      "raw_affiliation_strings": [
+        "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I2800139495",
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5075436060",
+        "display_name": "Shan Huang",
+        "orcid": "https://orcid.org/0000-0002-7375-5215"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800139495",
+          "display_name": "Science for Life Laboratory",
+          "ror": "https://ror.org/04ev03g22",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2800139495"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shan Huang",
+      "raw_affiliation_strings": [
+        "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I2800139495",
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005557542",
+        "display_name": "Johan Gobom",
+        "orcid": "https://orcid.org/0000-0001-6193-6193"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I881427289",
+          "display_name": "University of Gothenburg",
+          "ror": "https://ror.org/01tm6cn81",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I881427289"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Johan Gobom",
+      "raw_affiliation_strings": [
+        "Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, Sahlgrenska Academy at University of Gothenburg, 431 30 Mölndal, Sweden;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, Sahlgrenska Academy at University of Gothenburg, 431 30 Mölndal, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I881427289"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5050285122",
+        "display_name": "Thomas Svensson",
+        "orcid": "https://orcid.org/0000-0002-9190-2979"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800139495",
+          "display_name": "Science for Life Laboratory",
+          "ror": "https://ror.org/04ev03g22",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2800139495"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Thomas Svensson",
+      "raw_affiliation_strings": [
+        "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9190-2979",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I2800139495",
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5060241561",
+        "display_name": "Mathias Uhlén",
+        "orcid": "https://orcid.org/0000-0002-4858-8056"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800139495",
+          "display_name": "Science for Life Laboratory",
+          "ror": "https://ror.org/04ev03g22",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2800139495"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2801134892",
+          "display_name": "Novo Nordisk Foundation",
+          "ror": "https://ror.org/04txyc737",
+          "country_code": "DK",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801134892"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210124641",
+          "display_name": "Wallenberg Wood Science Center",
+          "ror": "https://ror.org/039qvmf95",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I102134673",
+            "https://openalex.org/I4210124641",
+            "https://openalex.org/I66862912",
+            "https://openalex.org/I86987016"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I86987016",
+          "display_name": "KTH Royal Institute of Technology",
+          "ror": "https://ror.org/026vcq606",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I86987016"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I96673099",
+          "display_name": "Technical University of Denmark",
+          "ror": "https://ror.org/04qtj9h94",
+          "country_code": "DK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ],
+      "countries": [
+        "DK",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mattias Uhlen",
+      "raw_affiliation_strings": [
+        "Department of Protein Science, Science for Life Laboratory, KTH–Royal Institute of Technology, SE-100 44 Stockholm, Sweden;",
+        "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark;",
+        "Wallenberg Center for Protein Research, KTH–Royal Institute of Technology, SE-100 44 Stockholm, Sweden;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Protein Science, Science for Life Laboratory, KTH–Royal Institute of Technology, SE-100 44 Stockholm, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I2800139495",
+            "https://openalex.org/I86987016"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark;",
+          "institution_ids": [
+            "https://openalex.org/I2801134892",
+            "https://openalex.org/I96673099"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Wallenberg Center for Protein Research, KTH–Royal Institute of Technology, SE-100 44 Stockholm, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I4210124641",
+            "https://openalex.org/I86987016"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079766290",
+        "display_name": "Henrik Zetterberg",
+        "orcid": "https://orcid.org/0000-0003-3930-4354"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801112325",
+          "display_name": "Sahlgrenska University Hospital",
+          "ror": "https://ror.org/04vgqjj36",
+          "country_code": "SE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801112325"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210126463",
+          "display_name": "UK Dementia Research Institute",
+          "ror": "https://ror.org/02wedp412",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210126463"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210151618",
+          "display_name": "National Hospital for Neurology and Neurosurgery",
+          "ror": "https://ror.org/048b34d51",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1340918713",
+            "https://openalex.org/I4210151618"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I45129253",
+          "display_name": "University College London",
+          "ror": "https://ror.org/02jx3x895",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I124357947",
+            "https://openalex.org/I45129253"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I881427289",
+          "display_name": "University of Gothenburg",
+          "ror": "https://ror.org/01tm6cn81",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I881427289"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Henrik Zetterberg",
+      "raw_affiliation_strings": [
+        "Clinical Neurochemistry Laboratory, Sahlgrenska University Hospital, 431 30 Mölndal, Sweden;",
+        "Department of Neurodegenerative Disease, University College London Queen Square Institute of Neurology, London WC1E 6BT, United Kingdom;",
+        "Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, Sahlgrenska Academy at University of Gothenburg, 431 30 Mölndal, Sweden;",
+        "UK Dementia Research Institute, University College London, London WC1E 6BT, United Kingdom;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3930-4354",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Clinical Neurochemistry Laboratory, Sahlgrenska University Hospital, 431 30 Mölndal, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I2801112325"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Neurodegenerative Disease, University College London Queen Square Institute of Neurology, London WC1E 6BT, United Kingdom;",
+          "institution_ids": [
+            "https://openalex.org/I45129253",
+            "https://openalex.org/I4210151618"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, Sahlgrenska Academy at University of Gothenburg, 431 30 Mölndal, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I881427289"
+          ]
+        },
+        {
+          "raw_affiliation_string": "UK Dementia Research Institute, University College London, London WC1E 6BT, United Kingdom;",
+          "institution_ids": [
+            "https://openalex.org/I4210126463",
+            "https://openalex.org/I45129253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5083238115",
+        "display_name": "Jens Nielsen",
+        "orcid": "https://orcid.org/0000-0002-9955-6003"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801134892",
+          "display_name": "Novo Nordisk Foundation",
+          "ror": "https://ror.org/04txyc737",
+          "country_code": "DK",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801134892"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210146628",
+          "display_name": "BioInnovation Institute",
+          "ror": "https://ror.org/048b3qc73",
+          "country_code": "DK",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210146628"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I96673099",
+          "display_name": "Technical University of Denmark",
+          "ror": "https://ror.org/04qtj9h94",
+          "country_code": "DK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ],
+      "countries": [
+        "DK",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jens Nielsen",
+      "raw_affiliation_strings": [
+        "BioInnovation Institute, DK2200 Copenhagen, Denmark",
+        "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+        "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9955-6003",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "BioInnovation Institute, DK2200 Copenhagen, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I4210146628"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark;",
+          "institution_ids": [
+            "https://openalex.org/I2801134892",
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "id": "https://openalex.org/W4409122260",
+  "doi": "https://doi.org/10.1016/j.csbj.2025.03.049",
+  "display_name": "Insights into optimization of oleaginous fungi – genome-scale metabolic reconstruction and analysis of <i>Umbelopsis</i> sp. WA50703",
+  "publication_year": 2025,
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5021830272",
+        "display_name": "Mikołaj Dziurzyński",
+        "orcid": "https://orcid.org/0000-0002-5593-9432"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210099030",
+          "display_name": "LAM Foundation",
+          "ror": "https://ror.org/012xhfk02",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210099030"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I45084792",
+          "display_name": "University of Florence",
+          "ror": "https://ror.org/04jr1s763",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I45084792"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "IT",
+        "PL",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mikołaj Dziurzyński",
+      "raw_affiliation_strings": [
+        "Department of Biology, University of Florence, Via Madonna del Piano 6, Sesto Fiorentino, FI 50019, Italy",
+        "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology, University of Florence, Via Madonna del Piano 6, Sesto Fiorentino, FI 50019, Italy",
+          "institution_ids": [
+            "https://openalex.org/I45084792",
+            "https://openalex.org/I4210099030"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Maksymilian E. Nowak",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maksymilian E. Nowak",
+      "raw_affiliation_strings": [
+        "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057969314",
+        "display_name": "Maria Furman",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maria Furman",
+      "raw_affiliation_strings": [
+        "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5061910014",
+        "display_name": "Alicja Okrasińska",
+        "orcid": "https://orcid.org/0000-0002-3402-1526"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alicja Okrasińska",
+      "raw_affiliation_strings": [
+        "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037491546",
+        "display_name": "Julia Pawłowska",
+        "orcid": "https://orcid.org/0000-0003-4914-5182"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Julia Pawłowska",
+      "raw_affiliation_strings": [
+        "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5068198320",
+        "display_name": "Marco Fondi",
+        "orcid": "https://orcid.org/0000-0001-9291-5467"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210099030",
+          "display_name": "LAM Foundation",
+          "ror": "https://ror.org/012xhfk02",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210099030"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I45084792",
+          "display_name": "University of Florence",
+          "ror": "https://ror.org/04jr1s763",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I45084792"
+          ]
+        }
+      ],
+      "countries": [
+        "IT",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marco Fondi",
+      "raw_affiliation_strings": [
+        "Department of Biology, University of Florence, Via Madonna del Piano 6, Sesto Fiorentino, FI 50019, Italy"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology, University of Florence, Via Madonna del Piano 6, Sesto Fiorentino, FI 50019, Italy",
+          "institution_ids": [
+            "https://openalex.org/I45084792",
+            "https://openalex.org/I4210099030"
+          ]
+        }
+      ]
+    }
+  ]
+}

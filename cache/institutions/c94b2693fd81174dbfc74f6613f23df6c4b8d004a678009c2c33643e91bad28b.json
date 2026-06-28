@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I865915315",
+  "ror": "https://ror.org/008xxew50",
+  "display_name": "Vrije Universiteit Amsterdam",
+  "country_code": "NL",
+  "type": "education",
+  "geo": {
+    "city": "Amsterdam",
+    "geonames_city_id": "2759794",
+    "region": "North Holland",
+    "country_code": "NL",
+    "country": "The Netherlands",
+    "latitude": 52.37403,
+    "longitude": 4.88969
+  }
+}

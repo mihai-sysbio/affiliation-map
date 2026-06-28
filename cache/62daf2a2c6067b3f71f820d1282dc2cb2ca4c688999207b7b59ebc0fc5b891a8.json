@@ -1,0 +1,1888 @@
+{
+  "id": "https://openalex.org/W7140173396",
+  "doi": "https://doi.org/10.1007/s00253-026-13791-4",
+  "title": "Enzyme-constrained genome-scale model of Yarrowia lipolytica predicts growth-phase specific metabolic engineering targets",
+  "display_name": "Enzyme-constrained genome-scale model of Yarrowia lipolytica predicts growth-phase specific metabolic engineering targets",
+  "publication_year": 2026,
+  "publication_date": "2026-03-24",
+  "ids": {
+    "openalex": "https://openalex.org/W7140173396",
+    "doi": "https://doi.org/10.1007/s00253-026-13791-4",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/41876849"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/s00253-026-13791-4",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s00253-026-13791-4",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00253-026-13791-4.pdf",
+    "source": {
+      "id": "https://openalex.org/S70979998",
+      "display_name": "Applied Microbiology and Biotechnology",
+      "issn_l": "0175-7598",
+      "issn": [
+        "0175-7598",
+        "1432-0614"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Applied Microbiology and Biotechnology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s00253-026-13791-4.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": null,
+        "display_name": "Juliano Sabedotti De Biaggi",
+        "orcid": "https://orcid.org/0000-0003-3893-1006"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I111112146",
+          "display_name": "Tallinn University of Technology",
+          "ror": "https://ror.org/0443cwa12",
+          "country_code": "EE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I111112146"
+          ]
+        }
+      ],
+      "countries": [
+        "EE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Juliano Sabedotti De Biaggi",
+      "raw_affiliation_strings": [
+        "Department of Chemistry and Biotechnology, Tallinn University of Technology, Tallinn, Estonia"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3893-1006",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Chemistry and Biotechnology, Tallinn University of Technology, Tallinn, Estonia",
+          "institution_ids": [
+            "https://openalex.org/I111112146"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Young-Kyoung Park",
+        "orcid": "https://orcid.org/0000-0003-1989-7498"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I22248866",
+          "display_name": "AgroParisTech",
+          "ror": "https://ror.org/02kbmgc12",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I22248866",
+            "https://openalex.org/I277688954"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I277688954",
+          "display_name": "Université Paris-Saclay",
+          "ror": "https://ror.org/03xjwb503",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I277688954"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I3017594750",
+          "display_name": "Microbiologie de l’alimentation au service de la santé",
+          "ror": "https://ror.org/0471cyx86",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I22248866",
+            "https://openalex.org/I277688954",
+            "https://openalex.org/I277688954",
+            "https://openalex.org/I3017594750",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I4210099460"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210088668",
+          "display_name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+          "ror": "https://ror.org/003vg9w96",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210088668"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I47508984",
+          "display_name": "Imperial College London",
+          "ror": "https://ror.org/041kmwe10",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47508984"
+          ]
+        }
+      ],
+      "countries": [
+        "FR",
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Young-Kyoung Park",
+      "raw_affiliation_strings": [
+        "Department of Bioengineering and Imperial College Centre for Synthetic Biology, Imperial College London, London, UK",
+        "Micalis Institute, Université Paris-Saclay, INRAE, AgroParisTech, Jouy-en-Josas, France"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1989-7498",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Bioengineering and Imperial College Centre for Synthetic Biology, Imperial College London, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I47508984"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Micalis Institute, Université Paris-Saclay, INRAE, AgroParisTech, Jouy-en-Josas, France",
+          "institution_ids": [
+            "https://openalex.org/I3017594750",
+            "https://openalex.org/I22248866",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I277688954"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Eduard J. Kerkhoven",
+        "orcid": "https://orcid.org/0000-0002-3593-5792"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801134892",
+          "display_name": "Novo Nordisk Foundation",
+          "ror": "https://ror.org/04txyc737",
+          "country_code": "DK",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801134892"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I96673099",
+          "display_name": "Technical University of Denmark",
+          "ror": "https://ror.org/04qtj9h94",
+          "country_code": "DK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ],
+      "countries": [
+        "DK",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eduard J. Kerkhoven",
+      "raw_affiliation_strings": [
+        "Department of Biology and Biological Engineering, Chalmers University of Technology, Gothenburg, Sweden",
+        "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, Lyngby, Denmark"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3593-5792",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, Chalmers University of Technology, Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, Lyngby, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I2801134892",
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Rodrigo Ledesma-Amaro",
+        "orcid": "https://orcid.org/0000-0003-2631-5898"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47508984",
+          "display_name": "Imperial College London",
+          "ror": "https://ror.org/041kmwe10",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47508984"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rodrigo Ledesma-Amaro",
+      "raw_affiliation_strings": [
+        "Bezos Centre for Sustainable Protein, Imperial College London, London, UK",
+        "Department of Bioengineering and Imperial College Centre for Synthetic Biology, Imperial College London, London, UK",
+        "UKRI Mission Hub On Microbial Food, Imperial College London, London, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-2631-5898",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Bezos Centre for Sustainable Protein, Imperial College London, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I47508984"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Bioengineering and Imperial College Centre for Synthetic Biology, Imperial College London, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I47508984"
+          ]
+        },
+        {
+          "raw_affiliation_string": "UKRI Mission Hub On Microbial Food, Imperial College London, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I47508984"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": null,
+        "display_name": "Petri-Jaan Lahtvee",
+        "orcid": "https://orcid.org/0000-0002-3327-3190"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I111112146",
+          "display_name": "Tallinn University of Technology",
+          "ror": "https://ror.org/0443cwa12",
+          "country_code": "EE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I111112146"
+          ]
+        }
+      ],
+      "countries": [
+        "EE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Petri-Jaan Lahtvee",
+      "raw_affiliation_strings": [
+        "Department of Chemistry and Biotechnology, Tallinn University of Technology, Tallinn, Estonia. lahtvee@taltech.ee"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3327-3190",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Chemistry and Biotechnology, Tallinn University of Technology, Tallinn, Estonia. lahtvee@taltech.ee",
+          "institution_ids": [
+            "https://openalex.org/I111112146"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 5,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I111112146"
+  ],
+  "apc_list": {
+    "value": 3390,
+    "currency": "EUR",
+    "value_usd": 4390
+  },
+  "apc_paid": {
+    "value": 3390,
+    "currency": "EUR",
+    "value_usd": 4390
+  },
+  "fwci": 0.0,
+  "has_fulltext": true,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.36591972,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "110",
+    "issue": "1",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10932",
+    "display_name": "Microbial Metabolic Engineering and Bioproduction",
+    "score": 0.9977999925613403,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10932",
+      "display_name": "Microbial Metabolic Engineering and Bioproduction",
+      "score": 0.9977999925613403,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10404",
+      "display_name": "Enzyme Catalysis and Immobilization",
+      "score": 0.0006000000284984708,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10621",
+      "display_name": "Gene Regulatory Network Analysis",
+      "score": 0.00019999999494757503,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/yarrowia",
+      "display_name": "Yarrowia",
+      "score": 0.9588000178337097
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolic-engineering",
+      "display_name": "Metabolic engineering",
+      "score": 0.8863999843597412
+    },
+    {
+      "id": "https://openalex.org/keywords/in-silico",
+      "display_name": "In silico",
+      "score": 0.6067000031471252
+    },
+    {
+      "id": "https://openalex.org/keywords/proteomics",
+      "display_name": "Proteomics",
+      "score": 0.5482000112533569
+    },
+    {
+      "id": "https://openalex.org/keywords/yeast",
+      "display_name": "Yeast",
+      "score": 0.5210000276565552
+    },
+    {
+      "id": "https://openalex.org/keywords/protein-engineering",
+      "display_name": "Protein engineering",
+      "score": 0.4440999925136566
+    },
+    {
+      "id": "https://openalex.org/keywords/flux",
+      "display_name": "Flux (metallurgy)",
+      "score": 0.43880000710487366
+    },
+    {
+      "id": "https://openalex.org/keywords/synthetic-biology",
+      "display_name": "Synthetic biology",
+      "score": 0.4196999967098236
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolic-pathway",
+      "display_name": "Metabolic pathway",
+      "score": 0.4194999933242798
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779490540",
+      "wikidata": "https://www.wikidata.org/wiki/Q10723443",
+      "display_name": "Yarrowia",
+      "level": 3,
+      "score": 0.9588000178337097
+    },
+    {
+      "id": "https://openalex.org/C6350086",
+      "wikidata": "https://www.wikidata.org/wiki/Q6822347",
+      "display_name": "Metabolic engineering",
+      "level": 3,
+      "score": 0.8863999843597412
+    },
+    {
+      "id": "https://openalex.org/C2775905019",
+      "wikidata": "https://www.wikidata.org/wiki/Q192572",
+      "display_name": "In silico",
+      "level": 3,
+      "score": 0.6067000031471252
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.5842000246047974
+    },
+    {
+      "id": "https://openalex.org/C46111723",
+      "wikidata": "https://www.wikidata.org/wiki/Q471857",
+      "display_name": "Proteomics",
+      "level": 3,
+      "score": 0.5482000112533569
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.5442000031471252
+    },
+    {
+      "id": "https://openalex.org/C2779222958",
+      "wikidata": "https://www.wikidata.org/wiki/Q45422",
+      "display_name": "Yeast",
+      "level": 2,
+      "score": 0.5210000276565552
+    },
+    {
+      "id": "https://openalex.org/C147816474",
+      "wikidata": "https://www.wikidata.org/wiki/Q169525",
+      "display_name": "Protein engineering",
+      "level": 3,
+      "score": 0.4440999925136566
+    },
+    {
+      "id": "https://openalex.org/C68709404",
+      "wikidata": "https://www.wikidata.org/wiki/Q1134475",
+      "display_name": "Flux (metallurgy)",
+      "level": 2,
+      "score": 0.43880000710487366
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.4375
+    },
+    {
+      "id": "https://openalex.org/C191908910",
+      "wikidata": "https://www.wikidata.org/wiki/Q862838",
+      "display_name": "Synthetic biology",
+      "level": 2,
+      "score": 0.4196999967098236
+    },
+    {
+      "id": "https://openalex.org/C192989942",
+      "wikidata": "https://www.wikidata.org/wiki/Q68685",
+      "display_name": "Metabolic pathway",
+      "level": 3,
+      "score": 0.4194999933242798
+    },
+    {
+      "id": "https://openalex.org/C28781525",
+      "wikidata": "https://www.wikidata.org/wiki/Q191907",
+      "display_name": "Carotenoid",
+      "level": 2,
+      "score": 0.41929998993873596
+    },
+    {
+      "id": "https://openalex.org/C19843653",
+      "wikidata": "https://www.wikidata.org/wiki/Q213907",
+      "display_name": "Model organism",
+      "level": 3,
+      "score": 0.39660000801086426
+    },
+    {
+      "id": "https://openalex.org/C160941953",
+      "wikidata": "https://www.wikidata.org/wiki/Q6822342",
+      "display_name": "Metabolic flux analysis",
+      "level": 3,
+      "score": 0.38429999351501465
+    },
+    {
+      "id": "https://openalex.org/C181199279",
+      "wikidata": "https://www.wikidata.org/wiki/Q8047",
+      "display_name": "Enzyme",
+      "level": 2,
+      "score": 0.3659000098705292
+    },
+    {
+      "id": "https://openalex.org/C21565614",
+      "wikidata": "https://www.wikidata.org/wiki/Q12149006",
+      "display_name": "Metabolomics",
+      "level": 2,
+      "score": 0.3458000123500824
+    },
+    {
+      "id": "https://openalex.org/C101810790",
+      "wikidata": "https://www.wikidata.org/wiki/Q2263094",
+      "display_name": "Metabolic network",
+      "level": 2,
+      "score": 0.3425000011920929
+    },
+    {
+      "id": "https://openalex.org/C152662350",
+      "wikidata": "https://www.wikidata.org/wiki/Q815297",
+      "display_name": "Systems biology",
+      "level": 2,
+      "score": 0.3296999931335449
+    },
+    {
+      "id": "https://openalex.org/C2777576037",
+      "wikidata": "https://www.wikidata.org/wiki/Q719725",
+      "display_name": "Saccharomyces cerevisiae",
+      "level": 3,
+      "score": 0.3199999928474426
+    },
+    {
+      "id": "https://openalex.org/C150903083",
+      "wikidata": "https://www.wikidata.org/wiki/Q7108",
+      "display_name": "Biotechnology",
+      "level": 1,
+      "score": 0.31869998574256897
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.289000004529953
+    },
+    {
+      "id": "https://openalex.org/C145290725",
+      "wikidata": "https://www.wikidata.org/wiki/Q5533489",
+      "display_name": "Genome engineering",
+      "level": 5,
+      "score": 0.26759999990463257
+    },
+    {
+      "id": "https://openalex.org/C77957584",
+      "wikidata": "https://www.wikidata.org/wiki/Q1133550",
+      "display_name": "Gene knockout",
+      "level": 3,
+      "score": 0.26019999384880066
+    },
+    {
+      "id": "https://openalex.org/C98108389",
+      "wikidata": "https://www.wikidata.org/wiki/Q412563",
+      "display_name": "CRISPR",
+      "level": 3,
+      "score": 0.25189998745918274
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D002338",
+      "descriptor_name": "Carotenoids",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002338",
+      "descriptor_name": "Carotenoids",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002338",
+      "descriptor_name": "Carotenoids",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002338",
+      "descriptor_name": "Carotenoids",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016681",
+      "descriptor_name": "Genome, Fungal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016681",
+      "descriptor_name": "Genome, Fungal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016681",
+      "descriptor_name": "Genome, Fungal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016681",
+      "descriptor_name": "Genome, Fungal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025062",
+      "descriptor_name": "Yarrowia",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025062",
+      "descriptor_name": "Yarrowia",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025062",
+      "descriptor_name": "Yarrowia",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025062",
+      "descriptor_name": "Yarrowia",
+      "qualifier_ui": "Q000201",
+      "qualifier_name": "enzymology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025062",
+      "descriptor_name": "Yarrowia",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025062",
+      "descriptor_name": "Yarrowia",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025062",
+      "descriptor_name": "Yarrowia",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025062",
+      "descriptor_name": "Yarrowia",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025062",
+      "descriptor_name": "Yarrowia",
+      "qualifier_ui": "Q000254",
+      "qualifier_name": "growth & development",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025062",
+      "descriptor_name": "Yarrowia",
+      "qualifier_ui": "Q000254",
+      "qualifier_name": "growth & development",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025062",
+      "descriptor_name": "Yarrowia",
+      "qualifier_ui": "Q000254",
+      "qualifier_name": "growth & development",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025062",
+      "descriptor_name": "Yarrowia",
+      "qualifier_ui": "Q000254",
+      "qualifier_name": "growth & development",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025062",
+      "descriptor_name": "Yarrowia",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025062",
+      "descriptor_name": "Yarrowia",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025062",
+      "descriptor_name": "Yarrowia",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025062",
+      "descriptor_name": "Yarrowia",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D060847",
+      "descriptor_name": "Metabolic Engineering",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D060847",
+      "descriptor_name": "Metabolic Engineering",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D060847",
+      "descriptor_name": "Metabolic Engineering",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D060847",
+      "descriptor_name": "Metabolic Engineering",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1007/s00253-026-13791-4",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s00253-026-13791-4",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00253-026-13791-4.pdf",
+      "source": {
+        "id": "https://openalex.org/S70979998",
+        "display_name": "Applied Microbiology and Biotechnology",
+        "issn_l": "0175-7598",
+        "issn": [
+          "0175-7598",
+          "1432-0614"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Applied Microbiology and Biotechnology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:41876849",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41876849",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Applied microbiology and biotechnology",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:4639086e05434eba8cf36d2fad865d1a",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/4639086e05434eba8cf36d2fad865d1a",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Applied Microbiology and Biotechnology, Vol 110, Iss 1 (2026)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:13018022",
+      "is_oa": true,
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13018022/",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Appl Microbiol Biotechnol",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1007/s00253-026-13791-4",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s00253-026-13791-4",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00253-026-13791-4.pdf",
+    "source": {
+      "id": "https://openalex.org/S70979998",
+      "display_name": "Applied Microbiology and Biotechnology",
+      "issn_l": "0175-7598",
+      "issn": [
+        "0175-7598",
+        "1432-0614"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Applied Microbiology and Biotechnology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Industry, innovation and infrastructure",
+      "id": "https://metadata.un.org/sdg/9",
+      "score": 0.5793054103851318
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G4671622897",
+      "display_name": "Centre for Digitalisation of Biology Towards the Next-Generation of Biosustainable Products",
+      "funder_award_id": "101060066",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    },
+    {
+      "id": "https://openalex.org/G6645683556",
+      "display_name": "A novel 3D-printable cell factory platform for growth-decoupled oleochemical production",
+      "funder_award_id": "PRG1101",
+      "funder_id": "https://openalex.org/F4320321090",
+      "funder_display_name": "Eesti Teadusagentuur"
+    },
+    {
+      "id": "https://openalex.org/G7361212524",
+      "display_name": null,
+      "funder_award_id": "NNF20CC0035580",
+      "funder_id": "https://openalex.org/F4320322436",
+      "funder_display_name": "Novo Nordisk"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320300",
+      "display_name": "European Commission",
+      "ror": "https://ror.org/00k4n6c32"
+    },
+    {
+      "id": "https://openalex.org/F4320321090",
+      "display_name": "Eesti Teadusagentuur",
+      "ror": "https://ror.org/00jjeja18"
+    },
+    {
+      "id": "https://openalex.org/F4320322436",
+      "display_name": "Novo Nordisk",
+      "ror": "https://ror.org/0435rc536"
+    },
+    {
+      "id": "https://openalex.org/F4320324717",
+      "display_name": "Tartu Ülikool",
+      "ror": "https://ror.org/03z77qz90"
+    },
+    {
+      "id": "https://openalex.org/F4320330327",
+      "display_name": "Bio-Based Industries Joint Undertaking",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320334322",
+      "display_name": "HORIZON EUROPE Framework Programme",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W7140173396.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W7140173396.grobid-xml"
+  },
+  "referenced_works_count": 86,
+  "referenced_works": [
+    "https://openalex.org/W600664825",
+    "https://openalex.org/W1821513802",
+    "https://openalex.org/W1997814644",
+    "https://openalex.org/W2010930876",
+    "https://openalex.org/W2011165811",
+    "https://openalex.org/W2014390233",
+    "https://openalex.org/W2029344956",
+    "https://openalex.org/W2030028650",
+    "https://openalex.org/W2053941926",
+    "https://openalex.org/W2056077497",
+    "https://openalex.org/W2059129694",
+    "https://openalex.org/W2064369768",
+    "https://openalex.org/W2077007776",
+    "https://openalex.org/W2100818174",
+    "https://openalex.org/W2101442503",
+    "https://openalex.org/W2110065044",
+    "https://openalex.org/W2116875566",
+    "https://openalex.org/W2120469353",
+    "https://openalex.org/W2157618287",
+    "https://openalex.org/W2167778120",
+    "https://openalex.org/W2170568766",
+    "https://openalex.org/W2179959243",
+    "https://openalex.org/W2281403128",
+    "https://openalex.org/W2292710945",
+    "https://openalex.org/W2305489066",
+    "https://openalex.org/W2307026163",
+    "https://openalex.org/W2333535089",
+    "https://openalex.org/W2556043117",
+    "https://openalex.org/W2581114049",
+    "https://openalex.org/W2588176324",
+    "https://openalex.org/W2594152625",
+    "https://openalex.org/W2606736518",
+    "https://openalex.org/W2606882994",
+    "https://openalex.org/W2620982100",
+    "https://openalex.org/W2622780413",
+    "https://openalex.org/W2738705446",
+    "https://openalex.org/W2743063996",
+    "https://openalex.org/W2751459733",
+    "https://openalex.org/W2762949402",
+    "https://openalex.org/W2766828758",
+    "https://openalex.org/W2771919627",
+    "https://openalex.org/W2790533646",
+    "https://openalex.org/W2790730158",
+    "https://openalex.org/W2893777397",
+    "https://openalex.org/W2900884817",
+    "https://openalex.org/W2908673981",
+    "https://openalex.org/W2945383161",
+    "https://openalex.org/W2947939038",
+    "https://openalex.org/W2952117162",
+    "https://openalex.org/W2952716115",
+    "https://openalex.org/W2991106430",
+    "https://openalex.org/W3007692091",
+    "https://openalex.org/W3010309156",
+    "https://openalex.org/W3010629926",
+    "https://openalex.org/W3030585546",
+    "https://openalex.org/W3037693826",
+    "https://openalex.org/W3040847842",
+    "https://openalex.org/W3054615252",
+    "https://openalex.org/W3109520851",
+    "https://openalex.org/W3118910711",
+    "https://openalex.org/W3124791515",
+    "https://openalex.org/W3156950803",
+    "https://openalex.org/W3180768485",
+    "https://openalex.org/W3197326195",
+    "https://openalex.org/W3207384173",
+    "https://openalex.org/W4211035205",
+    "https://openalex.org/W4280630121",
+    "https://openalex.org/W4283032119",
+    "https://openalex.org/W4283733937",
+    "https://openalex.org/W4285726023",
+    "https://openalex.org/W4297785768",
+    "https://openalex.org/W4302423640",
+    "https://openalex.org/W4303520734",
+    "https://openalex.org/W4320493296",
+    "https://openalex.org/W4353020485",
+    "https://openalex.org/W4360868603",
+    "https://openalex.org/W4367047797",
+    "https://openalex.org/W4380854283",
+    "https://openalex.org/W4389045819",
+    "https://openalex.org/W4390971823",
+    "https://openalex.org/W4404046121",
+    "https://openalex.org/W4408361282",
+    "https://openalex.org/W6893134732",
+    "https://openalex.org/W6925396842",
+    "https://openalex.org/W6930802123",
+    "https://openalex.org/W7094953523"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "The": [
+      0
+    ],
+    "oleaginous": [
+      1
+    ],
+    "yeast": [
+      2
+    ],
+    "Yarrowia": [
+      3
+    ],
+    "lipolytica": [
+      4,
+      71,
+      83,
+      112,
+      236,
+      260
+    ],
+    "has": [
+      5,
+      64
+    ],
+    "been": [
+      6,
+      67
+    ],
+    "gaining": [
+      7
+    ],
+    "increasing": [
+      8
+    ],
+    "importance": [
+      9
+    ],
+    "as": [
+      10,
+      188,
+      201,
+      203,
+      237
+    ],
+    "an": [
+      11,
+      79
+    ],
+    "industrial": [
+      12
+    ],
+    "biotech": [
+      13
+    ],
+    "platform,": [
+      14
+    ],
+    "supported": [
+      15
+    ],
+    "by": [
+      16,
+      40,
+      157,
+      221
+    ],
+    "several": [
+      17
+    ],
+    "available": [
+      18
+    ],
+    "metabolic": [
+      19,
+      90,
+      150,
+      173,
+      223,
+      266
+    ],
+    "engineering": [
+      20,
+      91,
+      151,
+      224,
+      267
+    ],
+    "tools.": [
+      21
+    ],
+    "Genome-scale": [
+      22
+    ],
+    "models": [
+      23
+    ],
+    "(GEMs)": [
+      24
+    ],
+    "are": [
+      25
+    ],
+    "relevant": [
+      26
+    ],
+    "to": [
+      27,
+      55,
+      69
+    ],
+    "the": [
+      28,
+      46,
+      57,
+      76,
+      142,
+      146,
+      176,
+      232
+    ],
+    "iterative": [
+      29
+    ],
+    "improvement": [
+      30
+    ],
+    "of": [
+      31,
+      59,
+      78,
+      81,
+      126,
+      148,
+      178,
+      185,
+      234
+    ],
+    "this": [
+      32,
+      62,
+      101
+    ],
+    "yeast,": [
+      33
+    ],
+    "and": [
+      34,
+      85,
+      96,
+      117,
+      132,
+      135,
+      219,
+      250
+    ],
+    "their": [
+      35,
+      136
+    ],
+    "predictive": [
+      36
+    ],
+    "ability": [
+      37
+    ],
+    "is": [
+      38,
+      212
+    ],
+    "enhanced": [
+      39,
+      94
+    ],
+    "enzymatic": [
+      41,
+      143
+    ],
+    "activity": [
+      42
+    ],
+    "constraints": [
+      43,
+      144,
+      257
+    ],
+    "(ecGEMs).": [
+      44
+    ],
+    "Although": [
+      45
+    ],
+    "newest": [
+      47
+    ],
+    "tools": [
+      48
+    ],
+    "for": [
+      49,
+      93,
+      171,
+      181,
+      191,
+      231
+    ],
+    "ecGEM": [
+      50,
+      80,
+      261
+    ],
+    "reconstruction": [
+      51,
+      77,
+      246
+    ],
+    "use": [
+      52,
+      177
+    ],
+    "deep": [
+      53
+    ],
+    "learning": [
+      54
+    ],
+    "expand": [
+      56
+    ],
+    "coverage": [
+      58
+    ],
+    "these": [
+      60,
+      161
+    ],
+    "constraints,": [
+      61
+    ],
+    "approach": [
+      63
+    ],
+    "not": [
+      65,
+      155
+    ],
+    "yet": [
+      66
+    ],
+    "applied": [
+      68
+    ],
+    "Y.": [
+      70,
+      82,
+      111,
+      235,
+      259
+    ],
+    "models.": [
+      72
+    ],
+    "This": [
+      73,
+      209
+    ],
+    "paper": [
+      74
+    ],
+    "describes": [
+      75
+    ],
+    "(eciYali5-GEM)": [
+      84
+    ],
+    "its": [
+      86
+    ],
+    "application": [
+      87
+    ],
+    "in": [
+      88,
+      100,
+      248,
+      251
+    ],
+    "predicting": [
+      89
+    ],
+    "targets": [
+      92,
+      162,
+      186,
+      195
+    ],
+    "lipid": [
+      95
+    ],
+    "carotenoid": [
+      97,
+      192
+    ],
+    "production,": [
+      98
+    ],
+    "respectively,": [
+      99
+    ],
+    "yeast.": [
+      102
+    ],
+    "To": [
+      103
+    ],
+    "achieve": [
+      104
+    ],
+    "this,": [
+      105
+    ],
+    "we": [
+      106,
+      167
+    ],
+    "constrained": [
+      107
+    ],
+    "a": [
+      108,
+      153,
+      228,
+      238
+    ],
+    "manually": [
+      109
+    ],
+    "curated": [
+      110
+    ],
+    "model": [
+      113
+    ],
+    "with": [
+      114,
+      163
+    ],
+    "physiological": [
+      115
+    ],
+    "flux": [
+      116
+    ],
+    "mass-spectrometry": [
+      118
+    ],
+    "proteomics": [
+      119,
+      253
+    ],
+    "data": [
+      120
+    ],
+    "collected": [
+      121
+    ],
+    "from": [
+      122
+    ],
+    "distinct": [
+      123
+    ],
+    "growth": [
+      124
+    ],
+    "phases": [
+      125
+    ],
+    "two": [
+      127,
+      169
+    ],
+    "engineered": [
+      128
+    ],
+    "strains": [
+      129
+    ],
+    "(producing": [
+      130
+    ],
+    "lipids": [
+      131
+    ],
+    "carotenoids,": [
+      133
+    ],
+    "respectively)": [
+      134
+    ],
+    "parental": [
+      137
+    ],
+    "strain.": [
+      138
+    ],
+    "We": [
+      139
+    ],
+    "found": [
+      140
+    ],
+    "that": [
+      141
+    ],
+    "enable": [
+      145
+    ],
+    "prediction": [
+      147
+    ],
+    "growth-phase-specific": [
+      149,
+      183
+    ],
+    "targets,": [
+      152
+    ],
+    "feature": [
+      154
+    ],
+    "displayed": [
+      156
+    ],
+    "regular": [
+      158
+    ],
+    "GEMs.": [
+      159
+    ],
+    "Combining": [
+      160
+    ],
+    "other": [
+      164
+    ],
+    "ecGEM-based": [
+      165
+    ],
+    "insights,": [
+      166
+    ],
+    "propose": [
+      168
+    ],
+    "strategies": [
+      170
+    ],
+    "further": [
+      172
+    ],
+    "engineering,": [
+      174
+    ],
+    "including": [
+      175
+    ],
+    "inducible": [
+      179
+    ],
+    "promoters": [
+      180
+    ],
+    "precise,": [
+      182
+    ],
+    "expression": [
+      184
+    ],
+    "such": [
+      187
+    ],
+    "phytoene": [
+      189
+    ],
+    "dehydrogenase": [
+      190
+    ],
+    "production.": [
+      193
+    ],
+    "These": [
+      194
+    ],
+    "included": [
+      196
+    ],
+    "genes": [
+      197,
+      205
+    ],
+    "previously": [
+      198
+    ],
+    "validated": [
+      199
+    ],
+    "elsewhere,": [
+      200
+    ],
+    "well": [
+      202
+    ],
+    "novel": [
+      204
+    ],
+    "awaiting": [
+      206
+    ],
+    "experimental": [
+      207
+    ],
+    "validation.": [
+      208
+    ],
+    "model,": [
+      210
+    ],
+    "which": [
+      211
+    ],
+    "publicly": [
+      213
+    ],
+    "available,": [
+      214
+    ],
+    "can": [
+      215
+    ],
+    "be": [
+      216
+    ],
+    "similarly": [
+      217
+    ],
+    "adapted": [
+      218
+    ],
+    "used": [
+      220,
+      247
+    ],
+    "different": [
+      222
+    ],
+    "efforts,": [
+      225
+    ],
+    "making": [
+      226
+    ],
+    "it": [
+      227
+    ],
+    "versatile": [
+      229
+    ],
+    "tool": [
+      230
+    ],
+    "development": [
+      233
+    ],
+    "microbial": [
+      239
+    ],
+    "cell": [
+      240
+    ],
+    "factory.": [
+      241
+    ],
+    "KEY": [
+      242
+    ],
+    "POINTS:": [
+      243
+    ],
+    "•": [
+      244,
+      255,
+      263
+    ],
+    "eciYali5-GEM": [
+      245,
+      264
+    ],
+    "silico": [
+      249
+    ],
+    "vitro": [
+      252
+    ],
+    "data.": [
+      254
+    ],
+    "Enzyme": [
+      256
+    ],
+    "enriched": [
+      258
+    ],
+    "predictions.": [
+      262
+    ],
+    "improves": [
+      265
+    ],
+    "rational": [
+      268
+    ],
+    "design.": [
+      269
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-06-22T08:00:12.763002",
+  "created_date": "2026-03-25T00:00:00"
+}

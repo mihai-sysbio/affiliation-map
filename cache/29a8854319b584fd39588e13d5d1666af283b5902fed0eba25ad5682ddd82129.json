@@ -1,0 +1,1699 @@
+{
+  "id": "https://openalex.org/W7151904352",
+  "doi": "https://doi.org/10.1073/pnas.2516511123",
+  "title": "Reconstruction of human metabolic models with large language models",
+  "display_name": "Reconstruction of human metabolic models with large language models",
+  "publication_year": 2026,
+  "publication_date": "2026-04-08",
+  "ids": {
+    "openalex": "https://openalex.org/W7151904352",
+    "doi": "https://doi.org/10.1073/pnas.2516511123",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/41950094"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1073/pnas.2516511123",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1073/pnas.2516511123",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S125754415",
+      "display_name": "Proceedings of the National Academy of Sciences",
+      "issn_l": "0027-8424",
+      "issn": [
+        "0027-8424",
+        "1091-6490"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320052",
+      "host_organization_name": "National Academy of Sciences",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320052"
+      ],
+      "host_organization_lineage_names": [
+        "National Academy of Sciences"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings of the National Academy of Sciences",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13079975/",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5010358431",
+        "display_name": "Jiahao Luo",
+        "orcid": "https://orcid.org/0000-0002-7111-1360"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110997",
+          "display_name": "Ministry of Education",
+          "ror": "https://ror.org/01xexqx38",
+          "country_code": "ME",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210110997"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210114105",
+          "display_name": "Tsinghua–Berkeley Shenzhen Institute",
+          "ror": "https://ror.org/02hhwwz98",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210114105",
+            "https://openalex.org/I95457486",
+            "https://openalex.org/I99065089"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99065089",
+          "display_name": "Tsinghua University",
+          "ror": "https://ror.org/03cve4549",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I99065089"
+          ]
+        }
+      ],
+      "countries": [
+        "CN",
+        "ME"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jiahao Luo",
+      "raw_affiliation_strings": [
+        "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University",
+        "Key Laboratory for Industrial Biocatalysis, Ministry of Education, Institute of Biochemical Engineering, Department of Chemical Engineering, Tsinghua University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University",
+          "institution_ids": [
+            "https://openalex.org/I4210114105",
+            "https://openalex.org/I99065089"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Key Laboratory for Industrial Biocatalysis, Ministry of Education, Institute of Biochemical Engineering, Department of Chemical Engineering, Tsinghua University",
+          "institution_ids": [
+            "https://openalex.org/I4210110997"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Hao Wang",
+        "orcid": "https://orcid.org/0000-0001-7475-0136"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hao Wang",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7475-0136",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5044759671",
+        "display_name": "Devlin C. Moyer",
+        "orcid": "https://orcid.org/0000-0002-6997-9531"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I111088046",
+          "display_name": "Boston University",
+          "ror": "https://ror.org/05qwgg493",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I111088046"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Devlin Moyer",
+      "raw_affiliation_strings": [
+        "Bioinformatics Program, Boston University",
+        "Department of Biology, Boston University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Bioinformatics Program, Boston University",
+          "institution_ids": [
+            "https://openalex.org/I111088046"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biology, Boston University",
+          "institution_ids": [
+            "https://openalex.org/I111088046"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5113426990",
+        "display_name": "Zhetao Guo",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110997",
+          "display_name": "Ministry of Education",
+          "ror": "https://ror.org/01xexqx38",
+          "country_code": "ME",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210110997"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210114105",
+          "display_name": "Tsinghua–Berkeley Shenzhen Institute",
+          "ror": "https://ror.org/02hhwwz98",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210114105",
+            "https://openalex.org/I95457486",
+            "https://openalex.org/I99065089"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99065089",
+          "display_name": "Tsinghua University",
+          "ror": "https://ror.org/03cve4549",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I99065089"
+          ]
+        }
+      ],
+      "countries": [
+        "CN",
+        "ME"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Zhetao Guo",
+      "raw_affiliation_strings": [
+        "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University",
+        "Key Laboratory for Industrial Biocatalysis, Ministry of Education, Institute of Biochemical Engineering, Department of Chemical Engineering, Tsinghua University"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University",
+          "institution_ids": [
+            "https://openalex.org/I4210114105",
+            "https://openalex.org/I99065089"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Key Laboratory for Industrial Biocatalysis, Ministry of Education, Institute of Biochemical Engineering, Department of Chemical Engineering, Tsinghua University",
+          "institution_ids": [
+            "https://openalex.org/I4210110997"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5090227920",
+        "display_name": "Jonathan L. Robinson",
+        "orcid": "https://orcid.org/0000-0001-8567-5960"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210146628",
+          "display_name": "BioInnovation Institute",
+          "ror": "https://ror.org/048b3qc73",
+          "country_code": "DK",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210146628"
+          ]
+        }
+      ],
+      "countries": [
+        "DK"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jonathan L. Robinson",
+      "raw_affiliation_strings": [
+        "BioInnovation Institute"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "BioInnovation Institute",
+          "institution_ids": [
+            "https://openalex.org/I4210146628"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080173528",
+        "display_name": "Johan Gustafsson",
+        "orcid": "https://orcid.org/0000-0001-5072-2659"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I107606265",
+          "display_name": "Broad Institute",
+          "ror": "https://ror.org/05a0ya142",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I107606265"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I63966007",
+          "display_name": "Massachusetts Institute of Technology",
+          "ror": "https://ror.org/042nb2s44",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I881427289",
+          "display_name": "University of Gothenburg",
+          "ror": "https://ror.org/01tm6cn81",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I881427289"
+          ]
+        }
+      ],
+      "countries": [
+        "SE",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Johan Gustafsson",
+      "raw_affiliation_strings": [
+        "Broad Institute of Massachusetts Institute of Technology and Harvard",
+        "Department of Medical Biochemistry and Cell Biology, Institute of Biomedicine, Sahlgrenska Academy, University of Gothenburg"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Broad Institute of Massachusetts Institute of Technology and Harvard",
+          "institution_ids": [
+            "https://openalex.org/I107606265",
+            "https://openalex.org/I63966007"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Medical Biochemistry and Cell Biology, Institute of Biomedicine, Sahlgrenska Academy, University of Gothenburg",
+          "institution_ids": [
+            "https://openalex.org/I881427289"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5133150863",
+        "display_name": "Mihail Anton",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210138342",
+          "display_name": "Wellcome Connecting Science",
+          "ror": "https://ror.org/03v9cqb05",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I4210138342"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mihail Anton",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology",
+        "ELIXIR, Wellcome Genome Campus"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "ELIXIR, Wellcome Genome Campus",
+          "institution_ids": [
+            "https://openalex.org/I4210138342"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5133171656",
+        "display_name": "Yu Chen",
+        "orcid": "https://orcid.org/0000-0003-3326-9068"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210145761",
+          "display_name": "Shenzhen Institutes of Advanced Technology",
+          "ror": "https://ror.org/04gh4er46",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I19820366",
+            "https://openalex.org/I4210145761"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yu Chen",
+      "raw_affiliation_strings": [
+        "Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3326-9068",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences",
+          "institution_ids": [
+            "https://openalex.org/I4210145761"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5059167313",
+        "display_name": "Eduard J. Kerkhoven",
+        "orcid": "https://orcid.org/0000-0002-3593-5792"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800139495",
+          "display_name": "Science for Life Laboratory",
+          "ror": "https://ror.org/04ev03g22",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2800139495"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2801134892",
+          "display_name": "Novo Nordisk Foundation",
+          "ror": "https://ror.org/04txyc737",
+          "country_code": "DK",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801134892"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "DK",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eduard J. Kerkhoven",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology",
+        "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark",
+        "SciLifeLab, Chalmers University of Technology"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3593-5792",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark",
+          "institution_ids": [
+            "https://openalex.org/I2801134892"
+          ]
+        },
+        {
+          "raw_affiliation_string": "SciLifeLab, Chalmers University of Technology",
+          "institution_ids": [
+            "https://openalex.org/I66862912",
+            "https://openalex.org/I2800139495"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083238115",
+        "display_name": "Jens Nielsen",
+        "orcid": "https://orcid.org/0000-0002-9955-6003"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210146628",
+          "display_name": "BioInnovation Institute",
+          "ror": "https://ror.org/048b3qc73",
+          "country_code": "DK",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210146628"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "DK",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jens Nielsen",
+      "raw_affiliation_strings": [
+        "BioInnovation Institute",
+        "Department of Life Sciences, Chalmers University of Technology"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9955-6003",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "BioInnovation Institute",
+          "institution_ids": [
+            "https://openalex.org/I4210146628"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5100731088",
+        "display_name": "Feiran Li",
+        "orcid": "https://orcid.org/0000-0001-9155-5260"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210110997",
+          "display_name": "Ministry of Education",
+          "ror": "https://ror.org/01xexqx38",
+          "country_code": "ME",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210110997"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210114105",
+          "display_name": "Tsinghua–Berkeley Shenzhen Institute",
+          "ror": "https://ror.org/02hhwwz98",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210114105",
+            "https://openalex.org/I95457486",
+            "https://openalex.org/I99065089"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99065089",
+          "display_name": "Tsinghua University",
+          "ror": "https://ror.org/03cve4549",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I99065089"
+          ]
+        }
+      ],
+      "countries": [
+        "CN",
+        "ME"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Feiran Li",
+      "raw_affiliation_strings": [
+        "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University",
+        "Key Laboratory for Industrial Biocatalysis, Ministry of Education, Institute of Biochemical Engineering, Department of Chemical Engineering, Tsinghua University"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-9155-5260",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University",
+          "institution_ids": [
+            "https://openalex.org/I4210114105",
+            "https://openalex.org/I99065089"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Key Laboratory for Industrial Biocatalysis, Ministry of Education, Institute of Biochemical Engineering, Department of Chemical Engineering, Tsinghua University",
+          "institution_ids": [
+            "https://openalex.org/I4210110997"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 6,
+  "institutions_distinct_count": 11,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 13.2247,
+  "has_fulltext": true,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.98749232,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "123",
+    "issue": "15",
+    "first_page": "e2516511123",
+    "last_page": "e2516511123"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10932",
+    "display_name": "Microbial Metabolic Engineering and Bioproduction",
+    "score": 0.7422000169754028,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10932",
+      "display_name": "Microbial Metabolic Engineering and Bioproduction",
+      "score": 0.7422000169754028,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12267",
+      "display_name": "Diet and metabolism studies",
+      "score": 0.027899999171495438,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2737",
+        "display_name": "Physiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10631",
+      "display_name": "Cancer, Hypoxia, and Metabolism",
+      "score": 0.016300000250339508,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1306",
+        "display_name": "Cancer Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/action",
+      "display_name": "Action (physics)",
+      "score": 0.4641999900341034
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-model",
+      "display_name": "Computational model",
+      "score": 0.4165000021457672
+    },
+    {
+      "id": "https://openalex.org/keywords/work",
+      "display_name": "Work (physics)",
+      "score": 0.3831000030040741
+    },
+    {
+      "id": "https://openalex.org/keywords/resource",
+      "display_name": "Resource (disambiguation)",
+      "score": 0.3804999887943268
+    },
+    {
+      "id": "https://openalex.org/keywords/cell-metabolism",
+      "display_name": "Cell metabolism",
+      "score": 0.3522999882698059
+    },
+    {
+      "id": "https://openalex.org/keywords/variation",
+      "display_name": "Variation (astronomy)",
+      "score": 0.3271999955177307
+    },
+    {
+      "id": "https://openalex.org/keywords/human-health",
+      "display_name": "Human health",
+      "score": 0.3179999887943268
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.692799985408783
+    },
+    {
+      "id": "https://openalex.org/C2780791683",
+      "wikidata": "https://www.wikidata.org/wiki/Q846785",
+      "display_name": "Action (physics)",
+      "level": 2,
+      "score": 0.4641999900341034
+    },
+    {
+      "id": "https://openalex.org/C66024118",
+      "wikidata": "https://www.wikidata.org/wiki/Q1122506",
+      "display_name": "Computational model",
+      "level": 2,
+      "score": 0.4165000021457672
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.38769999146461487
+    },
+    {
+      "id": "https://openalex.org/C18762648",
+      "wikidata": "https://www.wikidata.org/wiki/Q42213",
+      "display_name": "Work (physics)",
+      "level": 2,
+      "score": 0.3831000030040741
+    },
+    {
+      "id": "https://openalex.org/C206345919",
+      "wikidata": "https://www.wikidata.org/wiki/Q20380951",
+      "display_name": "Resource (disambiguation)",
+      "level": 2,
+      "score": 0.3804999887943268
+    },
+    {
+      "id": "https://openalex.org/C2991704936",
+      "wikidata": "https://www.wikidata.org/wiki/Q1057",
+      "display_name": "Cell metabolism",
+      "level": 3,
+      "score": 0.3522999882698059
+    },
+    {
+      "id": "https://openalex.org/C2778334786",
+      "wikidata": "https://www.wikidata.org/wiki/Q1586270",
+      "display_name": "Variation (astronomy)",
+      "level": 2,
+      "score": 0.3271999955177307
+    },
+    {
+      "id": "https://openalex.org/C2987857752",
+      "wikidata": "https://www.wikidata.org/wiki/Q12147",
+      "display_name": "Human health",
+      "level": 2,
+      "score": 0.3179999887943268
+    },
+    {
+      "id": "https://openalex.org/C70587473",
+      "wikidata": "https://www.wikidata.org/wiki/Q7834111",
+      "display_name": "Transformative learning",
+      "level": 2,
+      "score": 0.3075999915599823
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.28130000829696655
+    },
+    {
+      "id": "https://openalex.org/C137293760",
+      "wikidata": "https://www.wikidata.org/wiki/Q3621696",
+      "display_name": "Language model",
+      "level": 2,
+      "score": 0.27559998631477356
+    },
+    {
+      "id": "https://openalex.org/C2777477808",
+      "wikidata": "https://www.wikidata.org/wiki/Q407595",
+      "display_name": "Metabolite",
+      "level": 2,
+      "score": 0.27390000224113464
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.271699994802475
+    },
+    {
+      "id": "https://openalex.org/C87186988",
+      "wikidata": "https://www.wikidata.org/wiki/Q452197",
+      "display_name": "SBML",
+      "level": 4,
+      "score": 0.2709999978542328
+    },
+    {
+      "id": "https://openalex.org/C2778012447",
+      "wikidata": "https://www.wikidata.org/wiki/Q1034415",
+      "display_name": "Scope (computer science)",
+      "level": 2,
+      "score": 0.26489999890327454
+    },
+    {
+      "id": "https://openalex.org/C2777480716",
+      "wikidata": "https://www.wikidata.org/wiki/Q23582796",
+      "display_name": "Resource consumption",
+      "level": 2,
+      "score": 0.2606000006198883
+    },
+    {
+      "id": "https://openalex.org/C2993724205",
+      "wikidata": "https://www.wikidata.org/wiki/Q315",
+      "display_name": "Human language",
+      "level": 2,
+      "score": 0.25920000672340393
+    },
+    {
+      "id": "https://openalex.org/C2988867146",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Human disease",
+      "level": 3,
+      "score": 0.2538999915122986
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000098342",
+      "descriptor_name": "Large Language Models",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000098342",
+      "descriptor_name": "Large Language Models",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000098342",
+      "descriptor_name": "Large Language Models",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1073/pnas.2516511123",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1073/pnas.2516511123",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S125754415",
+        "display_name": "Proceedings of the National Academy of Sciences",
+        "issn_l": "0027-8424",
+        "issn": [
+          "0027-8424",
+          "1091-6490"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320052",
+        "host_organization_name": "National Academy of Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320052"
+        ],
+        "host_organization_lineage_names": [
+          "National Academy of Sciences"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Proceedings of the National Academy of Sciences",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:41950094",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41950094",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Proceedings of the National Academy of Sciences of the United States of America",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:13079975",
+      "is_oa": true,
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13079975/",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Proc Natl Acad Sci U S A",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:pubmedcentral.nih.gov:13079975",
+    "is_oa": true,
+    "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13079975/",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764455111",
+      "display_name": "PubMed Central",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I1299303238",
+      "host_organization_name": "National Institutes of Health",
+      "host_organization_lineage": [
+        "https://openalex.org/I1299303238"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "Proc Natl Acad Sci U S A",
+    "raw_type": "Text"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Zero hunger",
+      "score": 0.7221073508262634,
+      "id": "https://metadata.un.org/sdg/2"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G5890879545",
+      "display_name": null,
+      "funder_award_id": "22478223",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G6624819937",
+      "display_name": null,
+      "funder_award_id": "62532017",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G7176591651",
+      "display_name": null,
+      "funder_award_id": "A2403013",
+      "funder_id": "https://openalex.org/F4320330400",
+      "funder_display_name": "Shenzhen Research Foundation"
+    },
+    {
+      "id": "https://openalex.org/G7361212524",
+      "display_name": null,
+      "funder_award_id": "NNF20CC0035580",
+      "funder_id": "https://openalex.org/F4320322436",
+      "funder_display_name": "Novo Nordisk"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320321001",
+      "display_name": "National Natural Science Foundation of China",
+      "ror": "https://ror.org/01h0zpd94"
+    },
+    {
+      "id": "https://openalex.org/F4320322436",
+      "display_name": "Novo Nordisk",
+      "ror": "https://ror.org/0435rc536"
+    },
+    {
+      "id": "https://openalex.org/F4320330400",
+      "display_name": "Shenzhen Research Foundation",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 88,
+  "referenced_works": [
+    "https://openalex.org/W1935434993",
+    "https://openalex.org/W2007116522",
+    "https://openalex.org/W2018838463",
+    "https://openalex.org/W2043983825",
+    "https://openalex.org/W2048465561",
+    "https://openalex.org/W2062254735",
+    "https://openalex.org/W2067094344",
+    "https://openalex.org/W2069456127",
+    "https://openalex.org/W2080120165",
+    "https://openalex.org/W2081028309",
+    "https://openalex.org/W2109880669",
+    "https://openalex.org/W2124653577",
+    "https://openalex.org/W2136503478",
+    "https://openalex.org/W2140937954",
+    "https://openalex.org/W2154717205",
+    "https://openalex.org/W2162790428",
+    "https://openalex.org/W2167851640",
+    "https://openalex.org/W2168257591",
+    "https://openalex.org/W2180291937",
+    "https://openalex.org/W2275291043",
+    "https://openalex.org/W2548357532",
+    "https://openalex.org/W2559597060",
+    "https://openalex.org/W2586966203",
+    "https://openalex.org/W2587156779",
+    "https://openalex.org/W2764202526",
+    "https://openalex.org/W2765303057",
+    "https://openalex.org/W2789128799",
+    "https://openalex.org/W2807049387",
+    "https://openalex.org/W2947953297",
+    "https://openalex.org/W2949418748",
+    "https://openalex.org/W2965590414",
+    "https://openalex.org/W2985340564",
+    "https://openalex.org/W2999615587",
+    "https://openalex.org/W3006785559",
+    "https://openalex.org/W3009930262",
+    "https://openalex.org/W3010629926",
+    "https://openalex.org/W3013006617",
+    "https://openalex.org/W3013554928",
+    "https://openalex.org/W3029912146",
+    "https://openalex.org/W3032938344",
+    "https://openalex.org/W3090689814",
+    "https://openalex.org/W3092932642",
+    "https://openalex.org/W3093253498",
+    "https://openalex.org/W3095316811",
+    "https://openalex.org/W3097145107",
+    "https://openalex.org/W3103797259",
+    "https://openalex.org/W3112376646",
+    "https://openalex.org/W3121123436",
+    "https://openalex.org/W3131439703",
+    "https://openalex.org/W3132827988",
+    "https://openalex.org/W3139089132",
+    "https://openalex.org/W3164109950",
+    "https://openalex.org/W3183815414",
+    "https://openalex.org/W3199847083",
+    "https://openalex.org/W3204129839",
+    "https://openalex.org/W3211718555",
+    "https://openalex.org/W4206447491",
+    "https://openalex.org/W4210651685",
+    "https://openalex.org/W4225264859",
+    "https://openalex.org/W4283032119",
+    "https://openalex.org/W4286252680",
+    "https://openalex.org/W4292651737",
+    "https://openalex.org/W4294782985",
+    "https://openalex.org/W4310707155",
+    "https://openalex.org/W4317499868",
+    "https://openalex.org/W4318670358",
+    "https://openalex.org/W4362471278",
+    "https://openalex.org/W4367050139",
+    "https://openalex.org/W4378515238",
+    "https://openalex.org/W4381248780",
+    "https://openalex.org/W4384561707",
+    "https://openalex.org/W4385027818",
+    "https://openalex.org/W4388757455",
+    "https://openalex.org/W4390971823",
+    "https://openalex.org/W4391358420",
+    "https://openalex.org/W4391836235",
+    "https://openalex.org/W4392504747",
+    "https://openalex.org/W4392761546",
+    "https://openalex.org/W4394997002",
+    "https://openalex.org/W4395072122",
+    "https://openalex.org/W4396640684",
+    "https://openalex.org/W4396723768",
+    "https://openalex.org/W4401510590",
+    "https://openalex.org/W4401585036",
+    "https://openalex.org/W4402935650",
+    "https://openalex.org/W4407199666",
+    "https://openalex.org/W4407391610",
+    "https://openalex.org/W4408954642"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "Genome-scale": [
+      0
+    ],
+    "metabolic": [
+      1,
+      69
+    ],
+    "models": [
+      2,
+      30,
+      51,
+      86
+    ],
+    "(GEMs)": [
+      3
+    ],
+    "have": [
+      4
+    ],
+    "become": [
+      5
+    ],
+    "essential": [
+      6
+    ],
+    "tools": [
+      7
+    ],
+    "for": [
+      8,
+      137
+    ],
+    "understanding": [
+      9
+    ],
+    "human": [
+      10,
+      18,
+      57,
+      139
+    ],
+    "metabolism.": [
+      11,
+      83
+    ],
+    "Here,": [
+      12
+    ],
+    "we": [
+      13,
+      66
+    ],
+    "introduce": [
+      14
+    ],
+    "Human2,": [
+      15
+    ],
+    "a": [
+      16,
+      90,
+      125,
+      134
+    ],
+    "consensus": [
+      17
+    ],
+    "GEM": [
+      19,
+      121
+    ],
+    "with": [
+      20
+    ],
+    "enhanced": [
+      21
+    ],
+    "precision": [
+      22
+    ],
+    "and": [
+      23,
+      32,
+      40,
+      49,
+      55,
+      63,
+      81,
+      123
+    ],
+    "biological": [
+      24
+    ],
+    "relevance,": [
+      25
+    ],
+    "which": [
+      26
+    ],
+    "leverages": [
+      27
+    ],
+    "large": [
+      28
+    ],
+    "language": [
+      29
+    ],
+    "(LLMs)": [
+      31
+    ],
+    "GitHub": [
+      33
+    ],
+    "Action": [
+      34
+    ],
+    "checks": [
+      35
+    ],
+    "to": [
+      36,
+      53,
+      110
+    ],
+    "streamline": [
+      37
+    ],
+    "automated,": [
+      38
+    ],
+    "efficient,": [
+      39
+    ],
+    "collaborative": [
+      41
+    ],
+    "curation.": [
+      42
+    ],
+    "Human2": [
+      43
+    ],
+    "supports": [
+      44
+    ],
+    "the": [
+      45,
+      115
+    ],
+    "reconstruction": [
+      46,
+      122
+    ],
+    "of": [
+      47,
+      118
+    ],
+    "tissue-": [
+      48
+    ],
+    "organ-specific": [
+      50
+    ],
+    "tailored": [
+      52
+    ],
+    "sex-": [
+      54
+    ],
+    "age-specific": [
+      56
+    ],
+    "groups.": [
+      58
+    ],
+    "By": [
+      59
+    ],
+    "integrating": [
+      60
+    ],
+    "transcriptomic,": [
+      61
+    ],
+    "proteomic,": [
+      62
+    ],
+    "kinetic": [
+      64,
+      131
+    ],
+    "data,": [
+      65,
+      132
+    ],
+    "reveal": [
+      67
+    ],
+    "distinct": [
+      68
+    ],
+    "features": [
+      70
+    ],
+    "across": [
+      71
+    ],
+    "these": [
+      72
+    ],
+    "groups,": [
+      73
+    ],
+    "such": [
+      74
+    ],
+    "as": [
+      75
+    ],
+    "significant": [
+      76
+    ],
+    "differences": [
+      77
+    ],
+    "in": [
+      78,
+      120
+    ],
+    "arachidonic": [
+      79
+    ],
+    "acid": [
+      80
+    ],
+    "leukotriene": [
+      82
+    ],
+    "The": [
+      84
+    ],
+    "specific": [
+      85
+    ],
+    "were": [
+      87
+    ],
+    "integrated": [
+      88
+    ],
+    "into": [
+      89
+    ],
+    "dynamic": [
+      91,
+      97,
+      127
+    ],
+    "whole-body": [
+      92,
+      126
+    ],
+    "framework,": [
+      93
+    ],
+    "marking": [
+      94
+    ],
+    "an": [
+      95
+    ],
+    "enzyme-constrained": [
+      96
+    ],
+    "model": [
+      98
+    ],
+    "that": [
+      99,
+      129
+    ],
+    "simulates": [
+      100
+    ],
+    "interorgan": [
+      101
+    ],
+    "metabolite": [
+      102
+    ],
+    "exchanges": [
+      103
+    ],
+    "under": [
+      104
+    ],
+    "varying": [
+      105
+    ],
+    "nutritional": [
+      106
+    ],
+    "states,": [
+      107
+    ],
+    "from": [
+      108
+    ],
+    "feeding": [
+      109
+    ],
+    "fasting.": [
+      111
+    ],
+    "Our": [
+      112
+    ],
+    "work": [
+      113
+    ],
+    "highlights": [
+      114
+    ],
+    "transformative": [
+      116
+    ],
+    "role": [
+      117
+    ],
+    "LLMs": [
+      119
+    ],
+    "introduces": [
+      124
+    ],
+    "simulation": [
+      128
+    ],
+    "integrates": [
+      130
+    ],
+    "offering": [
+      133
+    ],
+    "powerful": [
+      135
+    ],
+    "resource": [
+      136
+    ],
+    "multiscale": [
+      138
+    ],
+    "metabolism": [
+      140
+    ],
+    "modeling.": [
+      141
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-06-23T13:55:30.953635",
+  "created_date": "2026-04-09T00:00:00"
+}

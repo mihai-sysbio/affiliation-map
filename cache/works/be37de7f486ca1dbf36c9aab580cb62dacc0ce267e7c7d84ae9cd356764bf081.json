@@ -1,0 +1,782 @@
+{
+  "id": "https://openalex.org/W4416055334",
+  "doi": "https://doi.org/10.1016/j.biortech.2025.133619",
+  "display_name": "A new genome-scale metabolic model of oleaginous microalgae with refined lipid metabolism clarifies Microchloropsis gaditana mutant phenotypes",
+  "publication_year": 2025,
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5080254444",
+        "display_name": "Clémence Dupont-Thibert",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1294671590",
+          "display_name": "Centre National de la Recherche Scientifique",
+          "ror": "https://ror.org/02feahw73",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1294671590"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2738703131",
+          "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+          "ror": "https://ror.org/00jjx8s55",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I3020098449",
+          "display_name": "CEA Grenoble",
+          "ror": "https://ror.org/02mg6n827",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I3020098449"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210088668",
+          "display_name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+          "ror": "https://ror.org/003vg9w96",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210088668"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099371",
+          "display_name": "Laboratoire Physiologie Cellulaire & Végétale",
+          "ror": "https://ror.org/00jxe7243",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I4210091409",
+            "https://openalex.org/I4210096427",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I4210113668",
+            "https://openalex.org/I899635006"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I899635006",
+          "display_name": "Université Grenoble Alpes",
+          "ror": "https://ror.org/02rx3b187",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Clémence Dupont-Thibert",
+      "raw_affiliation_strings": [
+        "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France; TotalEnergies, OneTech, Centre de Recherche de Solaize CRES, Chemin du Canal, 69360 Solaize, France"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France; TotalEnergies, OneTech, Centre de Recherche de Solaize CRES, Chemin du Canal, 69360 Solaize, France",
+          "institution_ids": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I3020098449",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079193795",
+        "display_name": "Sylvaine Roy",
+        "orcid": "https://orcid.org/0009-0005-2225-6976"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1294671590",
+          "display_name": "Centre National de la Recherche Scientifique",
+          "ror": "https://ror.org/02feahw73",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1294671590"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2738703131",
+          "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+          "ror": "https://ror.org/00jjx8s55",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I3020098449",
+          "display_name": "CEA Grenoble",
+          "ror": "https://ror.org/02mg6n827",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I3020098449"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210088668",
+          "display_name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+          "ror": "https://ror.org/003vg9w96",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210088668"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099371",
+          "display_name": "Laboratoire Physiologie Cellulaire & Végétale",
+          "ror": "https://ror.org/00jxe7243",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I4210091409",
+            "https://openalex.org/I4210096427",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I4210113668",
+            "https://openalex.org/I899635006"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I899635006",
+          "display_name": "Université Grenoble Alpes",
+          "ror": "https://ror.org/02rx3b187",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sylvaine Roy",
+      "raw_affiliation_strings": [
+        "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0005-2225-6976",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France",
+          "institution_ids": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I3020098449",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027441298",
+        "display_name": "Sylvia Mendes Carneiro",
+        "orcid": "https://orcid.org/0009-0005-5619-2691"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114428",
+          "display_name": "SilicoLife (Portugal)",
+          "ror": "https://ror.org/029gksr15",
+          "country_code": "PT",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210114428"
+          ]
+        }
+      ],
+      "countries": [
+        "PT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sónia Carneiro",
+      "raw_affiliation_strings": [
+        "SilicoLife Lda. Rua do Canastreiro, 15 4715-387 Braga, Portugal"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0005-5619-2691",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "SilicoLife Lda. Rua do Canastreiro, 15 4715-387 Braga, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I4210114428"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Bruno Pereira",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114428",
+          "display_name": "SilicoLife (Portugal)",
+          "ror": "https://ror.org/029gksr15",
+          "country_code": "PT",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210114428"
+          ]
+        }
+      ],
+      "countries": [
+        "PT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bruno Pereira",
+      "raw_affiliation_strings": [
+        "SilicoLife Lda. Rua do Canastreiro, 15 4715-387 Braga, Portugal"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "SilicoLife Lda. Rua do Canastreiro, 15 4715-387 Braga, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I4210114428"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052144488",
+        "display_name": "Rafael Carreira",
+        "orcid": "https://orcid.org/0000-0003-4102-4204"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114428",
+          "display_name": "SilicoLife (Portugal)",
+          "ror": "https://ror.org/029gksr15",
+          "country_code": "PT",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210114428"
+          ]
+        }
+      ],
+      "countries": [
+        "PT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rafael Carreira",
+      "raw_affiliation_strings": [
+        "SilicoLife Lda. Rua do Canastreiro, 15 4715-387 Braga, Portugal"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4102-4204",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "SilicoLife Lda. Rua do Canastreiro, 15 4715-387 Braga, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I4210114428"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5085847301",
+        "display_name": "Paulo Vilaça",
+        "orcid": "https://orcid.org/0000-0002-1098-5849"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114428",
+          "display_name": "SilicoLife (Portugal)",
+          "ror": "https://ror.org/029gksr15",
+          "country_code": "PT",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210114428"
+          ]
+        }
+      ],
+      "countries": [
+        "PT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paulo Vilaça",
+      "raw_affiliation_strings": [
+        "SilicoLife Lda. Rua do Canastreiro, 15 4715-387 Braga, Portugal"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "SilicoLife Lda. Rua do Canastreiro, 15 4715-387 Braga, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I4210114428"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5075824946",
+        "display_name": "Séverine Collin",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I103084370",
+          "display_name": "Total (France)",
+          "ror": "https://ror.org/04sk34n56",
+          "country_code": "FR",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I103084370"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Séverine Collin",
+      "raw_affiliation_strings": [
+        "TotalEnergies, OneTech, Centre de Recherche de Solaize CRES, Chemin du Canal, 69360 Solaize, France"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "TotalEnergies, OneTech, Centre de Recherche de Solaize CRES, Chemin du Canal, 69360 Solaize, France",
+          "institution_ids": [
+            "https://openalex.org/I103084370"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053335358",
+        "display_name": "Éric Maréchal",
+        "orcid": "https://orcid.org/0000-0002-0060-1696"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1294671590",
+          "display_name": "Centre National de la Recherche Scientifique",
+          "ror": "https://ror.org/02feahw73",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1294671590"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2738703131",
+          "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+          "ror": "https://ror.org/00jjx8s55",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I3020098449",
+          "display_name": "CEA Grenoble",
+          "ror": "https://ror.org/02mg6n827",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I3020098449"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210088668",
+          "display_name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+          "ror": "https://ror.org/003vg9w96",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210088668"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099371",
+          "display_name": "Laboratoire Physiologie Cellulaire & Végétale",
+          "ror": "https://ror.org/00jxe7243",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I4210091409",
+            "https://openalex.org/I4210096427",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I4210113668",
+            "https://openalex.org/I899635006"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I899635006",
+          "display_name": "Université Grenoble Alpes",
+          "ror": "https://ror.org/02rx3b187",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eric Maréchal",
+      "raw_affiliation_strings": [
+        "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France",
+          "institution_ids": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I3020098449",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5048497509",
+        "display_name": "Élodie Billey",
+        "orcid": "https://orcid.org/0000-0003-4888-7985"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I103084370",
+          "display_name": "Total (France)",
+          "ror": "https://ror.org/04sk34n56",
+          "country_code": "FR",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I103084370"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elodie Billey",
+      "raw_affiliation_strings": [
+        "TotalEnergies, OneTech, Centre de Recherche de Solaize CRES, Chemin du Canal, 69360 Solaize, France"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "TotalEnergies, OneTech, Centre de Recherche de Solaize CRES, Chemin du Canal, 69360 Solaize, France",
+          "institution_ids": [
+            "https://openalex.org/I103084370"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5066950773",
+        "display_name": "Gilles Curien",
+        "orcid": "https://orcid.org/0000-0002-5361-2399"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1294671590",
+          "display_name": "Centre National de la Recherche Scientifique",
+          "ror": "https://ror.org/02feahw73",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1294671590"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2738703131",
+          "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+          "ror": "https://ror.org/00jjx8s55",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I3020098449",
+          "display_name": "CEA Grenoble",
+          "ror": "https://ror.org/02mg6n827",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I3020098449"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210088668",
+          "display_name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+          "ror": "https://ror.org/003vg9w96",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210088668"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099371",
+          "display_name": "Laboratoire Physiologie Cellulaire & Végétale",
+          "ror": "https://ror.org/00jxe7243",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I4210091409",
+            "https://openalex.org/I4210096427",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I4210113668",
+            "https://openalex.org/I899635006"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I899635006",
+          "display_name": "Université Grenoble Alpes",
+          "ror": "https://ror.org/02rx3b187",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Gilles Curien",
+      "raw_affiliation_strings": [
+        "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France",
+          "institution_ids": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I3020098449",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5000428870",
+        "display_name": "Maxime Durot",
+        "orcid": "https://orcid.org/0000-0001-7189-5217"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I103084370",
+          "display_name": "Total (France)",
+          "ror": "https://ror.org/04sk34n56",
+          "country_code": "FR",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I103084370"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maxime Durot",
+      "raw_affiliation_strings": [
+        "TotalEnergies, OneTech, Centre de Recherche de Solaize CRES, Chemin du Canal, 69360 Solaize, France"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7189-5217",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "TotalEnergies, OneTech, Centre de Recherche de Solaize CRES, Chemin du Canal, 69360 Solaize, France",
+          "institution_ids": [
+            "https://openalex.org/I103084370"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5034085899",
+        "display_name": "Juliette Jouhet",
+        "orcid": "https://orcid.org/0000-0002-4402-2194"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1294671590",
+          "display_name": "Centre National de la Recherche Scientifique",
+          "ror": "https://ror.org/02feahw73",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1294671590"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2738703131",
+          "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+          "ror": "https://ror.org/00jjx8s55",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I3020098449",
+          "display_name": "CEA Grenoble",
+          "ror": "https://ror.org/02mg6n827",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I3020098449"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210088668",
+          "display_name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+          "ror": "https://ror.org/003vg9w96",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210088668"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099371",
+          "display_name": "Laboratoire Physiologie Cellulaire & Végétale",
+          "ror": "https://ror.org/00jxe7243",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I4210091409",
+            "https://openalex.org/I4210096427",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I4210113668",
+            "https://openalex.org/I899635006"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I899635006",
+          "display_name": "Université Grenoble Alpes",
+          "ror": "https://ror.org/02rx3b187",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Juliette Jouhet",
+      "raw_affiliation_strings": [
+        "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France. Electronic address: juliette.jouhet@cea.fr"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-4402-2194",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France. Electronic address: juliette.jouhet@cea.fr",
+          "institution_ids": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I3020098449",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2265 @@
+{
+  "id": "https://openalex.org/W4416055334",
+  "doi": "https://doi.org/10.1016/j.biortech.2025.133619",
+  "title": "A new genome-scale metabolic model of oleaginous microalgae with refined lipid metabolism clarifies Microchloropsis gaditana mutant phenotypes",
+  "display_name": "A new genome-scale metabolic model of oleaginous microalgae with refined lipid metabolism clarifies Microchloropsis gaditana mutant phenotypes",
+  "publication_year": 2025,
+  "publication_date": "2025-11-09",
+  "ids": {
+    "openalex": "https://openalex.org/W4416055334",
+    "doi": "https://doi.org/10.1016/j.biortech.2025.133619",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/41218742"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.biortech.2025.133619",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.biortech.2025.133619",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S21442059",
+      "display_name": "Bioresource Technology",
+      "issn_l": "0960-8524",
+      "issn": [
+        "0960-8524",
+        "1873-2976"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Bioresource Technology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.biortech.2025.133619",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5080254444",
+        "display_name": "Clémence Dupont-Thibert",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1294671590",
+          "display_name": "Centre National de la Recherche Scientifique",
+          "ror": "https://ror.org/02feahw73",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1294671590"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2738703131",
+          "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+          "ror": "https://ror.org/00jjx8s55",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I3020098449",
+          "display_name": "CEA Grenoble",
+          "ror": "https://ror.org/02mg6n827",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I3020098449"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210088668",
+          "display_name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+          "ror": "https://ror.org/003vg9w96",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210088668"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099371",
+          "display_name": "Laboratoire Physiologie Cellulaire & Végétale",
+          "ror": "https://ror.org/00jxe7243",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I4210091409",
+            "https://openalex.org/I4210096427",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I4210113668",
+            "https://openalex.org/I899635006"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I899635006",
+          "display_name": "Université Grenoble Alpes",
+          "ror": "https://ror.org/02rx3b187",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Clémence Dupont-Thibert",
+      "raw_affiliation_strings": [
+        "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France; TotalEnergies, OneTech, Centre de Recherche de Solaize CRES, Chemin du Canal, 69360 Solaize, France"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France; TotalEnergies, OneTech, Centre de Recherche de Solaize CRES, Chemin du Canal, 69360 Solaize, France",
+          "institution_ids": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I3020098449",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079193795",
+        "display_name": "Sylvaine Roy",
+        "orcid": "https://orcid.org/0009-0005-2225-6976"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1294671590",
+          "display_name": "Centre National de la Recherche Scientifique",
+          "ror": "https://ror.org/02feahw73",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1294671590"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2738703131",
+          "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+          "ror": "https://ror.org/00jjx8s55",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I3020098449",
+          "display_name": "CEA Grenoble",
+          "ror": "https://ror.org/02mg6n827",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I3020098449"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210088668",
+          "display_name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+          "ror": "https://ror.org/003vg9w96",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210088668"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099371",
+          "display_name": "Laboratoire Physiologie Cellulaire & Végétale",
+          "ror": "https://ror.org/00jxe7243",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I4210091409",
+            "https://openalex.org/I4210096427",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I4210113668",
+            "https://openalex.org/I899635006"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I899635006",
+          "display_name": "Université Grenoble Alpes",
+          "ror": "https://ror.org/02rx3b187",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sylvaine Roy",
+      "raw_affiliation_strings": [
+        "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0005-2225-6976",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France",
+          "institution_ids": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I3020098449",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027441298",
+        "display_name": "Sylvia Mendes Carneiro",
+        "orcid": "https://orcid.org/0009-0005-5619-2691"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114428",
+          "display_name": "SilicoLife (Portugal)",
+          "ror": "https://ror.org/029gksr15",
+          "country_code": "PT",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210114428"
+          ]
+        }
+      ],
+      "countries": [
+        "PT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sónia Carneiro",
+      "raw_affiliation_strings": [
+        "SilicoLife Lda. Rua do Canastreiro, 15 4715-387 Braga, Portugal"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0005-5619-2691",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "SilicoLife Lda. Rua do Canastreiro, 15 4715-387 Braga, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I4210114428"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Bruno Pereira",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114428",
+          "display_name": "SilicoLife (Portugal)",
+          "ror": "https://ror.org/029gksr15",
+          "country_code": "PT",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210114428"
+          ]
+        }
+      ],
+      "countries": [
+        "PT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bruno Pereira",
+      "raw_affiliation_strings": [
+        "SilicoLife Lda. Rua do Canastreiro, 15 4715-387 Braga, Portugal"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "SilicoLife Lda. Rua do Canastreiro, 15 4715-387 Braga, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I4210114428"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052144488",
+        "display_name": "Rafael Carreira",
+        "orcid": "https://orcid.org/0000-0003-4102-4204"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114428",
+          "display_name": "SilicoLife (Portugal)",
+          "ror": "https://ror.org/029gksr15",
+          "country_code": "PT",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210114428"
+          ]
+        }
+      ],
+      "countries": [
+        "PT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rafael Carreira",
+      "raw_affiliation_strings": [
+        "SilicoLife Lda. Rua do Canastreiro, 15 4715-387 Braga, Portugal"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4102-4204",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "SilicoLife Lda. Rua do Canastreiro, 15 4715-387 Braga, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I4210114428"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5085847301",
+        "display_name": "Paulo Vilaça",
+        "orcid": "https://orcid.org/0000-0002-1098-5849"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114428",
+          "display_name": "SilicoLife (Portugal)",
+          "ror": "https://ror.org/029gksr15",
+          "country_code": "PT",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210114428"
+          ]
+        }
+      ],
+      "countries": [
+        "PT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paulo Vilaça",
+      "raw_affiliation_strings": [
+        "SilicoLife Lda. Rua do Canastreiro, 15 4715-387 Braga, Portugal"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "SilicoLife Lda. Rua do Canastreiro, 15 4715-387 Braga, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I4210114428"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5075824946",
+        "display_name": "Séverine Collin",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I103084370",
+          "display_name": "Total (France)",
+          "ror": "https://ror.org/04sk34n56",
+          "country_code": "FR",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I103084370"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Séverine Collin",
+      "raw_affiliation_strings": [
+        "TotalEnergies, OneTech, Centre de Recherche de Solaize CRES, Chemin du Canal, 69360 Solaize, France"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "TotalEnergies, OneTech, Centre de Recherche de Solaize CRES, Chemin du Canal, 69360 Solaize, France",
+          "institution_ids": [
+            "https://openalex.org/I103084370"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053335358",
+        "display_name": "Éric Maréchal",
+        "orcid": "https://orcid.org/0000-0002-0060-1696"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1294671590",
+          "display_name": "Centre National de la Recherche Scientifique",
+          "ror": "https://ror.org/02feahw73",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1294671590"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2738703131",
+          "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+          "ror": "https://ror.org/00jjx8s55",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I3020098449",
+          "display_name": "CEA Grenoble",
+          "ror": "https://ror.org/02mg6n827",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I3020098449"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210088668",
+          "display_name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+          "ror": "https://ror.org/003vg9w96",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210088668"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099371",
+          "display_name": "Laboratoire Physiologie Cellulaire & Végétale",
+          "ror": "https://ror.org/00jxe7243",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I4210091409",
+            "https://openalex.org/I4210096427",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I4210113668",
+            "https://openalex.org/I899635006"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I899635006",
+          "display_name": "Université Grenoble Alpes",
+          "ror": "https://ror.org/02rx3b187",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eric Maréchal",
+      "raw_affiliation_strings": [
+        "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France",
+          "institution_ids": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I3020098449",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5048497509",
+        "display_name": "Élodie Billey",
+        "orcid": "https://orcid.org/0000-0003-4888-7985"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I103084370",
+          "display_name": "Total (France)",
+          "ror": "https://ror.org/04sk34n56",
+          "country_code": "FR",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I103084370"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elodie Billey",
+      "raw_affiliation_strings": [
+        "TotalEnergies, OneTech, Centre de Recherche de Solaize CRES, Chemin du Canal, 69360 Solaize, France"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "TotalEnergies, OneTech, Centre de Recherche de Solaize CRES, Chemin du Canal, 69360 Solaize, France",
+          "institution_ids": [
+            "https://openalex.org/I103084370"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5066950773",
+        "display_name": "Gilles Curien",
+        "orcid": "https://orcid.org/0000-0002-5361-2399"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1294671590",
+          "display_name": "Centre National de la Recherche Scientifique",
+          "ror": "https://ror.org/02feahw73",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1294671590"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2738703131",
+          "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+          "ror": "https://ror.org/00jjx8s55",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I3020098449",
+          "display_name": "CEA Grenoble",
+          "ror": "https://ror.org/02mg6n827",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I3020098449"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210088668",
+          "display_name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+          "ror": "https://ror.org/003vg9w96",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210088668"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099371",
+          "display_name": "Laboratoire Physiologie Cellulaire & Végétale",
+          "ror": "https://ror.org/00jxe7243",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I4210091409",
+            "https://openalex.org/I4210096427",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I4210113668",
+            "https://openalex.org/I899635006"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I899635006",
+          "display_name": "Université Grenoble Alpes",
+          "ror": "https://ror.org/02rx3b187",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Gilles Curien",
+      "raw_affiliation_strings": [
+        "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France",
+          "institution_ids": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I3020098449",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5000428870",
+        "display_name": "Maxime Durot",
+        "orcid": "https://orcid.org/0000-0001-7189-5217"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I103084370",
+          "display_name": "Total (France)",
+          "ror": "https://ror.org/04sk34n56",
+          "country_code": "FR",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I103084370"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maxime Durot",
+      "raw_affiliation_strings": [
+        "TotalEnergies, OneTech, Centre de Recherche de Solaize CRES, Chemin du Canal, 69360 Solaize, France"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7189-5217",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "TotalEnergies, OneTech, Centre de Recherche de Solaize CRES, Chemin du Canal, 69360 Solaize, France",
+          "institution_ids": [
+            "https://openalex.org/I103084370"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5034085899",
+        "display_name": "Juliette Jouhet",
+        "orcid": "https://orcid.org/0000-0002-4402-2194"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1294671590",
+          "display_name": "Centre National de la Recherche Scientifique",
+          "ror": "https://ror.org/02feahw73",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1294671590"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2738703131",
+          "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+          "ror": "https://ror.org/00jjx8s55",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I3020098449",
+          "display_name": "CEA Grenoble",
+          "ror": "https://ror.org/02mg6n827",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I3020098449"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210088668",
+          "display_name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+          "ror": "https://ror.org/003vg9w96",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210088668"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099371",
+          "display_name": "Laboratoire Physiologie Cellulaire & Végétale",
+          "ror": "https://ror.org/00jxe7243",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I4210091409",
+            "https://openalex.org/I4210096427",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I4210113668",
+            "https://openalex.org/I899635006"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I899635006",
+          "display_name": "Université Grenoble Alpes",
+          "ror": "https://ror.org/02rx3b187",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Juliette Jouhet",
+      "raw_affiliation_strings": [
+        "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France. Electronic address: juliette.jouhet@cea.fr"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-4402-2194",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratoire de Physiologie Cellulaire et Végétale, CNRS, CEA, INRAE, Univ. Grenoble Alpes, 17 Avenue des Martyrs, 38000 Grenoble, France. Electronic address: juliette.jouhet@cea.fr",
+          "institution_ids": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I4210099371",
+            "https://openalex.org/I3020098449",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I899635006"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 12,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5034085899"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I1294671590",
+    "https://openalex.org/I2738703131",
+    "https://openalex.org/I3020098449",
+    "https://openalex.org/I4210088668",
+    "https://openalex.org/I4210099371",
+    "https://openalex.org/I899635006"
+  ],
+  "apc_list": {
+    "value": 4740,
+    "currency": "USD",
+    "value_usd": 4740
+  },
+  "apc_paid": {
+    "value": 4740,
+    "currency": "USD",
+    "value_usd": 4740
+  },
+  "fwci": 0.5034,
+  "has_fulltext": true,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.64176434,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "441",
+    "issue": null,
+    "first_page": "133619",
+    "last_page": "133619"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10476",
+    "display_name": "Algal biology and biofuel production",
+    "score": 0.9803000092506409,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2105",
+      "display_name": "Renewable Energy, Sustainability and the Environment"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/21",
+      "display_name": "Energy"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10476",
+      "display_name": "Algal biology and biofuel production",
+      "score": 0.9803000092506409,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2105",
+        "display_name": "Renewable Energy, Sustainability and the Environment"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/21",
+        "display_name": "Energy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10932",
+      "display_name": "Microbial Metabolic Engineering and Bioproduction",
+      "score": 0.015399999916553497,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10303",
+      "display_name": "Photosynthetic Processes and Mechanisms",
+      "score": 0.0006000000284984708,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/context",
+      "display_name": "Context (archaeology)",
+      "score": 0.6467999815940857
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolic-engineering",
+      "display_name": "Metabolic engineering",
+      "score": 0.6108999848365784
+    },
+    {
+      "id": "https://openalex.org/keywords/lipid-metabolism",
+      "display_name": "Lipid metabolism",
+      "score": 0.6086000204086304
+    },
+    {
+      "id": "https://openalex.org/keywords/mutant",
+      "display_name": "Mutant",
+      "score": 0.5195000171661377
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolic-pathway",
+      "display_name": "Metabolic pathway",
+      "score": 0.5073999762535095
+    },
+    {
+      "id": "https://openalex.org/keywords/flux",
+      "display_name": "Flux (metallurgy)",
+      "score": 0.5045999884605408
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolic-flux-analysis",
+      "display_name": "Metabolic flux analysis",
+      "score": 0.460099995136261
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolism",
+      "display_name": "Metabolism",
+      "score": 0.3971000015735626
+    },
+    {
+      "id": "https://openalex.org/keywords/lipid-droplet",
+      "display_name": "Lipid droplet",
+      "score": 0.38989999890327454
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.6467999815940857
+    },
+    {
+      "id": "https://openalex.org/C6350086",
+      "wikidata": "https://www.wikidata.org/wiki/Q6822347",
+      "display_name": "Metabolic engineering",
+      "level": 3,
+      "score": 0.6108999848365784
+    },
+    {
+      "id": "https://openalex.org/C4733338",
+      "wikidata": "https://www.wikidata.org/wiki/Q2792936",
+      "display_name": "Lipid metabolism",
+      "level": 2,
+      "score": 0.6086000204086304
+    },
+    {
+      "id": "https://openalex.org/C143065580",
+      "wikidata": "https://www.wikidata.org/wiki/Q3285695",
+      "display_name": "Mutant",
+      "level": 3,
+      "score": 0.5195000171661377
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.5188000202178955
+    },
+    {
+      "id": "https://openalex.org/C192989942",
+      "wikidata": "https://www.wikidata.org/wiki/Q68685",
+      "display_name": "Metabolic pathway",
+      "level": 3,
+      "score": 0.5073999762535095
+    },
+    {
+      "id": "https://openalex.org/C68709404",
+      "wikidata": "https://www.wikidata.org/wiki/Q1134475",
+      "display_name": "Flux (metallurgy)",
+      "level": 2,
+      "score": 0.5045999884605408
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.4772000014781952
+    },
+    {
+      "id": "https://openalex.org/C160941953",
+      "wikidata": "https://www.wikidata.org/wiki/Q6822342",
+      "display_name": "Metabolic flux analysis",
+      "level": 3,
+      "score": 0.460099995136261
+    },
+    {
+      "id": "https://openalex.org/C62231903",
+      "wikidata": "https://www.wikidata.org/wiki/Q1057",
+      "display_name": "Metabolism",
+      "level": 2,
+      "score": 0.3971000015735626
+    },
+    {
+      "id": "https://openalex.org/C25095133",
+      "wikidata": "https://www.wikidata.org/wiki/Q573950",
+      "display_name": "Lipid droplet",
+      "level": 2,
+      "score": 0.38989999890327454
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.37860000133514404
+    },
+    {
+      "id": "https://openalex.org/C19843653",
+      "wikidata": "https://www.wikidata.org/wiki/Q213907",
+      "display_name": "Model organism",
+      "level": 3,
+      "score": 0.3569999933242798
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.3434999883174896
+    },
+    {
+      "id": "https://openalex.org/C127716648",
+      "wikidata": "https://www.wikidata.org/wiki/Q104053",
+      "display_name": "Phenotype",
+      "level": 3,
+      "score": 0.33219999074935913
+    },
+    {
+      "id": "https://openalex.org/C183696295",
+      "wikidata": "https://www.wikidata.org/wiki/Q2487696",
+      "display_name": "Biochemical engineering",
+      "level": 1,
+      "score": 0.32739999890327454
+    },
+    {
+      "id": "https://openalex.org/C2992125399",
+      "wikidata": "https://www.wikidata.org/wiki/Q2824461",
+      "display_name": "Lipid accumulation",
+      "level": 2,
+      "score": 0.29919999837875366
+    },
+    {
+      "id": "https://openalex.org/C2779039970",
+      "wikidata": "https://www.wikidata.org/wiki/Q3610387",
+      "display_name": "Industrial microbiology",
+      "level": 3,
+      "score": 0.2930000126361847
+    },
+    {
+      "id": "https://openalex.org/C89611455",
+      "wikidata": "https://www.wikidata.org/wiki/Q6804646",
+      "display_name": "Mechanism (biology)",
+      "level": 2,
+      "score": 0.2912999987602234
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.2870999872684479
+    },
+    {
+      "id": "https://openalex.org/C2991947430",
+      "wikidata": "https://www.wikidata.org/wiki/Q7108",
+      "display_name": "Industrial biotechnology",
+      "level": 2,
+      "score": 0.2816999852657318
+    },
+    {
+      "id": "https://openalex.org/C2777141785",
+      "wikidata": "https://www.wikidata.org/wiki/Q586679",
+      "display_name": "Nannochloropsis",
+      "level": 3,
+      "score": 0.28139999508857727
+    },
+    {
+      "id": "https://openalex.org/C167091322",
+      "wikidata": "https://www.wikidata.org/wiki/Q5463029",
+      "display_name": "Flux balance analysis",
+      "level": 2,
+      "score": 0.2709999978542328
+    },
+    {
+      "id": "https://openalex.org/C152662350",
+      "wikidata": "https://www.wikidata.org/wiki/Q815297",
+      "display_name": "Systems biology",
+      "level": 2,
+      "score": 0.2596000134944916
+    },
+    {
+      "id": "https://openalex.org/C21565614",
+      "wikidata": "https://www.wikidata.org/wiki/Q12149006",
+      "display_name": "Metabolomics",
+      "level": 2,
+      "score": 0.2581999897956848
+    },
+    {
+      "id": "https://openalex.org/C98045186",
+      "wikidata": "https://www.wikidata.org/wiki/Q205663",
+      "display_name": "Process (computing)",
+      "level": 2,
+      "score": 0.2572000026702881
+    },
+    {
+      "id": "https://openalex.org/C191908910",
+      "wikidata": "https://www.wikidata.org/wiki/Q862838",
+      "display_name": "Synthetic biology",
+      "level": 2,
+      "score": 0.2565000057220459
+    },
+    {
+      "id": "https://openalex.org/C2778022156",
+      "wikidata": "https://www.wikidata.org/wiki/Q576145",
+      "display_name": "Strain (injury)",
+      "level": 2,
+      "score": 0.2522999942302704
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009154",
+      "descriptor_name": "Mutation",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009154",
+      "descriptor_name": "Mutation",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009154",
+      "descriptor_name": "Mutation",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010641",
+      "descriptor_name": "Phenotype",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010641",
+      "descriptor_name": "Phenotype",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010641",
+      "descriptor_name": "Phenotype",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016678",
+      "descriptor_name": "Genome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016678",
+      "descriptor_name": "Genome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016678",
+      "descriptor_name": "Genome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D050356",
+      "descriptor_name": "Lipid Metabolism",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D050356",
+      "descriptor_name": "Lipid Metabolism",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D050356",
+      "descriptor_name": "Lipid Metabolism",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D058086",
+      "descriptor_name": "Microalgae",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D058086",
+      "descriptor_name": "Microalgae",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D058086",
+      "descriptor_name": "Microalgae",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D058086",
+      "descriptor_name": "Microalgae",
+      "qualifier_ui": "Q000254",
+      "qualifier_name": "growth & development",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D058086",
+      "descriptor_name": "Microalgae",
+      "qualifier_ui": "Q000254",
+      "qualifier_name": "growth & development",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D058086",
+      "descriptor_name": "Microalgae",
+      "qualifier_ui": "Q000254",
+      "qualifier_name": "growth & development",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D058086",
+      "descriptor_name": "Microalgae",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D058086",
+      "descriptor_name": "Microalgae",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D058086",
+      "descriptor_name": "Microalgae",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.biortech.2025.133619",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.biortech.2025.133619",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S21442059",
+        "display_name": "Bioresource Technology",
+        "issn_l": "0960-8524",
+        "issn": [
+          "0960-8524",
+          "1873-2976"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Bioresource Technology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:41218742",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41218742",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Bioresource technology",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:HAL:hal-05369654v1",
+      "is_oa": true,
+      "landing_page_url": "https://hal.science/hal-05369654",
+      "pdf_url": "https://hal.science/hal-05369654v1/document",
+      "source": {
+        "id": "https://openalex.org/S4306402512",
+        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1294671590",
+        "host_organization_name": "Centre National de la Recherche Scientifique",
+        "host_organization_lineage": [
+          "https://openalex.org/I1294671590"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Bioresource Technology, 2026, 441, pp.133619. &#x27E8;10.1016/j.biortech.2025.133619&#x27E9;",
+      "raw_type": "Journal articles"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.biortech.2025.133619",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.biortech.2025.133619",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S21442059",
+      "display_name": "Bioresource Technology",
+      "issn_l": "0960-8524",
+      "issn": [
+        "0960-8524",
+        "1873-2976"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Bioresource Technology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1513157868",
+      "display_name": "CBH-EUR-GS",
+      "funder_award_id": "ANR-17-EURE-0003",
+      "funder_id": "https://openalex.org/F4320320883",
+      "funder_display_name": "Agence Nationale de la Recherche"
+    },
+    {
+      "id": "https://openalex.org/G2659019386",
+      "display_name": null,
+      "funder_award_id": "ANR-17-EURE-",
+      "funder_id": "https://openalex.org/F4320320883",
+      "funder_display_name": "Agence Nationale de la Recherche"
+    },
+    {
+      "id": "https://openalex.org/G6803667113",
+      "display_name": null,
+      "funder_award_id": "ANR-17",
+      "funder_id": "https://openalex.org/F4320320883",
+      "funder_display_name": "Agence Nationale de la Recherche"
+    },
+    {
+      "id": "https://openalex.org/G7117429432",
+      "display_name": null,
+      "funder_award_id": "2020/1063",
+      "funder_id": "https://openalex.org/F4320323911",
+      "funder_display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives"
+    },
+    {
+      "id": "https://openalex.org/G8657497786",
+      "display_name": null,
+      "funder_award_id": "17-EURE-0003",
+      "funder_id": "https://openalex.org/F4320320883",
+      "funder_display_name": "Agence Nationale de la Recherche"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320883",
+      "display_name": "Agence Nationale de la Recherche",
+      "ror": "https://ror.org/00rbzpz17"
+    },
+    {
+      "id": "https://openalex.org/F4320321663",
+      "display_name": "Association Nationale de la Recherche et de la Technologie",
+      "ror": "https://ror.org/00ht2ab73"
+    },
+    {
+      "id": "https://openalex.org/F4320323911",
+      "display_name": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+      "ror": "https://ror.org/00jjx8s55"
+    },
+    {
+      "id": "https://openalex.org/F4320324219",
+      "display_name": "Total",
+      "ror": "https://ror.org/04sk34n56"
+    },
+    {
+      "id": "https://openalex.org/F4320328551",
+      "display_name": "Centro de Ecológia Aplicada",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 101,
+  "referenced_works": [
+    "https://openalex.org/W1128363000",
+    "https://openalex.org/W1633226001",
+    "https://openalex.org/W1665355332",
+    "https://openalex.org/W1935434993",
+    "https://openalex.org/W1978408474",
+    "https://openalex.org/W1985426628",
+    "https://openalex.org/W1987919833",
+    "https://openalex.org/W2000905176",
+    "https://openalex.org/W2004115491",
+    "https://openalex.org/W2005454058",
+    "https://openalex.org/W2009453329",
+    "https://openalex.org/W2033377040",
+    "https://openalex.org/W2040751953",
+    "https://openalex.org/W2048465561",
+    "https://openalex.org/W2055043387",
+    "https://openalex.org/W2078355959",
+    "https://openalex.org/W2084322857",
+    "https://openalex.org/W2089862681",
+    "https://openalex.org/W2093656658",
+    "https://openalex.org/W2096564574",
+    "https://openalex.org/W2102164505",
+    "https://openalex.org/W2102450255",
+    "https://openalex.org/W2109409210",
+    "https://openalex.org/W2110848954",
+    "https://openalex.org/W2111421616",
+    "https://openalex.org/W2111796963",
+    "https://openalex.org/W2112785516",
+    "https://openalex.org/W2114206363",
+    "https://openalex.org/W2117306286",
+    "https://openalex.org/W2139213776",
+    "https://openalex.org/W2151831732",
+    "https://openalex.org/W2152379446",
+    "https://openalex.org/W2154172700",
+    "https://openalex.org/W2154708348",
+    "https://openalex.org/W2160541874",
+    "https://openalex.org/W2162471251",
+    "https://openalex.org/W2165189049",
+    "https://openalex.org/W2182259959",
+    "https://openalex.org/W2202347610",
+    "https://openalex.org/W2247012228",
+    "https://openalex.org/W2258910693",
+    "https://openalex.org/W2292612646",
+    "https://openalex.org/W2309000102",
+    "https://openalex.org/W2314406920",
+    "https://openalex.org/W2346689092",
+    "https://openalex.org/W2466178221",
+    "https://openalex.org/W2558000280",
+    "https://openalex.org/W2622192771",
+    "https://openalex.org/W2725243226",
+    "https://openalex.org/W2744618004",
+    "https://openalex.org/W2746228772",
+    "https://openalex.org/W2762019694",
+    "https://openalex.org/W2766126953",
+    "https://openalex.org/W2767088268",
+    "https://openalex.org/W2789627513",
+    "https://openalex.org/W2800462410",
+    "https://openalex.org/W2800754486",
+    "https://openalex.org/W2804977648",
+    "https://openalex.org/W2888962071",
+    "https://openalex.org/W2890350885",
+    "https://openalex.org/W2892125910",
+    "https://openalex.org/W2914590810",
+    "https://openalex.org/W2951187726",
+    "https://openalex.org/W2952015518",
+    "https://openalex.org/W2953213185",
+    "https://openalex.org/W2955582289",
+    "https://openalex.org/W2964251256",
+    "https://openalex.org/W2976601076",
+    "https://openalex.org/W2977870980",
+    "https://openalex.org/W3006794915",
+    "https://openalex.org/W3010629926",
+    "https://openalex.org/W3014000069",
+    "https://openalex.org/W3037136598",
+    "https://openalex.org/W3038232841",
+    "https://openalex.org/W3040283394",
+    "https://openalex.org/W3094399674",
+    "https://openalex.org/W3095049046",
+    "https://openalex.org/W3124357632",
+    "https://openalex.org/W3136136961",
+    "https://openalex.org/W3157431635",
+    "https://openalex.org/W3164762304",
+    "https://openalex.org/W3199757852",
+    "https://openalex.org/W3212009367",
+    "https://openalex.org/W4233120011",
+    "https://openalex.org/W4247025394",
+    "https://openalex.org/W4281752490",
+    "https://openalex.org/W4285084382",
+    "https://openalex.org/W4294216483",
+    "https://openalex.org/W4308153382",
+    "https://openalex.org/W4309090354",
+    "https://openalex.org/W4313531916",
+    "https://openalex.org/W4317399160",
+    "https://openalex.org/W4360868603",
+    "https://openalex.org/W4377291563",
+    "https://openalex.org/W4384820929",
+    "https://openalex.org/W4393947199",
+    "https://openalex.org/W4401027387",
+    "https://openalex.org/W4401171487",
+    "https://openalex.org/W4404458588",
+    "https://openalex.org/W4404568369",
+    "https://openalex.org/W4405885860"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      140
+    ],
+    "oleaginous": [
+      1
+    ],
+    "microalga": [
+      2
+    ],
+    "Microchloropsis": [
+      3,
+      73
+    ],
+    "gaditana": [
+      4,
+      53,
+      108,
+      157,
+      193,
+      210
+    ],
+    "(formerly": [
+      5
+    ],
+    "Nannochloropsis": [
+      6
+    ],
+    "gaditana)": [
+      7
+    ],
+    "has": [
+      8
+    ],
+    "gained": [
+      9
+    ],
+    "large": [
+      10
+    ],
+    "interest": [
+      11
+    ],
+    "due": [
+      12
+    ],
+    "to": [
+      13,
+      16,
+      145,
+      186
+    ],
+    "its": [
+      14,
+      76,
+      198
+    ],
+    "potential": [
+      15
+    ],
+    "produce": [
+      17
+    ],
+    "lipids": [
+      18
+    ],
+    "for": [
+      19,
+      36,
+      51,
+      204,
+      213,
+      238
+    ],
+    "a": [
+      20,
+      46,
+      172,
+      179,
+      188
+    ],
+    "wide": [
+      21
+    ],
+    "range": [
+      22
+    ],
+    "of": [
+      23,
+      69,
+      106,
+      149,
+      183,
+      191,
+      208,
+      221,
+      226,
+      230,
+      235
+    ],
+    "biotechnological": [
+      24,
+      243
+    ],
+    "applications.": [
+      25
+    ],
+    "Computational": [
+      26
+    ],
+    "models": [
+      27,
+      32,
+      74
+    ],
+    "such": [
+      28
+    ],
+    "as": [
+      29
+    ],
+    "genome-scale": [
+      30,
+      48
+    ],
+    "metabolic": [
+      31,
+      49
+    ],
+    "constitute": [
+      33,
+      201
+    ],
+    "powerful": [
+      34
+    ],
+    "tools": [
+      35,
+      203
+    ],
+    "unravelling": [
+      37
+    ],
+    "microorganism": [
+      38
+    ],
+    "metabolism.": [
+      39,
+      110,
+      194
+    ],
+    "In": [
+      40,
+      175
+    ],
+    "this": [
+      41
+    ],
+    "work": [
+      42
+    ],
+    "we": [
+      43,
+      177
+    ],
+    "present": [
+      44
+    ],
+    "iMgadit23,": [
+      45
+    ],
+    "new": [
+      47
+    ],
+    "model": [
+      50,
+      141,
+      184
+    ],
+    "M.": [
+      52,
+      107,
+      156,
+      192,
+      209
+    ],
+    "that": [
+      54,
+      91
+    ],
+    "encompasses": [
+      55
+    ],
+    "2330": [
+      56
+    ],
+    "reactions": [
+      57
+    ],
+    "involving": [
+      58
+    ],
+    "1977": [
+      59
+    ],
+    "metabolites": [
+      60
+    ],
+    "and": [
+      61,
+      85,
+      89,
+      97,
+      121,
+      131,
+      138,
+      197,
+      212,
+      233,
+      241
+    ],
+    "associated": [
+      62
+    ],
+    "with": [
+      63,
+      160,
+      165
+    ],
+    "889": [
+      64
+    ],
+    "genes.": [
+      65
+    ],
+    "A": [
+      66
+    ],
+    "key": [
+      67
+    ],
+    "advancement": [
+      68
+    ],
+    "iMgadit23": [
+      70,
+      111,
+      196
+    ],
+    "over": [
+      71
+    ],
+    "other": [
+      72,
+      242
+    ],
+    "is": [
+      75
+    ],
+    "fully": [
+      77
+    ],
+    "detailed": [
+      78
+    ],
+    "lipid": [
+      79,
+      109,
+      158,
+      168,
+      222,
+      231
+    ],
+    "metabolism:": [
+      80
+    ],
+    "pathways": [
+      81
+    ],
+    "involved": [
+      82
+    ],
+    "in": [
+      83,
+      114,
+      154,
+      171,
+      218
+    ],
+    "membrane": [
+      84
+    ],
+    "storage": [
+      86
+    ],
+    "glycerolipid": [
+      87
+    ],
+    "biosynthesis": [
+      88
+    ],
+    "degradation": [
+      90
+    ],
+    "have": [
+      92,
+      98
+    ],
+    "undergone": [
+      93
+    ],
+    "thorough": [
+      94
+    ],
+    "manual": [
+      95
+    ],
+    "curation": [
+      96
+    ],
+    "been": [
+      99
+    ],
+    "comprehensively": [
+      100
+    ],
+    "described": [
+      101
+    ],
+    "based": [
+      102
+    ],
+    "on": [
+      103,
+      127
+    ],
+    "current": [
+      104
+    ],
+    "knowledge": [
+      105
+    ],
+    "successfully": [
+      112
+    ],
+    "reproduced": [
+      113
+    ],
+    "vivo": [
+      115
+    ],
+    "growth": [
+      116,
+      126,
+      133
+    ],
+    "phenotypes": [
+      117
+    ],
+    "under": [
+      118,
+      134
+    ],
+    "diverse": [
+      119
+    ],
+    "environmental": [
+      120
+    ],
+    "genetic": [
+      122
+    ],
+    "conditions,": [
+      123
+    ],
+    "including": [
+      124
+    ],
+    "heterotrophic": [
+      125
+    ],
+    "multiple": [
+      128
+    ],
+    "carbon": [
+      129
+    ],
+    "sources": [
+      130,
+      137
+    ],
+    "photoautotrophic": [
+      132
+    ],
+    "varying": [
+      135
+    ],
+    "nitrogen": [
+      136
+    ],
+    "concentrations.": [
+      139
+    ],
+    "was": [
+      142
+    ],
+    "also": [
+      143
+    ],
+    "able": [
+      144
+    ],
+    "capture": [
+      146
+    ],
+    "the": [
+      147,
+      150,
+      166,
+      219
+    ],
+    "role": [
+      148
+    ],
+    "Bubblegum": [
+      151
+    ],
+    "acyl-CoA": [
+      152
+    ],
+    "synthetase": [
+      153
+    ],
+    "remodeling": [
+      155
+    ],
+    "metabolism,": [
+      159,
+      223
+    ],
+    "predicted": [
+      161
+    ],
+    "flux": [
+      162
+    ],
+    "distributions": [
+      163
+    ],
+    "consistent": [
+      164
+    ],
+    "altered": [
+      167
+    ],
+    "profile": [
+      169
+    ],
+    "observed": [
+      170
+    ],
+    "mutant": [
+      173,
+      215
+    ],
+    "strain.": [
+      174
+    ],
+    "addition,": [
+      176
+    ],
+    "developed": [
+      178
+    ],
+    "comprehensive": [
+      180
+    ],
+    "2D-pathway": [
+      181
+    ],
+    "map": [
+      182,
+      200
+    ],
+    "content": [
+      185
+    ],
+    "provide": [
+      187
+    ],
+    "systems-level": [
+      189
+    ],
+    "visualization": [
+      190
+    ],
+    "Together,": [
+      195
+    ],
+    "2D": [
+      199
+    ],
+    "valuable": [
+      202
+    ],
+    "advancing": [
+      205
+    ],
+    "our": [
+      206
+    ],
+    "understanding": [
+      207
+    ],
+    "metabolism": [
+      211
+    ],
+    "deciphering": [
+      214
+    ],
+    "phenotypes,": [
+      216
+    ],
+    "particularly": [
+      217
+    ],
+    "context": [
+      220
+    ],
+    "allowing": [
+      224
+    ],
+    "optimization": [
+      225
+    ],
+    "cultivation": [
+      227
+    ],
+    "strategies,": [
+      228
+    ],
+    "enhancement": [
+      229
+    ],
+    "productivity,": [
+      232
+    ],
+    "guidance": [
+      234
+    ],
+    "strain": [
+      236
+    ],
+    "engineering": [
+      237
+    ],
+    "biofuel": [
+      239
+    ],
+    "production": [
+      240
+    ],
+    "processes.": [
+      244
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-06-22T08:00:12.763002",
+  "created_date": "2025-11-10T00:00:00"
+}

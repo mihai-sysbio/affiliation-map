@@ -1,0 +1,170 @@
+{
+  "id": "https://openalex.org/W4408386721",
+  "doi": "https://doi.org/10.1371/journal.pcbi.1012109",
+  "display_name": "RBC-GEM: A genome-scale metabolic model for systems biology of the human red blood cell",
+  "publication_year": 2025,
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5046266224",
+        "display_name": "Zachary B. Haiman",
+        "orcid": "https://orcid.org/0000-0001-6175-5050"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I36258959",
+          "display_name": "University of California San Diego",
+          "ror": "https://ror.org/0168r3w48",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I36258959"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Zachary B. Haiman",
+      "raw_affiliation_strings": [
+        "Department of Bioengineering, University of California San Diego, La Jolla, California, United States of America"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6175-5050",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Bioengineering, University of California San Diego, La Jolla, California, United States of America",
+          "institution_ids": [
+            "https://openalex.org/I36258959"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031546101",
+        "display_name": "Alicia Key",
+        "orcid": "https://orcid.org/0000-0002-8787-8144"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I51713134",
+          "display_name": "University of Colorado Anschutz Medical Campus",
+          "ror": "https://ror.org/03wmf1y16",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I51713134"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Alicia Key",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Genetics, University of Colorado Anschutz Medical Campus, Aurora, Colorado, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8787-8144",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Genetics, University of Colorado Anschutz Medical Campus, Aurora, Colorado, USA",
+          "institution_ids": [
+            "https://openalex.org/I51713134"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5045175167",
+        "display_name": "Angelo D’Alessandro",
+        "orcid": "https://orcid.org/0000-0002-2258-6490"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I51713134",
+          "display_name": "University of Colorado Anschutz Medical Campus",
+          "ror": "https://ror.org/03wmf1y16",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I51713134"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Angelo D’Alessandro",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Genetics, University of Colorado Anschutz Medical Campus, Aurora, Colorado, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2258-6490",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Genetics, University of Colorado Anschutz Medical Campus, Aurora, Colorado, USA",
+          "institution_ids": [
+            "https://openalex.org/I51713134"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5051097609",
+        "display_name": "Bernhard Ø. Palsson",
+        "orcid": "https://orcid.org/0000-0003-2357-6785"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I36258959",
+          "display_name": "University of California San Diego",
+          "ror": "https://ror.org/0168r3w48",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I36258959"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Bernhard O. Palsson",
+      "raw_affiliation_strings": [
+        "Bioinformatics and Systems Biology Program, University of California, La Jolla, San Diego, California, United States of America",
+        "Department of Bioengineering, University of California San Diego, La Jolla, California, United States of America",
+        "Department of Pediatrics, University of California San Diego, La Jolla, California, United States of America"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-2357-6785",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Bioinformatics and Systems Biology Program, University of California, La Jolla, San Diego, California, United States of America",
+          "institution_ids": [
+            "https://openalex.org/I36258959"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Bioengineering, University of California San Diego, La Jolla, California, United States of America",
+          "institution_ids": [
+            "https://openalex.org/I36258959"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Pediatrics, University of California San Diego, La Jolla, California, United States of America",
+          "institution_ids": [
+            "https://openalex.org/I36258959"
+          ]
+        }
+      ]
+    }
+  ]
+}

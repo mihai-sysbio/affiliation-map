@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I1292875679",
+  "ror": "https://ror.org/03qn8fb07",
+  "display_name": "Commonwealth Scientific and Industrial Research Organisation",
+  "country_code": "AU",
+  "type": "government",
+  "geo": {
+    "city": "Canberra",
+    "geonames_city_id": "2172517",
+    "region": "Australian Capital Territory",
+    "country_code": "AU",
+    "country": "Australia",
+    "latitude": -35.28346,
+    "longitude": 149.12807
+  }
+}

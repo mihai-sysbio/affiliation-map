@@ -1,0 +1,2012 @@
+{
+  "id": "https://openalex.org/W4408386721",
+  "doi": "https://doi.org/10.1371/journal.pcbi.1012109",
+  "title": "RBC-GEM: A genome-scale metabolic model for systems biology of the human red blood cell",
+  "display_name": "RBC-GEM: A genome-scale metabolic model for systems biology of the human red blood cell",
+  "publication_year": 2025,
+  "publication_date": "2025-03-12",
+  "ids": {
+    "openalex": "https://openalex.org/W4408386721",
+    "doi": "https://doi.org/10.1371/journal.pcbi.1012109",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/40072998"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1371/journal.pcbi.1012109",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1371/journal.pcbi.1012109",
+    "pdf_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1012109&type=printable",
+    "source": {
+      "id": "https://openalex.org/S86033158",
+      "display_name": "PLoS Computational Biology",
+      "issn_l": "1553-734X",
+      "issn": [
+        "1553-734X",
+        "1553-7358"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315706",
+      "host_organization_name": "Public Library of Science",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315706"
+      ],
+      "host_organization_lineage_names": [
+        "Public Library of Science"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "PLOS Computational Biology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1012109&type=printable",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5046266224",
+        "display_name": "Zachary B. Haiman",
+        "orcid": "https://orcid.org/0000-0001-6175-5050"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I36258959",
+          "display_name": "University of California San Diego",
+          "ror": "https://ror.org/0168r3w48",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I36258959"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Zachary B. Haiman",
+      "raw_affiliation_strings": [
+        "Department of Bioengineering, University of California San Diego, La Jolla, California, United States of America"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6175-5050",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Bioengineering, University of California San Diego, La Jolla, California, United States of America",
+          "institution_ids": [
+            "https://openalex.org/I36258959"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031546101",
+        "display_name": "Alicia Key",
+        "orcid": "https://orcid.org/0000-0002-8787-8144"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I51713134",
+          "display_name": "University of Colorado Anschutz Medical Campus",
+          "ror": "https://ror.org/03wmf1y16",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I51713134"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Alicia Key",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Genetics, University of Colorado Anschutz Medical Campus, Aurora, Colorado, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8787-8144",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Genetics, University of Colorado Anschutz Medical Campus, Aurora, Colorado, USA",
+          "institution_ids": [
+            "https://openalex.org/I51713134"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5045175167",
+        "display_name": "Angelo D’Alessandro",
+        "orcid": "https://orcid.org/0000-0002-2258-6490"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I51713134",
+          "display_name": "University of Colorado Anschutz Medical Campus",
+          "ror": "https://ror.org/03wmf1y16",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I51713134"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Angelo D’Alessandro",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry and Molecular Genetics, University of Colorado Anschutz Medical Campus, Aurora, Colorado, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2258-6490",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry and Molecular Genetics, University of Colorado Anschutz Medical Campus, Aurora, Colorado, USA",
+          "institution_ids": [
+            "https://openalex.org/I51713134"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5051097609",
+        "display_name": "Bernhard Ø. Palsson",
+        "orcid": "https://orcid.org/0000-0003-2357-6785"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I36258959",
+          "display_name": "University of California San Diego",
+          "ror": "https://ror.org/0168r3w48",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I36258959"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Bernhard O. Palsson",
+      "raw_affiliation_strings": [
+        "Bioinformatics and Systems Biology Program, University of California, La Jolla, San Diego, California, United States of America",
+        "Department of Bioengineering, University of California San Diego, La Jolla, California, United States of America",
+        "Department of Pediatrics, University of California San Diego, La Jolla, California, United States of America"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-2357-6785",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Bioinformatics and Systems Biology Program, University of California, La Jolla, San Diego, California, United States of America",
+          "institution_ids": [
+            "https://openalex.org/I36258959"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Bioengineering, University of California San Diego, La Jolla, California, United States of America",
+          "institution_ids": [
+            "https://openalex.org/I36258959"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Pediatrics, University of California San Diego, La Jolla, California, United States of America",
+          "institution_ids": [
+            "https://openalex.org/I36258959"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5031546101",
+    "https://openalex.org/A5045175167",
+    "https://openalex.org/A5046266224",
+    "https://openalex.org/A5051097609"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I36258959",
+    "https://openalex.org/I51713134"
+  ],
+  "apc_list": {
+    "value": 2655,
+    "currency": "USD",
+    "value_usd": 2655
+  },
+  "apc_paid": {
+    "value": 2655,
+    "currency": "USD",
+    "value_usd": 2655
+  },
+  "fwci": 4.3043,
+  "has_fulltext": true,
+  "cited_by_count": 8,
+  "citation_normalized_percentile": {
+    "value": 0.94229028,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "21",
+    "issue": "3",
+    "first_page": "e1012109",
+    "last_page": "e1012109"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10836",
+    "display_name": "Metabolomics and Mass Spectrometry Studies",
+    "score": 0.9966999888420105,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10836",
+      "display_name": "Metabolomics and Mass Spectrometry Studies",
+      "score": 0.9966999888420105,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10932",
+      "display_name": "Microbial Metabolic Engineering and Bioproduction",
+      "score": 0.9958999752998352,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10044",
+      "display_name": "Protein Structure and Dynamics",
+      "score": 0.9872999787330627,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/proteome",
+      "display_name": "Proteome",
+      "score": 0.6884033679962158
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.6367346048355103
+    },
+    {
+      "id": "https://openalex.org/keywords/context",
+      "display_name": "Context (archaeology)",
+      "score": 0.610610842704773
+    },
+    {
+      "id": "https://openalex.org/keywords/systems-biology",
+      "display_name": "Systems biology",
+      "score": 0.5812339186668396
+    },
+    {
+      "id": "https://openalex.org/keywords/workflow",
+      "display_name": "Workflow",
+      "score": 0.5676805973052979
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.5391768217086792
+    },
+    {
+      "id": "https://openalex.org/keywords/proteomics",
+      "display_name": "Proteomics",
+      "score": 0.5153421759605408
+    },
+    {
+      "id": "https://openalex.org/keywords/genome",
+      "display_name": "Genome",
+      "score": 0.4423781931400299
+    },
+    {
+      "id": "https://openalex.org/keywords/bioinformatics",
+      "display_name": "Bioinformatics",
+      "score": 0.342841774225235
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.2683336138725281
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.20022180676460266
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.17207494378089905
+    },
+    {
+      "id": "https://openalex.org/keywords/database",
+      "display_name": "Database",
+      "score": 0.1043243408203125
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C104397665",
+      "wikidata": "https://www.wikidata.org/wiki/Q860947",
+      "display_name": "Proteome",
+      "level": 2,
+      "score": 0.6884033679962158
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.6367346048355103
+    },
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.610610842704773
+    },
+    {
+      "id": "https://openalex.org/C152662350",
+      "wikidata": "https://www.wikidata.org/wiki/Q815297",
+      "display_name": "Systems biology",
+      "level": 2,
+      "score": 0.5812339186668396
+    },
+    {
+      "id": "https://openalex.org/C177212765",
+      "wikidata": "https://www.wikidata.org/wiki/Q627335",
+      "display_name": "Workflow",
+      "level": 2,
+      "score": 0.5676805973052979
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.5391768217086792
+    },
+    {
+      "id": "https://openalex.org/C46111723",
+      "wikidata": "https://www.wikidata.org/wiki/Q471857",
+      "display_name": "Proteomics",
+      "level": 3,
+      "score": 0.5153421759605408
+    },
+    {
+      "id": "https://openalex.org/C141231307",
+      "wikidata": "https://www.wikidata.org/wiki/Q7020",
+      "display_name": "Genome",
+      "level": 3,
+      "score": 0.4423781931400299
+    },
+    {
+      "id": "https://openalex.org/C60644358",
+      "wikidata": "https://www.wikidata.org/wiki/Q128570",
+      "display_name": "Bioinformatics",
+      "level": 1,
+      "score": 0.342841774225235
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.2683336138725281
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.20022180676460266
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.17207494378089905
+    },
+    {
+      "id": "https://openalex.org/C77088390",
+      "wikidata": "https://www.wikidata.org/wiki/Q8513",
+      "display_name": "Database",
+      "level": 1,
+      "score": 0.1043243408203125
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D004912",
+      "descriptor_name": "Erythrocytes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004912",
+      "descriptor_name": "Erythrocytes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004912",
+      "descriptor_name": "Erythrocytes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004912",
+      "descriptor_name": "Erythrocytes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004912",
+      "descriptor_name": "Erythrocytes",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015894",
+      "descriptor_name": "Genome, Human",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015894",
+      "descriptor_name": "Genome, Human",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015894",
+      "descriptor_name": "Genome, Human",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015894",
+      "descriptor_name": "Genome, Human",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015894",
+      "descriptor_name": "Genome, Human",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D049490",
+      "descriptor_name": "Systems Biology",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D049490",
+      "descriptor_name": "Systems Biology",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D049490",
+      "descriptor_name": "Systems Biology",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D049490",
+      "descriptor_name": "Systems Biology",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D049490",
+      "descriptor_name": "Systems Biology",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 6,
+  "locations": [
+    {
+      "id": "doi:10.1371/journal.pcbi.1012109",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1371/journal.pcbi.1012109",
+      "pdf_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1012109&type=printable",
+      "source": {
+        "id": "https://openalex.org/S86033158",
+        "display_name": "PLoS Computational Biology",
+        "issn_l": "1553-734X",
+        "issn": [
+          "1553-734X",
+          "1553-7358"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310315706",
+        "host_organization_name": "Public Library of Science",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315706"
+        ],
+        "host_organization_lineage_names": [
+          "Public Library of Science"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PLOS Computational Biology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:40072998",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40072998",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PLoS computational biology",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:11925312",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11925312",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PLoS Comput Biol",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:escholarship.org:ark:/13030/qt2v85d5qj",
+      "is_oa": true,
+      "landing_page_url": "https://escholarship.org/uc/item/2v85d5qj",
+      "pdf_url": "https://escholarship.org/content/qt2v85d5qj/qt2v85d5qj.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306400115",
+        "display_name": "eScholarship (California Digital Library)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I2801248553",
+        "host_organization_name": "California Digital Library",
+        "host_organization_lineage": [
+          "https://openalex.org/I2801248553"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "PLOS Computational Biology, vol 21, iss 3",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:ark:/13030/qt2v85d5qj",
+      "is_oa": false,
+      "landing_page_url": null,
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:68a5b34fd7914e7cac117c98e1f7d1ac",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/68a5b34fd7914e7cac117c98e1f7d1ac",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "PLoS Computational Biology, Vol 21, Iss 3, p e1012109 (2025)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1371/journal.pcbi.1012109",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1371/journal.pcbi.1012109",
+    "pdf_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1012109&type=printable",
+    "source": {
+      "id": "https://openalex.org/S86033158",
+      "display_name": "PLoS Computational Biology",
+      "issn_l": "1553-734X",
+      "issn": [
+        "1553-734X",
+        "1553-7358"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315706",
+      "host_organization_name": "Public Library of Science",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315706"
+      ],
+      "host_organization_lineage_names": [
+        "Public Library of Science"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "PLOS Computational Biology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1796637411",
+      "display_name": null,
+      "funder_award_id": "R01HL146442",
+      "funder_id": "https://openalex.org/F4320337338",
+      "funder_display_name": "National Heart, Lung, and Blood Institute"
+    },
+    {
+      "id": "https://openalex.org/G2683826487",
+      "display_name": null,
+      "funder_award_id": "R01HL148151",
+      "funder_id": "https://openalex.org/F4320337338",
+      "funder_display_name": "National Heart, Lung, and Blood Institute"
+    },
+    {
+      "id": "https://openalex.org/G3146934095",
+      "display_name": null,
+      "funder_award_id": "R01 HL148151",
+      "funder_id": "https://openalex.org/F4320337338",
+      "funder_display_name": "National Heart, Lung, and Blood Institute"
+    },
+    {
+      "id": "https://openalex.org/G3645435297",
+      "display_name": null,
+      "funder_award_id": "R01 HL146442",
+      "funder_id": "https://openalex.org/F4320337338",
+      "funder_display_name": "National Heart, Lung, and Blood Institute"
+    },
+    {
+      "id": "https://openalex.org/G4451713954",
+      "display_name": null,
+      "funder_award_id": "R01 HL149714",
+      "funder_id": "https://openalex.org/F4320337338",
+      "funder_display_name": "National Heart, Lung, and Blood Institute"
+    },
+    {
+      "id": "https://openalex.org/G526168587",
+      "display_name": null,
+      "funder_award_id": "R01HL146442, R01HL149714, and R01HL148151",
+      "funder_id": "https://openalex.org/F4320337338",
+      "funder_display_name": "National Heart, Lung, and Blood Institute"
+    },
+    {
+      "id": "https://openalex.org/G5607442655",
+      "display_name": null,
+      "funder_award_id": "and R01HL148151",
+      "funder_id": "https://openalex.org/F4320337338",
+      "funder_display_name": "National Heart, Lung, and Blood Institute"
+    },
+    {
+      "id": "https://openalex.org/G6295517637",
+      "display_name": null,
+      "funder_award_id": "R01HL149714",
+      "funder_id": "https://openalex.org/F4320337338",
+      "funder_display_name": "National Heart, Lung, and Blood Institute"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320332603",
+      "display_name": "University of California, San Diego",
+      "ror": "https://ror.org/0168r3w48"
+    },
+    {
+      "id": "https://openalex.org/F4320337338",
+      "display_name": "National Heart, Lung, and Blood Institute",
+      "ror": "https://ror.org/012pb6c26"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4408386721.pdf"
+  },
+  "referenced_works_count": 299,
+  "referenced_works": [
+    "https://openalex.org/W3650204",
+    "https://openalex.org/W28361750",
+    "https://openalex.org/W112651511",
+    "https://openalex.org/W139815902",
+    "https://openalex.org/W147939766",
+    "https://openalex.org/W196774176",
+    "https://openalex.org/W1199794948",
+    "https://openalex.org/W1484078749",
+    "https://openalex.org/W1487088539",
+    "https://openalex.org/W1509142077",
+    "https://openalex.org/W1512735145",
+    "https://openalex.org/W1528907671",
+    "https://openalex.org/W1545620758",
+    "https://openalex.org/W1549421076",
+    "https://openalex.org/W1561304603",
+    "https://openalex.org/W1563406908",
+    "https://openalex.org/W1655162787",
+    "https://openalex.org/W1665355332",
+    "https://openalex.org/W1805611945",
+    "https://openalex.org/W1860450641",
+    "https://openalex.org/W1925289396",
+    "https://openalex.org/W1941224002",
+    "https://openalex.org/W1966533136",
+    "https://openalex.org/W1967431643",
+    "https://openalex.org/W1970562141",
+    "https://openalex.org/W1970843729",
+    "https://openalex.org/W1971057631",
+    "https://openalex.org/W1971284410",
+    "https://openalex.org/W1974176052",
+    "https://openalex.org/W1974741013",
+    "https://openalex.org/W1978408474",
+    "https://openalex.org/W1980078464",
+    "https://openalex.org/W1983046479",
+    "https://openalex.org/W1984376924",
+    "https://openalex.org/W1984521724",
+    "https://openalex.org/W1985125972",
+    "https://openalex.org/W1985261553",
+    "https://openalex.org/W1992989487",
+    "https://openalex.org/W1994125606",
+    "https://openalex.org/W1995534668",
+    "https://openalex.org/W1999381547",
+    "https://openalex.org/W1999382188",
+    "https://openalex.org/W2001758733",
+    "https://openalex.org/W2002180552",
+    "https://openalex.org/W2002509725",
+    "https://openalex.org/W2009379373",
+    "https://openalex.org/W2009543343",
+    "https://openalex.org/W2019852916",
+    "https://openalex.org/W2020561965",
+    "https://openalex.org/W2021479241",
+    "https://openalex.org/W2022066534",
+    "https://openalex.org/W2023715313",
+    "https://openalex.org/W2023926908",
+    "https://openalex.org/W2024968752",
+    "https://openalex.org/W2026422802",
+    "https://openalex.org/W2027497729",
+    "https://openalex.org/W2027666746",
+    "https://openalex.org/W2027947566",
+    "https://openalex.org/W2028231868",
+    "https://openalex.org/W2029109058",
+    "https://openalex.org/W2029110613",
+    "https://openalex.org/W2031070745",
+    "https://openalex.org/W2032485563",
+    "https://openalex.org/W2034230119",
+    "https://openalex.org/W2035800570",
+    "https://openalex.org/W2037372250",
+    "https://openalex.org/W2040349912",
+    "https://openalex.org/W2041024806",
+    "https://openalex.org/W2041639681",
+    "https://openalex.org/W2041908185",
+    "https://openalex.org/W2042619626",
+    "https://openalex.org/W2043175458",
+    "https://openalex.org/W2043569742",
+    "https://openalex.org/W2045982584",
+    "https://openalex.org/W2048465561",
+    "https://openalex.org/W2049237667",
+    "https://openalex.org/W2050043857",
+    "https://openalex.org/W2051281157",
+    "https://openalex.org/W2053300778",
+    "https://openalex.org/W2054080005",
+    "https://openalex.org/W2054924643",
+    "https://openalex.org/W2056836528",
+    "https://openalex.org/W2058112588",
+    "https://openalex.org/W2058145575",
+    "https://openalex.org/W2061336106",
+    "https://openalex.org/W2061500389",
+    "https://openalex.org/W2063514654",
+    "https://openalex.org/W2065411032",
+    "https://openalex.org/W2066562477",
+    "https://openalex.org/W2066724054",
+    "https://openalex.org/W2066815783",
+    "https://openalex.org/W2067340748",
+    "https://openalex.org/W2069278348",
+    "https://openalex.org/W2069774708",
+    "https://openalex.org/W2070802117",
+    "https://openalex.org/W2071985557",
+    "https://openalex.org/W2072784013",
+    "https://openalex.org/W2074197605",
+    "https://openalex.org/W2074783201",
+    "https://openalex.org/W2075112531",
+    "https://openalex.org/W2076262841",
+    "https://openalex.org/W2077087256",
+    "https://openalex.org/W2079783784",
+    "https://openalex.org/W2079836392",
+    "https://openalex.org/W2080572452",
+    "https://openalex.org/W2081011520",
+    "https://openalex.org/W2082195536",
+    "https://openalex.org/W2083116330",
+    "https://openalex.org/W2085993965",
+    "https://openalex.org/W2090321557",
+    "https://openalex.org/W2092292187",
+    "https://openalex.org/W2095203090",
+    "https://openalex.org/W2097654356",
+    "https://openalex.org/W2098143583",
+    "https://openalex.org/W2102170011",
+    "https://openalex.org/W2104108767",
+    "https://openalex.org/W2106197589",
+    "https://openalex.org/W2106401347",
+    "https://openalex.org/W2108878824",
+    "https://openalex.org/W2111218516",
+    "https://openalex.org/W2114034054",
+    "https://openalex.org/W2116723965",
+    "https://openalex.org/W2116911856",
+    "https://openalex.org/W2122732537",
+    "https://openalex.org/W2132774644",
+    "https://openalex.org/W2134566930",
+    "https://openalex.org/W2139432714",
+    "https://openalex.org/W2139683422",
+    "https://openalex.org/W2146859060",
+    "https://openalex.org/W2147144307",
+    "https://openalex.org/W2149369520",
+    "https://openalex.org/W2154264920",
+    "https://openalex.org/W2154717205",
+    "https://openalex.org/W2158436681",
+    "https://openalex.org/W2161289889",
+    "https://openalex.org/W2162300885",
+    "https://openalex.org/W2166401166",
+    "https://openalex.org/W2166614941",
+    "https://openalex.org/W2168284706",
+    "https://openalex.org/W2168303916",
+    "https://openalex.org/W2183385055",
+    "https://openalex.org/W2202347610",
+    "https://openalex.org/W2223929705",
+    "https://openalex.org/W2252766049",
+    "https://openalex.org/W2260642016",
+    "https://openalex.org/W2264881665",
+    "https://openalex.org/W2270240153",
+    "https://openalex.org/W2302501749",
+    "https://openalex.org/W2304435356",
+    "https://openalex.org/W2332944707",
+    "https://openalex.org/W2340179598",
+    "https://openalex.org/W2417915247",
+    "https://openalex.org/W2418772587",
+    "https://openalex.org/W2461866271",
+    "https://openalex.org/W2466448487",
+    "https://openalex.org/W2504097392",
+    "https://openalex.org/W2507939969",
+    "https://openalex.org/W2510166876",
+    "https://openalex.org/W2523108916",
+    "https://openalex.org/W2529155476",
+    "https://openalex.org/W2536066790",
+    "https://openalex.org/W2548952244",
+    "https://openalex.org/W2586055467",
+    "https://openalex.org/W2604657987",
+    "https://openalex.org/W2725459407",
+    "https://openalex.org/W2731991504",
+    "https://openalex.org/W2747965822",
+    "https://openalex.org/W2755166087",
+    "https://openalex.org/W2763014033",
+    "https://openalex.org/W2765497308",
+    "https://openalex.org/W2765876921",
+    "https://openalex.org/W2766399257",
+    "https://openalex.org/W2771155712",
+    "https://openalex.org/W2773674163",
+    "https://openalex.org/W2774679185",
+    "https://openalex.org/W2781697521",
+    "https://openalex.org/W2785313357",
+    "https://openalex.org/W2789128799",
+    "https://openalex.org/W2807489532",
+    "https://openalex.org/W2833943491",
+    "https://openalex.org/W2883913235",
+    "https://openalex.org/W2885674637",
+    "https://openalex.org/W2888695779",
+    "https://openalex.org/W2889810336",
+    "https://openalex.org/W2894355505",
+    "https://openalex.org/W2894791754",
+    "https://openalex.org/W2897068051",
+    "https://openalex.org/W2897670153",
+    "https://openalex.org/W2898376167",
+    "https://openalex.org/W2899985143",
+    "https://openalex.org/W2903357856",
+    "https://openalex.org/W2913180890",
+    "https://openalex.org/W2964522952",
+    "https://openalex.org/W2965789264",
+    "https://openalex.org/W2969911993",
+    "https://openalex.org/W2971139914",
+    "https://openalex.org/W2972561900",
+    "https://openalex.org/W2972927281",
+    "https://openalex.org/W2977870980",
+    "https://openalex.org/W2981666196",
+    "https://openalex.org/W2987028578",
+    "https://openalex.org/W2988361147",
+    "https://openalex.org/W2990346599",
+    "https://openalex.org/W3002670987",
+    "https://openalex.org/W3003333413",
+    "https://openalex.org/W3004942713",
+    "https://openalex.org/W3007643696",
+    "https://openalex.org/W3009592638",
+    "https://openalex.org/W3010629926",
+    "https://openalex.org/W3013554928",
+    "https://openalex.org/W3015129246",
+    "https://openalex.org/W3015536202",
+    "https://openalex.org/W3017284194",
+    "https://openalex.org/W3019213887",
+    "https://openalex.org/W3023677370",
+    "https://openalex.org/W3041608326",
+    "https://openalex.org/W3044467104",
+    "https://openalex.org/W3048080918",
+    "https://openalex.org/W3086085637",
+    "https://openalex.org/W3086691933",
+    "https://openalex.org/W3089803450",
+    "https://openalex.org/W3093963329",
+    "https://openalex.org/W3094409141",
+    "https://openalex.org/W3095763457",
+    "https://openalex.org/W3099496190",
+    "https://openalex.org/W3108523702",
+    "https://openalex.org/W3110895572",
+    "https://openalex.org/W3111424251",
+    "https://openalex.org/W3121429485",
+    "https://openalex.org/W3122157032",
+    "https://openalex.org/W3127235117",
+    "https://openalex.org/W3132170817",
+    "https://openalex.org/W3133695632",
+    "https://openalex.org/W3134033695",
+    "https://openalex.org/W3135390224",
+    "https://openalex.org/W3139075290",
+    "https://openalex.org/W3157833237",
+    "https://openalex.org/W3161401306",
+    "https://openalex.org/W3177123622",
+    "https://openalex.org/W3177747013",
+    "https://openalex.org/W3191200601",
+    "https://openalex.org/W3196936640",
+    "https://openalex.org/W3200458999",
+    "https://openalex.org/W3201934199",
+    "https://openalex.org/W3204802030",
+    "https://openalex.org/W3207748947",
+    "https://openalex.org/W3210712771",
+    "https://openalex.org/W3211718555",
+    "https://openalex.org/W4200379983",
+    "https://openalex.org/W4200476121",
+    "https://openalex.org/W4210652825",
+    "https://openalex.org/W4212942915",
+    "https://openalex.org/W4220941514",
+    "https://openalex.org/W4224209744",
+    "https://openalex.org/W4231917197",
+    "https://openalex.org/W4233468411",
+    "https://openalex.org/W4237335579",
+    "https://openalex.org/W4252891577",
+    "https://openalex.org/W4254010265",
+    "https://openalex.org/W4254747188",
+    "https://openalex.org/W4283797529",
+    "https://openalex.org/W4286250189",
+    "https://openalex.org/W4292247013",
+    "https://openalex.org/W4294216483",
+    "https://openalex.org/W4296328527",
+    "https://openalex.org/W4303579455",
+    "https://openalex.org/W4306353191",
+    "https://openalex.org/W4308574755",
+    "https://openalex.org/W4308990258",
+    "https://openalex.org/W4309506674",
+    "https://openalex.org/W4310705764",
+    "https://openalex.org/W4310707316",
+    "https://openalex.org/W4313418778",
+    "https://openalex.org/W4316466703",
+    "https://openalex.org/W4317035829",
+    "https://openalex.org/W4318670358",
+    "https://openalex.org/W4323362777",
+    "https://openalex.org/W4323538911",
+    "https://openalex.org/W4360868603",
+    "https://openalex.org/W4382405133",
+    "https://openalex.org/W4382461109",
+    "https://openalex.org/W4386332607",
+    "https://openalex.org/W4386496303",
+    "https://openalex.org/W4386813310",
+    "https://openalex.org/W4387932267",
+    "https://openalex.org/W4388007339",
+    "https://openalex.org/W4388615774",
+    "https://openalex.org/W4388637392",
+    "https://openalex.org/W4388751802",
+    "https://openalex.org/W4389163895",
+    "https://openalex.org/W4390678097",
+    "https://openalex.org/W4391230846",
+    "https://openalex.org/W4400281685",
+    "https://openalex.org/W4401526016",
+    "https://openalex.org/W4401841305",
+    "https://openalex.org/W4405388432",
+    "https://openalex.org/W6656349591",
+    "https://openalex.org/W6803550328",
+    "https://openalex.org/W6857529836"
+  ],
+  "related_works": [
+    "https://openalex.org/W1982829397",
+    "https://openalex.org/W2347437365",
+    "https://openalex.org/W2106414650",
+    "https://openalex.org/W1999412725",
+    "https://openalex.org/W4390205769",
+    "https://openalex.org/W2124137418",
+    "https://openalex.org/W2391458050",
+    "https://openalex.org/W3022402204",
+    "https://openalex.org/W2086860678",
+    "https://openalex.org/W2114732768"
+  ],
+  "abstract_inverted_index": {
+    "Advancements": [
+      0
+    ],
+    "with": [
+      1
+    ],
+    "cost-effective,": [
+      2
+    ],
+    "high-throughput": [
+      3
+    ],
+    "omics": [
+      4
+    ],
+    "technologies": [
+      5
+    ],
+    "have": [
+      6,
+      23,
+      53,
+      126
+    ],
+    "had": [
+      7
+    ],
+    "a": [
+      8,
+      25,
+      55,
+      86,
+      138,
+      150,
+      171,
+      175,
+      191,
+      248
+    ],
+    "transformative": [
+      9
+    ],
+    "effect": [
+      10
+    ],
+    "on": [
+      11,
+      149,
+      183,
+      224
+    ],
+    "both": [
+      12
+    ],
+    "fundamental": [
+      13
+    ],
+    "and": [
+      14,
+      165,
+      220,
+      243
+    ],
+    "translational": [
+      15
+    ],
+    "research": [
+      16
+    ],
+    "in": [
+      17,
+      110
+    ],
+    "the": [
+      18,
+      28,
+      48,
+      78,
+      105,
+      128,
+      144,
+      157,
+      200,
+      245,
+      253
+    ],
+    "medical": [
+      19
+    ],
+    "sciences.": [
+      20
+    ],
+    "These": [
+      21
+    ],
+    "advancements": [
+      22
+    ],
+    "facilitated": [
+      24
+    ],
+    "departure": [
+      26
+    ],
+    "from": [
+      27,
+      100,
+      210
+    ],
+    "traditional": [
+      29
+    ],
+    "view": [
+      30
+    ],
+    "of": [
+      31,
+      40,
+      43,
+      58,
+      68,
+      77,
+      85,
+      97,
+      115,
+      143,
+      177,
+      202,
+      213,
+      241,
+      247,
+      252
+    ],
+    "human": [
+      32,
+      88,
+      254
+    ],
+    "red": [
+      33
+    ],
+    "blood": [
+      34,
+      218
+    ],
+    "cells": [
+      35
+    ],
+    "(RBCs)": [
+      36
+    ],
+    "as": [
+      37,
+      231
+    ],
+    "mere": [
+      38
+    ],
+    "carriers": [
+      39
+    ],
+    "hemoglobin,": [
+      41
+    ],
+    "devoid": [
+      42
+    ],
+    "significant": [
+      44
+    ],
+    "biological": [
+      45
+    ],
+    "complexity.": [
+      46
+    ],
+    "Over": [
+      47
+    ],
+    "past": [
+      49,
+      106
+    ],
+    "decade,": [
+      50
+    ],
+    "proteomic": [
+      51,
+      98,
+      211
+    ],
+    "analyses": [
+      52
+    ],
+    "identified": [
+      54
+    ],
+    "growing": [
+      56
+    ],
+    "number": [
+      57
+    ],
+    "different": [
+      59
+    ],
+    "proteins": [
+      60,
+      181
+    ],
+    "present": [
+      61
+    ],
+    "within": [
+      62
+    ],
+    "RBCs,": [
+      63
+    ],
+    "enabling": [
+      64
+    ],
+    "systems": [
+      65
+    ],
+    "biology": [
+      66
+    ],
+    "analysis": [
+      67
+    ],
+    "their": [
+      69,
+      225
+    ],
+    "physiological": [
+      70
+    ],
+    "functions.": [
+      71
+    ],
+    "Here,": [
+      72
+    ],
+    "we": [
+      73,
+      125
+    ],
+    "introduce": [
+      74
+    ],
+    "RBC-GEM,": [
+      75
+    ],
+    "one": [
+      76
+    ],
+    "most": [
+      79
+    ],
+    "comprehensive,": [
+      80
+    ],
+    "curated": [
+      81,
+      234
+    ],
+    "genome-scale": [
+      82,
+      139
+    ],
+    "metabolic": [
+      83,
+      129,
+      140,
+      161,
+      172
+    ],
+    "reconstructions": [
+      84
+    ],
+    "specific": [
+      87
+    ],
+    "cell": [
+      89
+    ],
+    "type": [
+      90
+    ],
+    "to-date.": [
+      91
+    ],
+    "It": [
+      92
+    ],
+    "was": [
+      93
+    ],
+    "developed": [
+      94
+    ],
+    "through": [
+      95,
+      187
+    ],
+    "meta-analysis": [
+      96
+    ],
+    "data": [
+      99,
+      166,
+      212,
+      242
+    ],
+    "29": [
+      101
+    ],
+    "studies": [
+      102
+    ],
+    "published": [
+      103
+    ],
+    "over": [
+      104,
+      195
+    ],
+    "two": [
+      107
+    ],
+    "decades": [
+      108
+    ],
+    "resulting": [
+      109
+    ],
+    "an": [
+      111,
+      232
+    ],
+    "RBC": [
+      112
+    ],
+    "proteome": [
+      113,
+      135
+    ],
+    "composed": [
+      114
+    ],
+    "more": [
+      116
+    ],
+    "than": [
+      117
+    ],
+    "4,600": [
+      118
+    ],
+    "distinct": [
+      119
+    ],
+    "proteins.": [
+      120
+    ],
+    "Through": [
+      121
+    ],
+    "workflow-guided": [
+      122
+    ],
+    "manual": [
+      123
+    ],
+    "curation,": [
+      124
+    ],
+    "compiled": [
+      127
+    ],
+    "reactions": [
+      130,
+      222
+    ],
+    "carried": [
+      131
+    ],
+    "out": [
+      132
+    ],
+    "by": [
+      133,
+      204
+    ],
+    "this": [
+      134
+    ],
+    "to": [
+      136,
+      156
+    ],
+    "form": [
+      137
+    ],
+    "model": [
+      141
+    ],
+    "(GEM)": [
+      142
+    ],
+    "RBC.": [
+      145,
+      255
+    ],
+    "RBC-GEM": [
+      146,
+      169,
+      203
+    ],
+    "is": [
+      147,
+      174
+    ],
+    "hosted": [
+      148
+    ],
+    "version-controlled": [
+      151
+    ],
+    "GitHub": [
+      152
+    ],
+    "repository,": [
+      153
+    ],
+    "ensuring": [
+      154
+    ],
+    "adherence": [
+      155
+    ],
+    "standardized": [
+      158
+    ],
+    "protocols": [
+      159
+    ],
+    "for": [
+      160,
+      216,
+      239,
+      244
+    ],
+    "reconstruction": [
+      162,
+      230
+    ],
+    "quality": [
+      163
+    ],
+    "control": [
+      164
+    ],
+    "stewardship": [
+      167
+    ],
+    "principles.": [
+      168
+    ],
+    "represents": [
+      170
+    ],
+    "network": [
+      173
+    ],
+    "consisting": [
+      176
+    ],
+    "820": [
+      178
+    ],
+    "genes": [
+      179
+    ],
+    "encoding": [
+      180
+    ],
+    "acting": [
+      182
+    ],
+    "1,685": [
+      184
+    ],
+    "unique": [
+      185
+    ],
+    "metabolites": [
+      186
+    ],
+    "2,723": [
+      188
+    ],
+    "biochemical": [
+      189
+    ],
+    "reactions:": [
+      190
+    ],
+    "740%": [
+      192
+    ],
+    "size": [
+      193
+    ],
+    "expansion": [
+      194
+    ],
+    "its": [
+      196
+    ],
+    "predecessor.": [
+      197
+    ],
+    "We": [
+      198
+    ],
+    "demonstrated": [
+      199
+    ],
+    "utility": [
+      201
+    ],
+    "creating": [
+      205
+    ],
+    "context-specific": [
+      206
+    ],
+    "proteome-constrained": [
+      207
+    ],
+    "models": [
+      208,
+      251
+    ],
+    "derived": [
+      209
+    ],
+    "stored": [
+      214
+    ],
+    "RBCs": [
+      215
+    ],
+    "616": [
+      217
+    ],
+    "donors,": [
+      219
+    ],
+    "classified": [
+      221
+    ],
+    "based": [
+      223
+    ],
+    "simulated": [
+      226
+    ],
+    "abundance": [
+      227
+    ],
+    "dependence.": [
+      228
+    ],
+    "This": [
+      229
+    ],
+    "up-to-date": [
+      233
+    ],
+    "GEM": [
+      235
+    ],
+    "can": [
+      236
+    ],
+    "be": [
+      237
+    ],
+    "used": [
+      238
+    ],
+    "contextualization": [
+      240
+    ],
+    "construction": [
+      246
+    ],
+    "computational": [
+      249
+    ],
+    "whole-cell": [
+      250
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 5
+    }
+  ],
+  "updated_date": "2026-06-27T08:28:00.272161",
+  "created_date": "2025-10-10T00:00:00"
+}

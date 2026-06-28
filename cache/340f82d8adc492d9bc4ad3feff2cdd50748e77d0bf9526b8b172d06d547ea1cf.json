@@ -1,0 +1,1781 @@
+{
+  "id": "https://openalex.org/W4283033585",
+  "doi": "https://doi.org/10.1186/s12934-022-01841-1",
+  "title": "Genome-scale metabolic modelling enables deciphering ethanol metabolism via the acrylate pathway in the propionate-producer Anaerotignum neopropionicum",
+  "display_name": "Genome-scale metabolic modelling enables deciphering ethanol metabolism via the acrylate pathway in the propionate-producer Anaerotignum neopropionicum",
+  "publication_year": 2022,
+  "publication_date": "2022-06-16",
+  "ids": {
+    "openalex": "https://openalex.org/W4283033585",
+    "doi": "https://doi.org/10.1186/s12934-022-01841-1",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/35710409"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1186/s12934-022-01841-1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/s12934-022-01841-1",
+    "pdf_url": "https://microbialcellfactories.biomedcentral.com/counter/pdf/10.1186/s12934-022-01841-1",
+    "source": {
+      "id": "https://openalex.org/S171368329",
+      "display_name": "Microbial Cell Factories",
+      "issn_l": "1475-2859",
+      "issn": [
+        "1475-2859"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320256",
+      "host_organization_name": "BioMed Central",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320256",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "BioMed Central",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Microbial Cell Factories",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://microbialcellfactories.biomedcentral.com/counter/pdf/10.1186/s12934-022-01841-1",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5044274138",
+        "display_name": "Sara Benito-Vaquerizo",
+        "orcid": "https://orcid.org/0000-0003-3936-9676"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sara Benito-Vaquerizo",
+      "raw_affiliation_strings": [
+        "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+        "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5058474028",
+        "display_name": "Ivette Parera Olm",
+        "orcid": "https://orcid.org/0000-0001-9652-8712"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ivette Parera Olm",
+      "raw_affiliation_strings": [
+        "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+        "Laboratory of Microbiology, Wageningen University & Research, Wageningen, The Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Microbiology, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5040621044",
+        "display_name": "Thijs de Vroet",
+        "orcid": "https://orcid.org/0000-0002-3522-3998"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Thijs de Vroet",
+      "raw_affiliation_strings": [
+        "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+        "Laboratory of Microbiology, Wageningen University & Research, Wageningen, The Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Microbiology, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5073898339",
+        "display_name": "Peter J. Schaap",
+        "orcid": "https://orcid.org/0000-0002-4346-6084"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Peter J. Schaap",
+      "raw_affiliation_strings": [
+        "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+        "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5020245701",
+        "display_name": "Diana Z. Sousa",
+        "orcid": "https://orcid.org/0000-0003-3569-1545"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Diana Z. Sousa",
+      "raw_affiliation_strings": [
+        "Centre for Living Technologies, Alliance TU/e, WUR, UU, UMC Utrecht, Vening Meinesz building C, Princetonlaan 6, Utrecht, 3584 CB, The Netherlands",
+        "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+        "Laboratory of Microbiology, Wageningen University & Research, Wageningen, The Netherlands",
+        "Centre for Living Technologies, Utrecht, The Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre for Living Technologies, Alliance TU/e, WUR, UU, UMC Utrecht, Vening Meinesz building C, Princetonlaan 6, Utrecht, 3584 CB, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Microbiology, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Centre for Living Technologies, Utrecht, The Netherlands",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5039324414",
+        "display_name": "Vítor A. P. Martins dos Santos",
+        "orcid": "https://orcid.org/0000-0002-2352-9017"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Vitor A. P. Martins dos Santos",
+      "raw_affiliation_strings": [
+        "Bioprocess Engineering, Wageningen University & Research, Droevendaalsesteeg 1, 6708 PB, Wageningen, The Netherlands",
+        "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+        "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands",
+        "Bioprocess Engineering, Wageningen University & Research, Wageningen, The Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Bioprocess Engineering, Wageningen University & Research, Droevendaalsesteeg 1, 6708 PB, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Bioprocess Engineering, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5041170743",
+        "display_name": "María Suárez‐Diez",
+        "orcid": "https://orcid.org/0000-0001-5845-146X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Maria Suarez-Diez",
+      "raw_affiliation_strings": [
+        "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands. maria.suarezdiez@wur.nl",
+        "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands. maria.suarezdiez@wur.nl",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5041170743"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I913481162"
+  ],
+  "apc_list": {
+    "value": 1990,
+    "currency": "GBP",
+    "value_usd": 2440
+  },
+  "apc_paid": {
+    "value": 1990,
+    "currency": "GBP",
+    "value_usd": 2440
+  },
+  "fwci": 2.166,
+  "has_fulltext": true,
+  "cited_by_count": 28,
+  "citation_normalized_percentile": {
+    "value": 0.88208637,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "21",
+    "issue": "1",
+    "first_page": "116",
+    "last_page": "116"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10932",
+    "display_name": "Microbial Metabolic Engineering and Bioproduction",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10932",
+      "display_name": "Microbial Metabolic Engineering and Bioproduction",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10171",
+      "display_name": "Biofuel production and bioconversion",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10404",
+      "display_name": "Enzyme Catalysis and Immobilization",
+      "score": 0.9980000257492065,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/propionate",
+      "display_name": "Propionate",
+      "score": 0.7426222562789917
+    },
+    {
+      "id": "https://openalex.org/keywords/fermentation",
+      "display_name": "Fermentation",
+      "score": 0.7367058992385864
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.5850868225097656
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.5599697232246399
+    },
+    {
+      "id": "https://openalex.org/keywords/flux-balance-analysis",
+      "display_name": "Flux balance analysis",
+      "score": 0.529959499835968
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolism",
+      "display_name": "Metabolism",
+      "score": 0.5286746025085449
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolic-pathway",
+      "display_name": "Metabolic pathway",
+      "score": 0.506955623626709
+    },
+    {
+      "id": "https://openalex.org/keywords/ethanol",
+      "display_name": "Ethanol",
+      "score": 0.48198336362838745
+    },
+    {
+      "id": "https://openalex.org/keywords/ethanol-fuel",
+      "display_name": "Ethanol fuel",
+      "score": 0.47045981884002686
+    },
+    {
+      "id": "https://openalex.org/keywords/ethanol-metabolism",
+      "display_name": "Ethanol metabolism",
+      "score": 0.41475000977516174
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2780014933",
+      "wikidata": "https://www.wikidata.org/wiki/Q422956",
+      "display_name": "Propionate",
+      "level": 2,
+      "score": 0.7426222562789917
+    },
+    {
+      "id": "https://openalex.org/C100544194",
+      "wikidata": "https://www.wikidata.org/wiki/Q41760",
+      "display_name": "Fermentation",
+      "level": 2,
+      "score": 0.7367058992385864
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.5850868225097656
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.5599697232246399
+    },
+    {
+      "id": "https://openalex.org/C167091322",
+      "wikidata": "https://www.wikidata.org/wiki/Q5463029",
+      "display_name": "Flux balance analysis",
+      "level": 2,
+      "score": 0.529959499835968
+    },
+    {
+      "id": "https://openalex.org/C62231903",
+      "wikidata": "https://www.wikidata.org/wiki/Q1057",
+      "display_name": "Metabolism",
+      "level": 2,
+      "score": 0.5286746025085449
+    },
+    {
+      "id": "https://openalex.org/C192989942",
+      "wikidata": "https://www.wikidata.org/wiki/Q68685",
+      "display_name": "Metabolic pathway",
+      "level": 3,
+      "score": 0.506955623626709
+    },
+    {
+      "id": "https://openalex.org/C2780161600",
+      "wikidata": "https://www.wikidata.org/wiki/Q153",
+      "display_name": "Ethanol",
+      "level": 2,
+      "score": 0.48198336362838745
+    },
+    {
+      "id": "https://openalex.org/C65183824",
+      "wikidata": "https://www.wikidata.org/wiki/Q194361",
+      "display_name": "Ethanol fuel",
+      "level": 3,
+      "score": 0.47045981884002686
+    },
+    {
+      "id": "https://openalex.org/C30153976",
+      "wikidata": "https://www.wikidata.org/wiki/Q6011565",
+      "display_name": "Ethanol metabolism",
+      "level": 3,
+      "score": 0.41475000977516174
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000068016",
+      "descriptor_name": "Clostridiales",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000068016",
+      "descriptor_name": "Clostridiales",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000068016",
+      "descriptor_name": "Eubacteriales",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000179",
+      "descriptor_name": "Acrylates",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000179",
+      "descriptor_name": "Acrylates",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000179",
+      "descriptor_name": "Acrylates",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000431",
+      "descriptor_name": "Ethanol",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000431",
+      "descriptor_name": "Ethanol",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000431",
+      "descriptor_name": "Ethanol",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003013",
+      "descriptor_name": "Clostridium",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003013",
+      "descriptor_name": "Clostridium",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003013",
+      "descriptor_name": "Clostridium",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005285",
+      "descriptor_name": "Fermentation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005285",
+      "descriptor_name": "Fermentation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005285",
+      "descriptor_name": "Fermentation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011422",
+      "descriptor_name": "Propionates",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011422",
+      "descriptor_name": "Propionates",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011422",
+      "descriptor_name": "Propionates",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D019344",
+      "descriptor_name": "Lactic Acid",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019344",
+      "descriptor_name": "Lactic Acid",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019344",
+      "descriptor_name": "Lactic Acid",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1186/s12934-022-01841-1",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1186/s12934-022-01841-1",
+      "pdf_url": "https://microbialcellfactories.biomedcentral.com/counter/pdf/10.1186/s12934-022-01841-1",
+      "source": {
+        "id": "https://openalex.org/S171368329",
+        "display_name": "Microbial Cell Factories",
+        "issn_l": "1475-2859",
+        "issn": [
+          "1475-2859"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320256",
+        "host_organization_name": "BioMed Central",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320256",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "BioMed Central",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Microbial Cell Factories",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:35710409",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/35710409",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Microbial cell factories",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:03ff4a4c72a647adad9bca9943558e13",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/03ff4a4c72a647adad9bca9943558e13",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Microbial Cell Factories, Vol 21, Iss 1, Pp 1-18 (2022)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:9205015",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9205015",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Microb Cell Fact",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:wur:oai:library.wur.nl:wurpubs/599498",
+      "is_oa": true,
+      "landing_page_url": "https://research.wur.nl/en/publications/genome-scale-metabolic-modelling-enables-deciphering-ethanol-meta",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Microbial Cell Factories, 21(1)",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1186/s12934-022-01841-1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/s12934-022-01841-1",
+    "pdf_url": "https://microbialcellfactories.biomedcentral.com/counter/pdf/10.1186/s12934-022-01841-1",
+    "source": {
+      "id": "https://openalex.org/S171368329",
+      "display_name": "Microbial Cell Factories",
+      "issn_l": "1475-2859",
+      "issn": [
+        "1475-2859"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320256",
+      "host_organization_name": "BioMed Central",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320256",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "BioMed Central",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Microbial Cell Factories",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/12",
+      "score": 0.4699999988079071,
+      "display_name": "Responsible consumption and production"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1332741550",
+      "display_name": "Syngas to High-Value Chemicals",
+      "funder_award_id": "ALWGK.2016.029",
+      "funder_id": "https://openalex.org/F4320321800",
+      "funder_display_name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek"
+    },
+    {
+      "id": "https://openalex.org/G1433606067",
+      "display_name": null,
+      "funder_award_id": "024.002.002",
+      "funder_id": "https://openalex.org/F4320321800",
+      "funder_display_name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek"
+    },
+    {
+      "id": "https://openalex.org/G5023269647",
+      "display_name": null,
+      "funder_award_id": "2016.029",
+      "funder_id": "https://openalex.org/F4320321800",
+      "funder_display_name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320321800",
+      "display_name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+      "ror": "https://ror.org/04jsz6e67"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4283033585.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4283033585.grobid-xml"
+  },
+  "referenced_works_count": 87,
+  "referenced_works": [
+    "https://openalex.org/W1586184005",
+    "https://openalex.org/W1595937839",
+    "https://openalex.org/W1745801738",
+    "https://openalex.org/W1896710611",
+    "https://openalex.org/W1953994264",
+    "https://openalex.org/W1967810812",
+    "https://openalex.org/W1970604668",
+    "https://openalex.org/W1974468587",
+    "https://openalex.org/W1976266924",
+    "https://openalex.org/W1990590570",
+    "https://openalex.org/W1992912777",
+    "https://openalex.org/W1996891655",
+    "https://openalex.org/W2001002454",
+    "https://openalex.org/W2004548026",
+    "https://openalex.org/W2025185694",
+    "https://openalex.org/W2031748911",
+    "https://openalex.org/W2035360701",
+    "https://openalex.org/W2038304602",
+    "https://openalex.org/W2048465561",
+    "https://openalex.org/W2061371703",
+    "https://openalex.org/W2071766792",
+    "https://openalex.org/W2073553666",
+    "https://openalex.org/W2074906123",
+    "https://openalex.org/W2075283200",
+    "https://openalex.org/W2076970910",
+    "https://openalex.org/W2078355959",
+    "https://openalex.org/W2085993965",
+    "https://openalex.org/W2096951208",
+    "https://openalex.org/W2100084634",
+    "https://openalex.org/W2101837880",
+    "https://openalex.org/W2106021070",
+    "https://openalex.org/W2112951169",
+    "https://openalex.org/W2116976883",
+    "https://openalex.org/W2121014537",
+    "https://openalex.org/W2122654605",
+    "https://openalex.org/W2143374532",
+    "https://openalex.org/W2147814423",
+    "https://openalex.org/W2150032818",
+    "https://openalex.org/W2150908245",
+    "https://openalex.org/W2152200355",
+    "https://openalex.org/W2154139219",
+    "https://openalex.org/W2159482845",
+    "https://openalex.org/W2159628188",
+    "https://openalex.org/W2162085770",
+    "https://openalex.org/W2165889555",
+    "https://openalex.org/W2172371128",
+    "https://openalex.org/W2173349102",
+    "https://openalex.org/W2308203984",
+    "https://openalex.org/W2336008703",
+    "https://openalex.org/W2337228094",
+    "https://openalex.org/W2467877834",
+    "https://openalex.org/W2527264988",
+    "https://openalex.org/W2551645148",
+    "https://openalex.org/W2607044251",
+    "https://openalex.org/W2614960634",
+    "https://openalex.org/W2755612908",
+    "https://openalex.org/W2770044636",
+    "https://openalex.org/W2770810200",
+    "https://openalex.org/W2789509700",
+    "https://openalex.org/W2793350500",
+    "https://openalex.org/W2809340185",
+    "https://openalex.org/W2859249641",
+    "https://openalex.org/W2887454799",
+    "https://openalex.org/W2916475656",
+    "https://openalex.org/W2919908427",
+    "https://openalex.org/W2949418748",
+    "https://openalex.org/W2949841808",
+    "https://openalex.org/W2952015518",
+    "https://openalex.org/W2967843340",
+    "https://openalex.org/W2985822104",
+    "https://openalex.org/W2986916574",
+    "https://openalex.org/W2995945215",
+    "https://openalex.org/W2998519692",
+    "https://openalex.org/W3008247967",
+    "https://openalex.org/W3010629926",
+    "https://openalex.org/W3013375328",
+    "https://openalex.org/W3017094240",
+    "https://openalex.org/W3027999338",
+    "https://openalex.org/W3088904929",
+    "https://openalex.org/W3094333108",
+    "https://openalex.org/W3162724895",
+    "https://openalex.org/W3163560222",
+    "https://openalex.org/W4205909230",
+    "https://openalex.org/W4231828830",
+    "https://openalex.org/W4233120011",
+    "https://openalex.org/W4240367845",
+    "https://openalex.org/W4240870097"
+  ],
+  "related_works": [
+    "https://openalex.org/W1983341492",
+    "https://openalex.org/W4253532203",
+    "https://openalex.org/W1988762558",
+    "https://openalex.org/W1707455315",
+    "https://openalex.org/W2341681417",
+    "https://openalex.org/W2800587653",
+    "https://openalex.org/W2888916199",
+    "https://openalex.org/W2158163767",
+    "https://openalex.org/W3197240279",
+    "https://openalex.org/W2129022886"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Background": [
+      1
+    ],
+    "Microbial": [
+      2
+    ],
+    "production": [
+      3,
+      23
+    ],
+    "of": [
+      4,
+      9,
+      34,
+      73,
+      83,
+      98,
+      109,
+      134,
+      168,
+      179,
+      182,
+      194,
+      205,
+      229,
+      240,
+      243,
+      258,
+      265,
+      273,
+      286
+    ],
+    "propionate": [
+      5,
+      57
+    ],
+    "from": [
+      6,
+      13,
+      125
+    ],
+    "diluted": [
+      7
+    ],
+    "streams": [
+      8
+    ],
+    "ethanol": [
+      10,
+      52,
+      84,
+      195
+    ],
+    "(e.g.,": [
+      11
+    ],
+    "deriving": [
+      12
+    ],
+    "syngas": [
+      14
+    ],
+    "fermentation)": [
+      15
+    ],
+    "is": [
+      16,
+      37,
+      41,
+      233
+    ],
+    "a": [
+      17,
+      42,
+      155,
+      234,
+      279
+    ],
+    "sustainable": [
+      18
+    ],
+    "alternative": [
+      19
+    ],
+    "to": [
+      20,
+      50,
+      56,
+      69,
+      153,
+      281
+    ],
+    "the": [
+      21,
+      47,
+      71,
+      79,
+      92,
+      107,
+      149,
+      165,
+      180,
+      192,
+      198,
+      203,
+      206,
+      220,
+      230,
+      238,
+      241,
+      244,
+      256,
+      259,
+      266,
+      271,
+      284
+    ],
+    "petrochemical": [
+      22
+    ],
+    "route.": [
+      24
+    ],
+    "Yet,": [
+      25
+    ],
+    "few": [
+      26
+    ],
+    "ethanol-fermenting": [
+      27
+    ],
+    "propionigenic": [
+      28,
+      287
+    ],
+    "bacteria": [
+      29,
+      288
+    ],
+    "are": [
+      30
+    ],
+    "known,": [
+      31
+    ],
+    "and": [
+      32,
+      53,
+      58,
+      66,
+      118,
+      127,
+      141,
+      201,
+      215,
+      262
+    ],
+    "understanding": [
+      33,
+      239
+    ],
+    "their": [
+      35
+    ],
+    "metabolism": [
+      36,
+      72,
+      181,
+      242
+    ],
+    "limited.": [
+      38
+    ],
+    "Anaerotignum": [
+      39
+    ],
+    "neopropionicum": [
+      40,
+      75,
+      100,
+      136,
+      170,
+      184,
+      247
+    ],
+    "propionate-producing": [
+      43
+    ],
+    "bacterium": [
+      44
+    ],
+    "that": [
+      45,
+      162
+    ],
+    "uses": [
+      46
+    ],
+    "acrylate": [
+      48,
+      199,
+      260
+    ],
+    "pathway": [
+      49,
+      80,
+      261
+    ],
+    "ferment": [
+      51
+    ],
+    "CO": [
+      54
+    ],
+    "2": [
+      55
+    ],
+    "acetate.": [
+      59
+    ],
+    "In": [
+      60,
+      147
+    ],
+    "this": [
+      61,
+      126,
+      224,
+      276
+    ],
+    "work,": [
+      62
+    ],
+    "we": [
+      63,
+      251
+    ],
+    "used": [
+      64,
+      152
+    ],
+    "computational": [
+      65
+    ],
+    "experimental": [
+      67,
+      123
+    ],
+    "methods": [
+      68
+    ],
+    "study": [
+      70,
+      277
+    ],
+    "A.": [
+      74,
+      99,
+      135,
+      169,
+      183,
+      246
+    ],
+    "and,": [
+      76
+    ],
+    "in": [
+      77,
+      223
+    ],
+    "particular,": [
+      78
+    ],
+    "for": [
+      81,
+      219
+    ],
+    "conversion": [
+      82
+    ],
+    "into": [
+      85,
+      191,
+      255
+    ],
+    "propionate.": [
+      86
+    ],
+    "Results": [
+      87
+    ],
+    "Our": [
+      88
+    ],
+    "work": [
+      89
+    ],
+    "describes": [
+      90
+    ],
+    "iANEO_SB607,": [
+      91
+    ],
+    "first": [
+      93,
+      221
+    ],
+    "genome-scale": [
+      94
+    ],
+    "metabolic": [
+      95
+    ],
+    "model": [
+      96,
+      103,
+      131,
+      150,
+      187
+    ],
+    "(GEM)": [
+      97
+    ],
+    ".": [
+      101,
+      248
+    ],
+    "The": [
+      102,
+      130,
+      227
+    ],
+    "was": [
+      104,
+      120,
+      151
+    ],
+    "built": [
+      105
+    ],
+    "combining": [
+      106
+    ],
+    "use": [
+      108
+    ],
+    "automatic": [
+      110
+    ],
+    "tools": [
+      111
+    ],
+    "with": [
+      112,
+      122,
+      186,
+      268
+    ],
+    "an": [
+      113
+    ],
+    "extensive": [
+      114
+    ],
+    "manual": [
+      115
+    ],
+    "curation": [
+      116
+    ],
+    "process,": [
+      117
+    ],
+    "it": [
+      119
+    ],
+    "validated": [
+      121
+    ],
+    "data": [
+      124
+    ],
+    "published": [
+      128
+    ],
+    "studies.": [
+      129
+    ],
+    "predicted": [
+      132,
+      164
+    ],
+    "growth": [
+      133,
+      173
+    ],
+    "on": [
+      137,
+      174,
+      270
+    ],
+    "ethanol,": [
+      138
+    ],
+    "lactate,": [
+      139
+    ],
+    "sugars": [
+      140
+    ],
+    "amino": [
+      142
+    ],
+    "acids,": [
+      143
+    ],
+    "matching": [
+      144
+    ],
+    "observed": [
+      145
+    ],
+    "phenotypes.": [
+      146
+    ],
+    "addition,": [
+      148
+    ],
+    "implement": [
+      154
+    ],
+    "dynamic": [
+      156
+    ],
+    "flux": [
+      157
+    ],
+    "balance": [
+      158
+    ],
+    "analysis": [
+      159,
+      178
+    ],
+    "(dFBA)": [
+      160
+    ],
+    "approach": [
+      161
+    ],
+    "accurately": [
+      163
+    ],
+    "fermentation": [
+      166,
+      196,
+      272
+    ],
+    "profile": [
+      167
+    ],
+    "during": [
+      171
+    ],
+    "batch": [
+      172
+    ],
+    "ethanol.": [
+      175,
+      274
+    ],
+    "A": [
+      176
+    ],
+    "systematic": [
+      177
+    ],
+    "combined": [
+      185
+    ],
+    "simulations": [
+      188
+    ],
+    "shed": [
+      189
+    ],
+    "light": [
+      190
+    ],
+    "mechanism": [
+      193
+    ],
+    "via": [
+      197
+    ],
+    "pathway,": [
+      200
+    ],
+    "revealed": [
+      202
+    ],
+    "presence": [
+      204
+    ],
+    "electron-transferring": [
+      207
+    ],
+    "complexes": [
+      208
+    ],
+    "NADH-dependent": [
+      209
+    ],
+    "reduced": [
+      210
+    ],
+    "ferredoxin:NADP": [
+      211
+    ],
+    "+": [
+      212
+    ],
+    "oxidoreductase": [
+      213
+    ],
+    "(Nfn)": [
+      214
+    ],
+    "acryloyl-CoA": [
+      216
+    ],
+    "reductase-EtfAB,": [
+      217
+    ],
+    "identified": [
+      218
+    ],
+    "time": [
+      222
+    ],
+    "bacterium.": [
+      225
+    ],
+    "Conclusions": [
+      226
+    ],
+    "realisation": [
+      228
+    ],
+    "GEM": [
+      231
+    ],
+    "iANEO_SB607": [
+      232
+    ],
+    "stepping": [
+      235
+    ],
+    "stone": [
+      236
+    ],
+    "towards": [
+      237
+    ],
+    "propionate-producer": [
+      245
+    ],
+    "With": [
+      249
+    ],
+    "it,": [
+      250
+    ],
+    "have": [
+      252
+    ],
+    "gained": [
+      253
+    ],
+    "insight": [
+      254
+    ],
+    "functioning": [
+      257
+    ],
+    "energetic": [
+      263
+    ],
+    "aspects": [
+      264
+    ],
+    "cell,": [
+      267
+    ],
+    "focus": [
+      269
+    ],
+    "Overall,": [
+      275
+    ],
+    "provides": [
+      278
+    ],
+    "basis": [
+      280
+    ],
+    "further": [
+      282
+    ],
+    "exploit": [
+      283
+    ],
+    "potential": [
+      285
+    ],
+    "as": [
+      289
+    ],
+    "microbial": [
+      290
+    ],
+    "cell": [
+      291
+    ],
+    "factories.": [
+      292
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-06-28T08:01:55.173337",
+  "created_date": "2025-10-10T00:00:00"
+}

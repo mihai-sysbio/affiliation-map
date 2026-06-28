@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I165143802",
+  "ror": "https://ror.org/00rqy9422",
+  "display_name": "The University of Queensland",
+  "country_code": "AU",
+  "type": "education",
+  "geo": {
+    "city": "Brisbane",
+    "geonames_city_id": "2174003",
+    "region": "Queensland",
+    "country_code": "AU",
+    "country": "Australia",
+    "latitude": -27.46794,
+    "longitude": 153.02809
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "id": "https://openalex.org/W3129586930",
+  "doi": "https://doi.org/10.1002/bit.27726",
+  "display_name": "High‐quality genome‐scale metabolic model of <i>Aurantiochytrium</i> sp. T66",
+  "publication_year": 2021,
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5055327289",
+        "display_name": "Vetle Simensen",
+        "orcid": "https://orcid.org/0000-0002-2511-1052"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204778367",
+          "display_name": "Norwegian University of Science and Technology",
+          "ror": "https://ror.org/05xg72x27",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Vetle Simensen",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology and Food Science NTNU ‐ Norwegian University of Science and Technology Trondheim Norway",
+        "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, Trondheim, Norway"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2511-1052",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Food Science NTNU ‐ Norwegian University of Science and Technology Trondheim Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5064312872",
+        "display_name": "André Voigt",
+        "orcid": "https://orcid.org/0000-0002-3006-6970"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204778367",
+          "display_name": "Norwegian University of Science and Technology",
+          "ror": "https://ror.org/05xg72x27",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "André Voigt",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology and Food Science NTNU ‐ Norwegian University of Science and Technology Trondheim Norway",
+        "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, Trondheim, Norway"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3006-6970",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Food Science NTNU ‐ Norwegian University of Science and Technology Trondheim Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5003678652",
+        "display_name": "Eivind Almaas",
+        "orcid": "https://orcid.org/0000-0002-9125-326X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204778367",
+          "display_name": "Norwegian University of Science and Technology",
+          "ror": "https://ror.org/05xg72x27",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Eivind Almaas",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology and Food Science NTNU ‐ Norwegian University of Science and Technology Trondheim Norway",
+        "Department of Public Health and General Practice, K.G. Jebsen Center for Genetic Epidemiology NTNU ‐ Norwegian University of Science and Technology Trondheim Norway",
+        "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, Trondheim, Norway",
+        "Department of Public Health and General Practice, K.G. Jebsen Center for Genetic Epidemiology, NTNU - Norwegian University of Science and Technology, Trondheim, Norway"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9125-326X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Food Science NTNU ‐ Norwegian University of Science and Technology Trondheim Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Public Health and General Practice, K.G. Jebsen Center for Genetic Epidemiology NTNU ‐ Norwegian University of Science and Technology Trondheim Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Public Health and General Practice, K.G. Jebsen Center for Genetic Epidemiology, NTNU - Norwegian University of Science and Technology, Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ]
+    }
+  ]
+}

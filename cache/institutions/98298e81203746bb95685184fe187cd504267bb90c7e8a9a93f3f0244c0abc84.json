@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I96673099",
+  "ror": "https://ror.org/04qtj9h94",
+  "display_name": "Technical University of Denmark",
+  "country_code": "DK",
+  "type": "education",
+  "geo": {
+    "city": "Kongens Lyngby",
+    "geonames_city_id": "2618468",
+    "region": null,
+    "country_code": "DK",
+    "country": "Denmark",
+    "latitude": 55.77043914794922,
+    "longitude": 12.503780364990234
+  }
+}

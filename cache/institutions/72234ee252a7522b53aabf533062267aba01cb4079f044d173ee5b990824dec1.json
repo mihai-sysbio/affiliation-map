@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I4654613",
+  "ror": "https://ror.org/039bjqg32",
+  "display_name": "University of Warsaw",
+  "country_code": "PL",
+  "type": "education",
+  "geo": {
+    "city": "Warsaw",
+    "geonames_city_id": "756135",
+    "region": "Mazovia",
+    "country_code": "PL",
+    "country": "Poland",
+    "latitude": 52.22977,
+    "longitude": 21.01178
+  }
+}

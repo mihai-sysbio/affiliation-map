@@ -1,0 +1,2601 @@
+{
+  "id": "https://openalex.org/W4401510590",
+  "doi": "https://doi.org/10.1038/s44320-024-00060-7",
+  "title": "Yeast9: a consensus genome-scale metabolic model for S. cerevisiae curated by the community",
+  "display_name": "Yeast9: a consensus genome-scale metabolic model for S. cerevisiae curated by the community",
+  "publication_year": 2024,
+  "publication_date": "2024-08-12",
+  "ids": {
+    "openalex": "https://openalex.org/W4401510590",
+    "doi": "https://doi.org/10.1038/s44320-024-00060-7",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/39134886"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/s44320-024-00060-7",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s44320-024-00060-7",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1038/s44320-024-00060-7.pdf",
+    "source": {
+      "id": "https://openalex.org/S200893805",
+      "display_name": "Molecular Systems Biology",
+      "issn_l": "1744-4292",
+      "issn": [
+        "1744-4292"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319965",
+      "host_organization_name": "Springer Nature",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Molecular Systems Biology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "datacite",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://link.springer.com/content/pdf/10.1038/s44320-024-00060-7.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5100521523",
+        "display_name": "Chengyu Zhang",
+        "orcid": "https://orcid.org/0009-0004-3006-9073"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I183067930",
+          "display_name": "Shanghai Jiao Tong University",
+          "ror": "https://ror.org/0220qvk04",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I183067930"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chengyu Zhang",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, and School of Biotechnology, East China University of Science and Technology (ECUST), 200237, Shanghai, China",
+        "State Key Laboratory of Microbial Metabolism, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, 200240, Shanghai, China"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0004-3006-9073",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, and School of Biotechnology, East China University of Science and Technology (ECUST), 200237, Shanghai, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Microbial Metabolism, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, 200240, Shanghai, China",
+          "institution_ids": [
+            "https://openalex.org/I183067930"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055779084",
+        "display_name": "Benjamín J. Sánchez",
+        "orcid": "https://orcid.org/0000-0001-6093-4110"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801134892",
+          "display_name": "Novo Nordisk Foundation",
+          "ror": "https://ror.org/04txyc737",
+          "country_code": "DK",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801134892"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I96673099",
+          "display_name": "Technical University of Denmark",
+          "ror": "https://ror.org/04qtj9h94",
+          "country_code": "DK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ],
+      "countries": [
+        "DK"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Benjamín J Sánchez",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology and Biomedicine, Technical University of Denmark, DK-2800 Kgs, Lyngby, Denmark",
+        "The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, DK-2800 Kgs, Lyngby, Denmark"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6093-4110",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Biomedicine, Technical University of Denmark, DK-2800 Kgs, Lyngby, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I96673099"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, DK-2800 Kgs, Lyngby, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I2801134892",
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100731088",
+        "display_name": "Feiran Li",
+        "orcid": "https://orcid.org/0000-0001-9155-5260"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114105",
+          "display_name": "Tsinghua–Berkeley Shenzhen Institute",
+          "ror": "https://ror.org/02hhwwz98",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210114105",
+            "https://openalex.org/I95457486",
+            "https://openalex.org/I99065089"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99065089",
+          "display_name": "Tsinghua University",
+          "ror": "https://ror.org/03cve4549",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I99065089"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Feiran Li",
+      "raw_affiliation_strings": [
+        "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen, 518055, China"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-9155-5260",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen, 518055, China",
+          "institution_ids": [
+            "https://openalex.org/I4210114105",
+            "https://openalex.org/I99065089"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5093423940",
+        "display_name": "Cheng Wei Quan Eiden",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I172675005",
+          "display_name": "Nanyang Technological University",
+          "ror": "https://ror.org/02e7b5302",
+          "country_code": "SG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I172675005"
+          ]
+        }
+      ],
+      "countries": [
+        "SG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Cheng Wei Quan Eiden",
+      "raw_affiliation_strings": [
+        "School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological University, 62 Nanyang Drive, Singapore, 637459, Singapore"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological University, 62 Nanyang Drive, Singapore, 637459, Singapore",
+          "institution_ids": [
+            "https://openalex.org/I172675005"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074450770",
+        "display_name": "William T. Scott",
+        "orcid": "https://orcid.org/0000-0002-4029-2998"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "William T Scott",
+      "raw_affiliation_strings": [
+        "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands",
+        "UNLOCK, Wageningen University & Research, Wageningen, The Netherlands"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-4029-2998",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "UNLOCK, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5076649110",
+        "display_name": "Ulf W. Liebal",
+        "orcid": "https://orcid.org/0000-0001-5172-7339"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ulf W Liebal",
+      "raw_affiliation_strings": [
+        "Institute of Applied Microbiology - iAMB, Aachen Biology and Biotechnology - ABBt, RWTH Aachen University, 52074, Aachen, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Applied Microbiology - iAMB, Aachen Biology and Biotechnology - ABBt, RWTH Aachen University, 52074, Aachen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021545487",
+        "display_name": "Lars M. Blank",
+        "orcid": "https://orcid.org/0000-0003-0961-4976"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lars M Blank",
+      "raw_affiliation_strings": [
+        "Institute of Applied Microbiology - iAMB, Aachen Biology and Biotechnology - ABBt, RWTH Aachen University, 52074, Aachen, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0961-4976",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Applied Microbiology - iAMB, Aachen Biology and Biotechnology - ABBt, RWTH Aachen University, 52074, Aachen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5009946858",
+        "display_name": "Hendrik G. Mengers",
+        "orcid": "https://orcid.org/0000-0002-5098-164X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hendrik G Mengers",
+      "raw_affiliation_strings": [
+        "Institute of Applied Microbiology - iAMB, Aachen Biology and Biotechnology - ABBt, RWTH Aachen University, 52074, Aachen, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Applied Microbiology - iAMB, Aachen Biology and Biotechnology - ABBt, RWTH Aachen University, 52074, Aachen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5038426035",
+        "display_name": "Mihail Anton",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800139495",
+          "display_name": "Science for Life Laboratory",
+          "ror": "https://ror.org/04ev03g22",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2800139495"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mihail Anton",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, Gothenburg, SE412 58, Sweden"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7753-9042",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, Gothenburg, SE412 58, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I2800139495",
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5046993526",
+        "display_name": "Albert Tafur Rangel",
+        "orcid": "https://orcid.org/0000-0002-9428-183X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801134892",
+          "display_name": "Novo Nordisk Foundation",
+          "ror": "https://ror.org/04txyc737",
+          "country_code": "DK",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801134892"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I96673099",
+          "display_name": "Technical University of Denmark",
+          "ror": "https://ror.org/04qtj9h94",
+          "country_code": "DK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ],
+      "countries": [
+        "DK",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Albert Tafur Rangel",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology, Gothenburg, SE412 96, Sweden",
+        "The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, DK-2800 Kgs, Lyngby, Denmark"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9428-183X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology, Gothenburg, SE412 96, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, DK-2800 Kgs, Lyngby, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I2801134892",
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5023051270",
+        "display_name": "Sebastián N. Mendoza",
+        "orcid": "https://orcid.org/0000-0002-2192-5569"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I69737025",
+          "display_name": "University of Chile",
+          "ror": "https://ror.org/047gc3g35",
+          "country_code": "CL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I69737025"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I865915315",
+          "display_name": "Vrije Universiteit Amsterdam",
+          "ror": "https://ror.org/008xxew50",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I865915315"
+          ]
+        }
+      ],
+      "countries": [
+        "CL",
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sebastián N Mendoza",
+      "raw_affiliation_strings": [
+        "Center for Mathematical Modeling, University of Chile, Santiago, Chile",
+        "Systems Biology Lab, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2192-5569",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Mathematical Modeling, University of Chile, Santiago, Chile",
+          "institution_ids": [
+            "https://openalex.org/I69737025"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Systems Biology Lab, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I865915315"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100427821",
+        "display_name": "Lixin Zhang",
+        "orcid": "https://orcid.org/0000-0003-0894-9520"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lixin Zhang",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, and School of Biotechnology, East China University of Science and Technology (ECUST), 200237, Shanghai, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, and School of Biotechnology, East China University of Science and Technology (ECUST), 200237, Shanghai, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083238115",
+        "display_name": "Jens Nielsen",
+        "orcid": "https://orcid.org/0000-0002-9955-6003"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210146628",
+          "display_name": "BioInnovation Institute",
+          "ror": "https://ror.org/048b3qc73",
+          "country_code": "DK",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210146628"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "DK",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jens Nielsen",
+      "raw_affiliation_strings": [
+        "BioInnovation Institute, Ole Maaløes Vej 3, DK2200, Copenhagen N, Denmark",
+        "Department of Life Sciences, Chalmers University of Technology, Gothenburg, SE412 96, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "BioInnovation Institute, Ole Maaløes Vej 3, DK2200, Copenhagen N, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I4210146628"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology, Gothenburg, SE412 96, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5075758242",
+        "display_name": "Hongzhong Lu",
+        "orcid": "https://orcid.org/0009-0005-8555-1841"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I183067930",
+          "display_name": "Shanghai Jiao Tong University",
+          "ror": "https://ror.org/0220qvk04",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I183067930"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Hongzhong Lu",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Microbial Metabolism, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, 200240, Shanghai, China. hongzhonglu@sjtu.edu.cn"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0005-8555-1841",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Microbial Metabolism, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, 200240, Shanghai, China. hongzhonglu@sjtu.edu.cn",
+          "institution_ids": [
+            "https://openalex.org/I183067930"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5059167313",
+        "display_name": "Eduard J. Kerkhoven",
+        "orcid": "https://orcid.org/0000-0002-3593-5792"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801134892",
+          "display_name": "Novo Nordisk Foundation",
+          "ror": "https://ror.org/04txyc737",
+          "country_code": "DK",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801134892"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "DK",
+        "SE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Eduard J Kerkhoven",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, SciLifeLab, Chalmers University of Technology, Gothenburg, SE412 96, Sweden. eduardk@chalmers.se",
+        "The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, DK-2800 Kgs, Lyngby, Denmark. eduardk@chalmers.se"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3593-5792",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, SciLifeLab, Chalmers University of Technology, Gothenburg, SE412 96, Sweden. eduardk@chalmers.se",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, DK-2800 Kgs, Lyngby, Denmark. eduardk@chalmers.se",
+          "institution_ids": [
+            "https://openalex.org/I2801134892"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 7,
+  "institutions_distinct_count": 14,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5059167313",
+    "https://openalex.org/A5075758242"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I183067930",
+    "https://openalex.org/I2801134892",
+    "https://openalex.org/I66862912"
+  ],
+  "apc_list": {
+    "value": 5000,
+    "currency": "USD",
+    "value_usd": 5000
+  },
+  "apc_paid": {
+    "value": 5000,
+    "currency": "USD",
+    "value_usd": 5000
+  },
+  "fwci": 9.9137,
+  "has_fulltext": true,
+  "cited_by_count": 50,
+  "citation_normalized_percentile": {
+    "value": 0.98892179,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "20",
+    "issue": "10",
+    "first_page": "1134",
+    "last_page": "1150"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10932",
+    "display_name": "Microbial Metabolic Engineering and Bioproduction",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10932",
+      "display_name": "Microbial Metabolic Engineering and Bioproduction",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10497",
+      "display_name": "Fungal and yeast genetics research",
+      "score": 0.9983999729156494,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10171",
+      "display_name": "Biofuel production and bioconversion",
+      "score": 0.996999979019165,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.8762894868850708
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.640990138053894
+    },
+    {
+      "id": "https://openalex.org/keywords/scale",
+      "display_name": "Scale (ratio)",
+      "score": 0.512430727481842
+    },
+    {
+      "id": "https://openalex.org/keywords/genome",
+      "display_name": "Genome",
+      "score": 0.4939313530921936
+    },
+    {
+      "id": "https://openalex.org/keywords/systems-biology",
+      "display_name": "Systems biology",
+      "score": 0.43427127599716187
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.3789401948451996
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.20976293087005615
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.8762894868850708
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.640990138053894
+    },
+    {
+      "id": "https://openalex.org/C2778755073",
+      "wikidata": "https://www.wikidata.org/wiki/Q10858537",
+      "display_name": "Scale (ratio)",
+      "level": 2,
+      "score": 0.512430727481842
+    },
+    {
+      "id": "https://openalex.org/C141231307",
+      "wikidata": "https://www.wikidata.org/wiki/Q7020",
+      "display_name": "Genome",
+      "level": 3,
+      "score": 0.4939313530921936
+    },
+    {
+      "id": "https://openalex.org/C152662350",
+      "wikidata": "https://www.wikidata.org/wiki/Q815297",
+      "display_name": "Systems biology",
+      "level": 2,
+      "score": 0.43427127599716187
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.3789401948451996
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.20976293087005615
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D002244",
+      "descriptor_name": "Carbon",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002244",
+      "descriptor_name": "Carbon",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002244",
+      "descriptor_name": "Carbon",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002244",
+      "descriptor_name": "Carbon",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002244",
+      "descriptor_name": "Carbon",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009584",
+      "descriptor_name": "Nitrogen",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009584",
+      "descriptor_name": "Nitrogen",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009584",
+      "descriptor_name": "Nitrogen",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009584",
+      "descriptor_name": "Nitrogen",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009584",
+      "descriptor_name": "Nitrogen",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009997",
+      "descriptor_name": "Osmotic Pressure",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009997",
+      "descriptor_name": "Osmotic Pressure",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009997",
+      "descriptor_name": "Osmotic Pressure",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009997",
+      "descriptor_name": "Osmotic Pressure",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009997",
+      "descriptor_name": "Osmotic Pressure",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000254",
+      "qualifier_name": "growth & development",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000254",
+      "qualifier_name": "growth & development",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000254",
+      "qualifier_name": "growth & development",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000254",
+      "qualifier_name": "growth & development",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000254",
+      "qualifier_name": "growth & development",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012441",
+      "descriptor_name": "Saccharomyces cerevisiae",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016681",
+      "descriptor_name": "Genome, Fungal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016681",
+      "descriptor_name": "Genome, Fungal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016681",
+      "descriptor_name": "Genome, Fungal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016681",
+      "descriptor_name": "Genome, Fungal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016681",
+      "descriptor_name": "Genome, Fungal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D020869",
+      "descriptor_name": "Gene Expression Profiling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020869",
+      "descriptor_name": "Gene Expression Profiling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020869",
+      "descriptor_name": "Gene Expression Profiling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020869",
+      "descriptor_name": "Gene Expression Profiling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020869",
+      "descriptor_name": "Gene Expression Profiling",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D029701",
+      "descriptor_name": "Saccharomyces cerevisiae Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D029701",
+      "descriptor_name": "Saccharomyces cerevisiae Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D029701",
+      "descriptor_name": "Saccharomyces cerevisiae Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D029701",
+      "descriptor_name": "Saccharomyces cerevisiae Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D029701",
+      "descriptor_name": "Saccharomyces cerevisiae Proteins",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D029701",
+      "descriptor_name": "Saccharomyces cerevisiae Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D029701",
+      "descriptor_name": "Saccharomyces cerevisiae Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D029701",
+      "descriptor_name": "Saccharomyces cerevisiae Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D029701",
+      "descriptor_name": "Saccharomyces cerevisiae Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D029701",
+      "descriptor_name": "Saccharomyces cerevisiae Proteins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D040901",
+      "descriptor_name": "Proteomics",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D049490",
+      "descriptor_name": "Systems Biology",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D049490",
+      "descriptor_name": "Systems Biology",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D049490",
+      "descriptor_name": "Systems Biology",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D049490",
+      "descriptor_name": "Systems Biology",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D049490",
+      "descriptor_name": "Systems Biology",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059467",
+      "descriptor_name": "Transcriptome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059467",
+      "descriptor_name": "Transcriptome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059467",
+      "descriptor_name": "Transcriptome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059467",
+      "descriptor_name": "Transcriptome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059467",
+      "descriptor_name": "Transcriptome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 9,
+  "locations": [
+    {
+      "id": "doi:10.1038/s44320-024-00060-7",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s44320-024-00060-7",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1038/s44320-024-00060-7.pdf",
+      "source": {
+        "id": "https://openalex.org/S200893805",
+        "display_name": "Molecular Systems Biology",
+        "issn_l": "1744-4292",
+        "issn": [
+          "1744-4292"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319965",
+        "host_organization_name": "Springer Nature",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Molecular Systems Biology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:39134886",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39134886",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Molecular systems biology",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:research.vu.nl:openaire/a96e679a-0f74-4368-a683-8e4a96617a4e",
+      "is_oa": true,
+      "landing_page_url": "https://research.vu.nl/en/publications/a96e679a-0f74-4368-a683-8e4a96617a4e",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401107",
+        "display_name": "VU Research Portal",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I865915315",
+        "host_organization_name": "Vrije Universiteit Amsterdam",
+        "host_organization_lineage": [
+          "https://openalex.org/I865915315"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Zhang, C, Sánchez, B J, Li, F, Eiden, C W Q, Scott, W T, Liebal, U W, Blank, L M, Mengers, H G, Anton, M, Rangel, A T, Mendoza, S N, Zhang, L, Nielsen, J, Lu, H & Kerkhoven, E J 2024, 'Yeast9 : a consensus genome-scale metabolic model for S. cerevisiae curated by the community', Molecular Systems Biology, vol. 20, no. 10, pp. 1134-1150. https://doi.org/10.1038/s44320-024-00060-7",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "pmh:oai:library.wur.nl:wurpubs/634322",
+      "is_oa": true,
+      "landing_page_url": "https://research.wur.nl/en/publications/yeast9-a-consensus-genome-scale-metabolic-model-for-s-cerevisiae-",
+      "pdf_url": "https://edepot.wur.nl/673009",
+      "source": {
+        "id": "https://openalex.org/S4210201231",
+        "display_name": "Socio-Environmental Systems Modeling",
+        "issn_l": "2663-3027",
+        "issn": [
+          "2663-3027"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "ISSN: 1744-4292",
+      "raw_type": "Article/Letter to editor"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:11450192",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11450192",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11450192/pdf/44320_2024_Article_60.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Mol Syst Biol",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:research.chalmers.se:542434",
+      "is_oa": true,
+      "landing_page_url": "https://research.chalmers.se/en/publication/542434",
+      "pdf_url": "https://research.chalmers.se/publication/542434/file/542434_Fulltext.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306402469",
+        "display_name": "Chalmers Research (Chalmers University of Technology)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I66862912",
+        "host_organization_name": "Chalmers University of Technology",
+        "host_organization_lineage": [
+          "https://openalex.org/I66862912"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": ""
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:6ceac2e6fd9f4f218e5ca5c7ed65211e",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/6ceac2e6fd9f4f218e5ca5c7ed65211e",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Molecular Systems Biology, Vol 20, Iss 10, Pp 1134-1150 (2024)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:research.vu.nl:publications/a96e679a-0f74-4368-a683-8e4a96617a4e",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/1871.1/a96e679a-0f74-4368-a683-8e4a96617a4e",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401107",
+        "display_name": "VU Research Portal",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I865915315",
+        "host_organization_name": "Vrije Universiteit Amsterdam",
+        "host_organization_lineage": [
+          "https://openalex.org/I865915315"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Zhang, C, Sánchez, B J, Li, F, Eiden, C W Q, Scott, W T, Liebal, U W, Blank, L M, Mengers, H G, Anton, M, Rangel, A T, Mendoza, S N, Zhang, L, Nielsen, J, Lu, H & Kerkhoven, E J 2024, 'Yeast9 : a consensus genome-scale metabolic model for S. cerevisiae curated by the community', Molecular Systems Biology, vol. 20, no. 10, pp. 1134-1150. https://doi.org/10.1038/s44320-024-00060-7",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "doi:10.18154/rwth-2024-07745",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.18154/rwth-2024-07745",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401033",
+        "display_name": "RWTH Publications (RWTH Aachen)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I887968799",
+        "host_organization_name": "RWTH Aachen University",
+        "host_organization_lineage": [
+          "https://openalex.org/I887968799"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1038/s44320-024-00060-7",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s44320-024-00060-7",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1038/s44320-024-00060-7.pdf",
+    "source": {
+      "id": "https://openalex.org/S200893805",
+      "display_name": "Molecular Systems Biology",
+      "issn_l": "1744-4292",
+      "issn": [
+        "1744-4292"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319965",
+      "host_organization_name": "Springer Nature",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Molecular Systems Biology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1558857736",
+      "display_name": "Model-Based Construction And Optimisation Of Versatile Chassis Yeast Strains For Production Of Valuable Lipid And Aromatic Compounds",
+      "funder_award_id": "720824",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    },
+    {
+      "id": "https://openalex.org/G1769864909",
+      "display_name": null,
+      "funder_award_id": "B18022",
+      "funder_id": "https://openalex.org/F4320336033",
+      "funder_display_name": "Overseas Expertise Introduction Project for Discipline Innovation"
+    },
+    {
+      "id": "https://openalex.org/G1781660666",
+      "display_name": null,
+      "funder_award_id": "13220002",
+      "funder_id": "https://openalex.org/F4320334812",
+      "funder_display_name": "Comisión Nacional de Investigación Científica y Tecnológica"
+    },
+    {
+      "id": "https://openalex.org/G1938241006",
+      "display_name": null,
+      "funder_award_id": "686070",
+      "funder_id": "https://openalex.org/F4320332999",
+      "funder_display_name": "Horizon 2020 Framework Programme"
+    },
+    {
+      "id": "https://openalex.org/G2392502910",
+      "display_name": null,
+      "funder_award_id": "ACE210010 and FB210005",
+      "funder_id": "https://openalex.org/F4320335058",
+      "funder_display_name": "Facultad de Ciencias Físicas y Matemáticas"
+    },
+    {
+      "id": "https://openalex.org/G2490459576",
+      "display_name": null,
+      "funder_award_id": "2020YFA0907800",
+      "funder_id": "https://openalex.org/F4320335777",
+      "funder_display_name": "National Key Research and Development Program of China"
+    },
+    {
+      "id": "https://openalex.org/G3279583484",
+      "display_name": null,
+      "funder_award_id": "ACE210010 and FB210005",
+      "funder_id": "https://openalex.org/F2179975579",
+      "funder_display_name": "Centro de Modelamiento Matemático, Facultad de Ciencias Físicas y Matemáticas"
+    },
+    {
+      "id": "https://openalex.org/G3856565858",
+      "display_name": null,
+      "funder_award_id": "720824",
+      "funder_id": "https://openalex.org/F4320332999",
+      "funder_display_name": "Horizon 2020 Framework Programme"
+    },
+    {
+      "id": "https://openalex.org/G4155290071",
+      "display_name": null,
+      "funder_award_id": "B18022",
+      "funder_id": "https://openalex.org/F4320327912",
+      "funder_display_name": "Higher Education Discipline Innovation Project"
+    },
+    {
+      "id": "https://openalex.org/G4813214080",
+      "display_name": null,
+      "funder_award_id": "2022YFA0913000",
+      "funder_id": "https://openalex.org/F4320335777",
+      "funder_display_name": "National Key Research and Development Program of China"
+    },
+    {
+      "id": "https://openalex.org/G5172116603",
+      "display_name": "DECIPHERING THE REGULATORY ARCHITECTURE OF MICROBIAL COMMUNITIES",
+      "funder_award_id": "13220002",
+      "funder_id": "https://openalex.org/F4320331146",
+      "funder_display_name": "Agencia Nacional de Investigación y Desarrollo"
+    },
+    {
+      "id": "https://openalex.org/G5503243637",
+      "display_name": null,
+      "funder_award_id": "22208211 and 22378263",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G5834210437",
+      "display_name": null,
+      "funder_award_id": "B18022",
+      "funder_id": "https://openalex.org/F4320335777",
+      "funder_display_name": "National Key Research and Development Program of China"
+    },
+    {
+      "id": "https://openalex.org/G6226116441",
+      "display_name": null,
+      "funder_award_id": "B18022",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G6512587673",
+      "display_name": null,
+      "funder_award_id": "72180373",
+      "funder_id": "https://openalex.org/F4320325593",
+      "funder_display_name": "Consejo Nacional de Innovación, Ciencia y Tecnología"
+    },
+    {
+      "id": "https://openalex.org/G7042228497",
+      "display_name": null,
+      "funder_award_id": "NNF20CC0035580",
+      "funder_id": "https://openalex.org/F4320325957",
+      "funder_display_name": "Novo Nordisk Fonden"
+    },
+    {
+      "id": "https://openalex.org/G7361212524",
+      "display_name": null,
+      "funder_award_id": "NNF20CC0035580",
+      "funder_id": "https://openalex.org/F4320322436",
+      "funder_display_name": "Novo Nordisk"
+    },
+    {
+      "id": "https://openalex.org/G7701966108",
+      "display_name": null,
+      "funder_award_id": "NNF10CC1016517",
+      "funder_id": "https://openalex.org/F4320325957",
+      "funder_display_name": "Novo Nordisk Fonden"
+    },
+    {
+      "id": "https://openalex.org/G7717650332",
+      "display_name": "UNLOCK - UNLOCKing Microbial Diversity for Society",
+      "funder_award_id": "184.035.007",
+      "funder_id": "https://openalex.org/F4320321800",
+      "funder_display_name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek"
+    },
+    {
+      "id": "https://openalex.org/G7842005466",
+      "display_name": null,
+      "funder_award_id": "Horizon 2020",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    },
+    {
+      "id": "https://openalex.org/G8167787340",
+      "display_name": "CENTER FOR MATHEMATICAL MODELING (CMM)",
+      "funder_award_id": "FB210005",
+      "funder_id": "https://openalex.org/F4320331146",
+      "funder_display_name": "Agencia Nacional de Investigación y Desarrollo"
+    },
+    {
+      "id": "https://openalex.org/G8192358412",
+      "display_name": null,
+      "funder_award_id": "FB210005",
+      "funder_id": "https://openalex.org/F4320334812",
+      "funder_display_name": "Comisión Nacional de Investigación Científica y Tecnológica"
+    },
+    {
+      "id": "https://openalex.org/G833117440",
+      "display_name": null,
+      "funder_award_id": "22208211",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G8484936840",
+      "display_name": null,
+      "funder_award_id": "22378263",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G8690525661",
+      "display_name": "Bioinformatics Services for Data-Driven Design of Cell Factories and Communities",
+      "funder_award_id": "686070",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    },
+    {
+      "id": "https://openalex.org/G8725798812",
+      "display_name": "CENTRO DE MODELAMIENTO MATEMATICO",
+      "funder_award_id": "ACE210010",
+      "funder_id": "https://openalex.org/F4320331146",
+      "funder_display_name": "Agencia Nacional de Investigación y Desarrollo"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F2179975579",
+      "display_name": "Centro de Modelamiento Matemático, Facultad de Ciencias Físicas y Matemáticas",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320317176",
+      "display_name": "Institut Català de Nanociència i Nanotecnologia",
+      "ror": "https://ror.org/00k1qja49"
+    },
+    {
+      "id": "https://openalex.org/F4320320300",
+      "display_name": "European Commission",
+      "ror": "https://ror.org/00k4n6c32"
+    },
+    {
+      "id": "https://openalex.org/F4320320879",
+      "display_name": "Deutsche Forschungsgemeinschaft",
+      "ror": "https://ror.org/018mejw64"
+    },
+    {
+      "id": "https://openalex.org/F4320321001",
+      "display_name": "National Natural Science Foundation of China",
+      "ror": "https://ror.org/01h0zpd94"
+    },
+    {
+      "id": "https://openalex.org/F4320321523",
+      "display_name": "Chalmers Tekniska Högskola",
+      "ror": "https://ror.org/040wg7k59"
+    },
+    {
+      "id": "https://openalex.org/F4320321800",
+      "display_name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+      "ror": "https://ror.org/04jsz6e67"
+    },
+    {
+      "id": "https://openalex.org/F4320322327",
+      "display_name": "Knut och Alice Wallenbergs Stiftelse",
+      "ror": "https://ror.org/004hzzk67"
+    },
+    {
+      "id": "https://openalex.org/F4320322436",
+      "display_name": "Novo Nordisk",
+      "ror": "https://ror.org/0435rc536"
+    },
+    {
+      "id": "https://openalex.org/F4320325593",
+      "display_name": "Consejo Nacional de Innovación, Ciencia y Tecnología",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320325957",
+      "display_name": "Novo Nordisk Fonden",
+      "ror": "https://ror.org/04txyc737"
+    },
+    {
+      "id": "https://openalex.org/F4320327912",
+      "display_name": "Higher Education Discipline Innovation Project",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320331146",
+      "display_name": "Agencia Nacional de Investigación y Desarrollo",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320332999",
+      "display_name": "Horizon 2020 Framework Programme",
+      "ror": "https://ror.org/00k4n6c32"
+    },
+    {
+      "id": "https://openalex.org/F4320334812",
+      "display_name": "Comisión Nacional de Investigación Científica y Tecnológica",
+      "ror": "https://ror.org/02ap3w078"
+    },
+    {
+      "id": "https://openalex.org/F4320335058",
+      "display_name": "Facultad de Ciencias Físicas y Matemáticas",
+      "ror": "https://ror.org/047gc3g35"
+    },
+    {
+      "id": "https://openalex.org/F4320335777",
+      "display_name": "National Key Research and Development Program of China",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320336033",
+      "display_name": "Overseas Expertise Introduction Project for Discipline Innovation",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": false
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4401510590.pdf"
+  },
+  "referenced_works_count": 87,
+  "referenced_works": [
+    "https://openalex.org/W1862094217",
+    "https://openalex.org/W1935434993",
+    "https://openalex.org/W1983601898",
+    "https://openalex.org/W1989277387",
+    "https://openalex.org/W1990226486",
+    "https://openalex.org/W1994267372",
+    "https://openalex.org/W2000090329",
+    "https://openalex.org/W2010930876",
+    "https://openalex.org/W2016033442",
+    "https://openalex.org/W2046527060",
+    "https://openalex.org/W2047632644",
+    "https://openalex.org/W2048214825",
+    "https://openalex.org/W2053641072",
+    "https://openalex.org/W2054719673",
+    "https://openalex.org/W2056817403",
+    "https://openalex.org/W2063183241",
+    "https://openalex.org/W2081954164",
+    "https://openalex.org/W2085993965",
+    "https://openalex.org/W2096525273",
+    "https://openalex.org/W2102221598",
+    "https://openalex.org/W2106245349",
+    "https://openalex.org/W2107620449",
+    "https://openalex.org/W2115420193",
+    "https://openalex.org/W2116766270",
+    "https://openalex.org/W2116887390",
+    "https://openalex.org/W2119673997",
+    "https://openalex.org/W2120469353",
+    "https://openalex.org/W2124721555",
+    "https://openalex.org/W2127073167",
+    "https://openalex.org/W2128572161",
+    "https://openalex.org/W2128601422",
+    "https://openalex.org/W2139836727",
+    "https://openalex.org/W2142270568",
+    "https://openalex.org/W2144944670",
+    "https://openalex.org/W2149202606",
+    "https://openalex.org/W2153283265",
+    "https://openalex.org/W2159460045",
+    "https://openalex.org/W2159482845",
+    "https://openalex.org/W2160541874",
+    "https://openalex.org/W2162666840",
+    "https://openalex.org/W2202347610",
+    "https://openalex.org/W2205662772",
+    "https://openalex.org/W2285763735",
+    "https://openalex.org/W2465128457",
+    "https://openalex.org/W2522417827",
+    "https://openalex.org/W2539530515",
+    "https://openalex.org/W2558428302",
+    "https://openalex.org/W2770083493",
+    "https://openalex.org/W2786672974",
+    "https://openalex.org/W2807625668",
+    "https://openalex.org/W2896692266",
+    "https://openalex.org/W2913272925",
+    "https://openalex.org/W2917101543",
+    "https://openalex.org/W2949321019",
+    "https://openalex.org/W2952117162",
+    "https://openalex.org/W2952817404",
+    "https://openalex.org/W2965590414",
+    "https://openalex.org/W2991390001",
+    "https://openalex.org/W3006584233",
+    "https://openalex.org/W3010629926",
+    "https://openalex.org/W3016806960",
+    "https://openalex.org/W3043819423",
+    "https://openalex.org/W3090689814",
+    "https://openalex.org/W3095049046",
+    "https://openalex.org/W3097145107",
+    "https://openalex.org/W3118279410",
+    "https://openalex.org/W3136840376",
+    "https://openalex.org/W3144947417",
+    "https://openalex.org/W3153976691",
+    "https://openalex.org/W3174064560",
+    "https://openalex.org/W3184364488",
+    "https://openalex.org/W3189700398",
+    "https://openalex.org/W3190191127",
+    "https://openalex.org/W3203975617",
+    "https://openalex.org/W3210712771",
+    "https://openalex.org/W4200140791",
+    "https://openalex.org/W4210702584",
+    "https://openalex.org/W4231254854",
+    "https://openalex.org/W4252109149",
+    "https://openalex.org/W4283733937",
+    "https://openalex.org/W4285726023",
+    "https://openalex.org/W4290805678",
+    "https://openalex.org/W4291020874",
+    "https://openalex.org/W4294216483",
+    "https://openalex.org/W4306721696",
+    "https://openalex.org/W4313529487",
+    "https://openalex.org/W4376121723"
+  ],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2086525401",
+    "https://openalex.org/W2006735166",
+    "https://openalex.org/W2079327011",
+    "https://openalex.org/W2053325634",
+    "https://openalex.org/W3178279768",
+    "https://openalex.org/W2888097224",
+    "https://openalex.org/W2773861473",
+    "https://openalex.org/W5284979",
+    "https://openalex.org/W4245853730"
+  ],
+  "abstract_inverted_index": {
+    "Genome-scale": [
+      0
+    ],
+    "metabolic": [
+      1,
+      86
+    ],
+    "models": [
+      2
+    ],
+    "(GEMs)": [
+      3
+    ],
+    "can": [
+      4
+    ],
+    "facilitate": [
+      5
+    ],
+    "metabolism-focused": [
+      6
+    ],
+    "multi-omics": [
+      7
+    ],
+    "integrative": [
+      8
+    ],
+    "analysis.": [
+      9
+    ],
+    "Since": [
+      10
+    ],
+    "Yeast8,": [
+      11
+    ],
+    "the": [
+      12,
+      25,
+      30,
+      35,
+      111
+    ],
+    "yeast-GEM": [
+      13
+    ],
+    "of": [
+      14,
+      34,
+      149
+    ],
+    "Saccharomyces": [
+      15
+    ],
+    "cerevisiae,": [
+      16
+    ],
+    "published": [
+      17
+    ],
+    "in": [
+      18,
+      39,
+      122,
+      130
+    ],
+    "2019,": [
+      19
+    ],
+    "has": [
+      20,
+      28
+    ],
+    "been": [
+      21
+    ],
+    "continuously": [
+      22
+    ],
+    "updated": [
+      23
+    ],
+    "by": [
+      24,
+      52,
+      101
+    ],
+    "community.": [
+      26
+    ],
+    "This": [
+      27
+    ],
+    "increased": [
+      29
+    ],
+    "quality": [
+      31
+    ],
+    "and": [
+      32
+    ],
+    "scope": [
+      33
+    ],
+    "model,": [
+      36
+    ],
+    "culminating": [
+      37
+    ],
+    "now": [
+      38
+    ],
+    "Yeast9.": [
+      40
+    ],
+    "To": [
+      41
+    ],
+    "evaluate": [
+      42
+    ],
+    "its": [
+      43,
+      89
+    ],
+    "predictive": [
+      44
+    ],
+    "performance,": [
+      45
+    ],
+    "we": [
+      46,
+      95,
+      138
+    ],
+    "generated": [
+      47
+    ],
+    "163": [
+      48
+    ],
+    "condition-specific": [
+      49
+    ],
+    "GEMs": [
+      50,
+      98
+    ],
+    "constrained": [
+      51,
+      100
+    ],
+    "single-cell": [
+      53
+    ],
+    "transcriptomics": [
+      54,
+      102,
+      121
+    ],
+    "from": [
+      55,
+      73,
+      116
+    ],
+    "osmotic": [
+      56,
+      70
+    ],
+    "pressure": [
+      57,
+      71
+    ],
+    "or": [
+      58
+    ],
+    "reference": [
+      59
+    ],
+    "conditions.": [
+      60
+    ],
+    "Comparative": [
+      61
+    ],
+    "flux": [
+      62
+    ],
+    "analysis": [
+      63
+    ],
+    "showed": [
+      64
+    ],
+    "that": [
+      65,
+      140
+    ],
+    "yeast": [
+      66,
+      150
+    ],
+    "adapting": [
+      67
+    ],
+    "to": [
+      68,
+      109,
+      144
+    ],
+    "high": [
+      69
+    ],
+    "benefits": [
+      72
+    ],
+    "upregulating": [
+      74
+    ],
+    "fluxes": [
+      75
+    ],
+    "through": [
+      76
+    ],
+    "central": [
+      77
+    ],
+    "carbon": [
+      78
+    ],
+    "metabolism.": [
+      79,
+      151
+    ],
+    "Furthermore,": [
+      80
+    ],
+    "combining": [
+      81
+    ],
+    "Yeast9": [
+      82,
+      141
+    ],
+    "with": [
+      83
+    ],
+    "proteomics": [
+      84
+    ],
+    "revealed": [
+      85
+    ],
+    "rewiring": [
+      87
+    ],
+    "underlying": [
+      88
+    ],
+    "preference": [
+      90
+    ],
+    "for": [
+      91,
+      103,
+      126
+    ],
+    "nitrogen": [
+      92
+    ],
+    "sources.": [
+      93
+    ],
+    "Lastly,": [
+      94
+    ],
+    "created": [
+      96
+    ],
+    "strain-specific": [
+      97
+    ],
+    "(ssGEMs)": [
+      99
+    ],
+    "1229": [
+      104
+    ],
+    "mutant": [
+      105
+    ],
+    "strains.": [
+      106
+    ],
+    "Well": [
+      107
+    ],
+    "able": [
+      108
+    ],
+    "predict": [
+      110
+    ],
+    "strains'": [
+      112
+    ],
+    "growth": [
+      113
+    ],
+    "rates,": [
+      114
+    ],
+    "fluxomics": [
+      115
+    ],
+    "those": [
+      117,
+      136
+    ],
+    "large-scale": [
+      118
+    ],
+    "ssGEMs": [
+      119
+    ],
+    "outperformed": [
+      120
+    ],
+    "predicting": [
+      123
+    ],
+    "functional": [
+      124
+    ],
+    "categories": [
+      125
+    ],
+    "all": [
+      127
+    ],
+    "studied": [
+      128
+    ],
+    "genes": [
+      129
+    ],
+    "machine": [
+      131
+    ],
+    "learning": [
+      132
+    ],
+    "models.": [
+      133
+    ],
+    "Based": [
+      134
+    ],
+    "on": [
+      135
+    ],
+    "findings": [
+      137
+    ],
+    "anticipate": [
+      139
+    ],
+    "will": [
+      142
+    ],
+    "continue": [
+      143
+    ],
+    "empower": [
+      145
+    ],
+    "systems": [
+      146
+    ],
+    "biology": [
+      147
+    ],
+    "studies": [
+      148
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 19
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 30
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-28T08:01:55.173337",
+  "created_date": "2024-08-13T00:00:00"
+}

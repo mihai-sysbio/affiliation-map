@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I99065089",
+  "ror": "https://ror.org/03cve4549",
+  "display_name": "Tsinghua University",
+  "country_code": "CN",
+  "type": "education",
+  "geo": {
+    "city": "Beijing",
+    "geonames_city_id": "1816670",
+    "region": "Beijing",
+    "country_code": "CN",
+    "country": "China",
+    "latitude": 39.9075,
+    "longitude": 116.39723
+  }
+}

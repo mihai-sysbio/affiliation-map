@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I4210151618",
+  "ror": "https://ror.org/048b34d51",
+  "display_name": "National Hospital for Neurology and Neurosurgery",
+  "country_code": "GB",
+  "type": "healthcare",
+  "geo": {
+    "city": "London",
+    "geonames_city_id": "2643743",
+    "region": null,
+    "country_code": "GB",
+    "country": "United Kingdom",
+    "latitude": 51.52226257324219,
+    "longitude": -0.12202999740839005
+  }
+}

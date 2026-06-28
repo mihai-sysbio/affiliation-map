@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I36258959",
+  "ror": "https://ror.org/0168r3w48",
+  "display_name": "University of California San Diego",
+  "country_code": "US",
+  "type": "education",
+  "geo": {
+    "city": "San Diego",
+    "geonames_city_id": "5391811",
+    "region": "California",
+    "country_code": "US",
+    "country": "United States",
+    "latitude": 32.71571,
+    "longitude": -117.16472
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I4210124641",
+  "ror": "https://ror.org/039qvmf95",
+  "display_name": "Wallenberg Wood Science Center",
+  "country_code": "SE",
+  "type": "facility",
+  "geo": {
+    "city": "Stockholm",
+    "geonames_city_id": "2673730",
+    "region": null,
+    "country_code": "SE",
+    "country": "Sweden",
+    "latitude": 59.32938003540039,
+    "longitude": 18.068710327148438
+  }
+}

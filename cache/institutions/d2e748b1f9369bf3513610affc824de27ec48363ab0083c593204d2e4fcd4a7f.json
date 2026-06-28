@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I121797337",
+  "ror": "https://ror.org/027bh9e22",
+  "display_name": "Leiden University",
+  "country_code": "NL",
+  "type": "education",
+  "geo": {
+    "city": "Leiden",
+    "geonames_city_id": "2751773",
+    "region": "South Holland",
+    "country_code": "NL",
+    "country": "The Netherlands",
+    "latitude": 52.15833,
+    "longitude": 4.49306
+  }
+}

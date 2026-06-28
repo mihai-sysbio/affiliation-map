@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I69737025",
+  "ror": "https://ror.org/047gc3g35",
+  "display_name": "University of Chile",
+  "country_code": "CL",
+  "type": "education",
+  "geo": {
+    "city": "Santiago",
+    "geonames_city_id": "3871336",
+    "region": "Santiago Metropolitan",
+    "country_code": "CL",
+    "country": "Chile",
+    "latitude": -33.45694,
+    "longitude": -70.64827
+  }
+}

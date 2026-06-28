@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I899635006",
+  "ror": "https://ror.org/02rx3b187",
+  "display_name": "Université Grenoble Alpes",
+  "country_code": "FR",
+  "type": "education",
+  "geo": {
+    "city": "Saint-Martin-d'Hères",
+    "geonames_city_id": "2978317",
+    "region": "Rhône-Alpes",
+    "country_code": "FR",
+    "country": "France",
+    "latitude": 45.1787,
+    "longitude": 5.76281
+  }
+}

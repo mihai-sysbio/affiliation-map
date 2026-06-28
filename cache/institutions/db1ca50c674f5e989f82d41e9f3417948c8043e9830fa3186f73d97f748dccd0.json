@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I193662353",
+  "ror": "https://ror.org/04pp8hn57",
+  "display_name": "Utrecht University",
+  "country_code": "NL",
+  "type": "education",
+  "geo": {
+    "city": "Utrecht",
+    "geonames_city_id": "2745912",
+    "region": "Utrecht",
+    "country_code": "NL",
+    "country": "The Netherlands",
+    "latitude": 52.09083,
+    "longitude": 5.12222
+  }
+}

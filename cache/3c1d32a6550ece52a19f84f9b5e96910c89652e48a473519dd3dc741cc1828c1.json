@@ -1,0 +1,1312 @@
+{
+  "id": "https://openalex.org/W7124894512",
+  "doi": "https://doi.org/10.1016/j.tibtech.2025.12.006",
+  "title": "Systematic engineering of Micromonospora echinospora cell factory for gentamicin C1a overproduction",
+  "display_name": "Systematic engineering of Micromonospora echinospora cell factory for gentamicin C1a overproduction",
+  "publication_year": 2026,
+  "publication_date": "2026-01-19",
+  "ids": {
+    "openalex": "https://openalex.org/W7124894512",
+    "doi": "https://doi.org/10.1016/j.tibtech.2025.12.006",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/41558881"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.tibtech.2025.12.006",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.tibtech.2025.12.006",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S147849156",
+      "display_name": "Trends in biotechnology",
+      "issn_l": "0167-7799",
+      "issn": [
+        "0167-7799",
+        "0167-9430",
+        "1879-3096"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Trends in Biotechnology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5018896568",
+        "display_name": "Feng Xu",
+        "orcid": "https://orcid.org/0000-0002-9168-561X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Feng Xu",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China; Shanghai Collaborative Innovation Center for Biomanufacturing Technology, East China University of Science and Technology, Shanghai 200237, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China; Shanghai Collaborative Innovation Center for Biomanufacturing Technology, East China University of Science and Technology, Shanghai 200237, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5102118124",
+        "display_name": "Hao Gao",
+        "orcid": "https://orcid.org/0000-0002-6139-925X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hao Gao",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5114667507",
+        "display_name": "Rong Ben",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rong Ben",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5045421733",
+        "display_name": "K.P. Hu",
+        "orcid": "https://orcid.org/0009-0004-8329-2690"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kaihao Hu",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123396079",
+        "display_name": "Yuan Wang",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yuan Wang",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100588269",
+        "display_name": "Ali Mohsin",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ali Mohsin",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Yuanxin Guo",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yuanxin Guo",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123445197",
+        "display_name": "Xu Li",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Xu Li",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5093467126",
+        "display_name": "HaiFeng Hang",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Haifeng Hang",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China; Shanghai Collaborative Innovation Center for Biomanufacturing Technology, East China University of Science and Technology, Shanghai 200237, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China; Shanghai Collaborative Innovation Center for Biomanufacturing Technology, East China University of Science and Technology, Shanghai 200237, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123395070",
+        "display_name": "Ju Chu",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Ju Chu",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China; Shanghai Collaborative Innovation Center for Biomanufacturing Technology, East China University of Science and Technology, Shanghai 200237, China. Electronic address: juchu@ecust.edu.cn"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China; Shanghai Collaborative Innovation Center for Biomanufacturing Technology, East China University of Science and Technology, Shanghai 200237, China. Electronic address: juchu@ecust.edu.cn",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5123448396",
+        "display_name": "Xiwei Tian",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Xiwei Tian",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China; Shanghai Collaborative Innovation Center for Biomanufacturing Technology, East China University of Science and Technology, Shanghai 200237, China. Electronic address: xiweitian@ecust.edu.cn"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China; Shanghai Collaborative Innovation Center for Biomanufacturing Technology, East China University of Science and Technology, Shanghai 200237, China. Electronic address: xiweitian@ecust.edu.cn",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 11,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5123395070",
+    "https://openalex.org/A5123448396"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I143593769"
+  ],
+  "apc_list": {
+    "value": 6830,
+    "currency": "USD",
+    "value_usd": 6830
+  },
+  "apc_paid": null,
+  "fwci": 13.772,
+  "has_fulltext": false,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.97813692,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "44",
+    "issue": "5",
+    "first_page": "1397",
+    "last_page": "1424"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10932",
+    "display_name": "Microbial Metabolic Engineering and Bioproduction",
+    "score": 0.8187999725341797,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10932",
+      "display_name": "Microbial Metabolic Engineering and Bioproduction",
+      "score": 0.8187999725341797,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10404",
+      "display_name": "Enzyme Catalysis and Immobilization",
+      "score": 0.07490000128746033,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10252",
+      "display_name": "Microbial Natural Products and Biosynthesis",
+      "score": 0.019600000232458115,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2736",
+        "display_name": "Pharmacology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/aminoglycoside",
+      "display_name": "Aminoglycoside",
+      "score": 0.7560999989509583
+    },
+    {
+      "id": "https://openalex.org/keywords/gentamicin",
+      "display_name": "Gentamicin",
+      "score": 0.7548999786376953
+    },
+    {
+      "id": "https://openalex.org/keywords/overproduction",
+      "display_name": "Overproduction",
+      "score": 0.6396999955177307
+    },
+    {
+      "id": "https://openalex.org/keywords/antibiotics",
+      "display_name": "Antibiotics",
+      "score": 0.4465000033378601
+    },
+    {
+      "id": "https://openalex.org/keywords/sisomicin",
+      "display_name": "Sisomicin",
+      "score": 0.43709999322891235
+    },
+    {
+      "id": "https://openalex.org/keywords/biomanufacturing",
+      "display_name": "Biomanufacturing",
+      "score": 0.41530001163482666
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolic-engineering",
+      "display_name": "Metabolic engineering",
+      "score": 0.3905999958515167
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2777787772",
+      "wikidata": "https://www.wikidata.org/wiki/Q45355603",
+      "display_name": "Aminoglycoside",
+      "level": 3,
+      "score": 0.7560999989509583
+    },
+    {
+      "id": "https://openalex.org/C2775832221",
+      "wikidata": "https://www.wikidata.org/wiki/Q422482",
+      "display_name": "Gentamicin",
+      "level": 3,
+      "score": 0.7548999786376953
+    },
+    {
+      "id": "https://openalex.org/C124420848",
+      "wikidata": "https://www.wikidata.org/wiki/Q333076",
+      "display_name": "Overproduction",
+      "level": 3,
+      "score": 0.6396999955177307
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.6190000176429749
+    },
+    {
+      "id": "https://openalex.org/C501593827",
+      "wikidata": "https://www.wikidata.org/wiki/Q12187",
+      "display_name": "Antibiotics",
+      "level": 2,
+      "score": 0.4465000033378601
+    },
+    {
+      "id": "https://openalex.org/C2780346086",
+      "wikidata": "https://www.wikidata.org/wiki/Q3962119",
+      "display_name": "Sisomicin",
+      "level": 5,
+      "score": 0.43709999322891235
+    },
+    {
+      "id": "https://openalex.org/C2775893736",
+      "wikidata": "https://www.wikidata.org/wiki/Q25324110",
+      "display_name": "Biomanufacturing",
+      "level": 2,
+      "score": 0.41530001163482666
+    },
+    {
+      "id": "https://openalex.org/C6350086",
+      "wikidata": "https://www.wikidata.org/wiki/Q6822347",
+      "display_name": "Metabolic engineering",
+      "level": 3,
+      "score": 0.3905999958515167
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.3467999994754791
+    },
+    {
+      "id": "https://openalex.org/C32611913",
+      "wikidata": "https://www.wikidata.org/wiki/Q2166189",
+      "display_name": "Titer",
+      "level": 3,
+      "score": 0.31310001015663147
+    },
+    {
+      "id": "https://openalex.org/C2779841869",
+      "wikidata": "https://www.wikidata.org/wiki/Q423098",
+      "display_name": "Neomycin",
+      "level": 3,
+      "score": 0.30820000171661377
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.3061999976634979
+    },
+    {
+      "id": "https://openalex.org/C89423630",
+      "wikidata": "https://www.wikidata.org/wiki/Q7193",
+      "display_name": "Microbiology",
+      "level": 1,
+      "score": 0.2921999990940094
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.28209999203681946
+    },
+    {
+      "id": "https://openalex.org/C192989942",
+      "wikidata": "https://www.wikidata.org/wiki/Q68685",
+      "display_name": "Metabolic pathway",
+      "level": 3,
+      "score": 0.2718999981880188
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.2685999870300293
+    },
+    {
+      "id": "https://openalex.org/C57409179",
+      "wikidata": "https://www.wikidata.org/wiki/Q1218293",
+      "display_name": "Lysis",
+      "level": 2,
+      "score": 0.26489999890327454
+    },
+    {
+      "id": "https://openalex.org/C53105671",
+      "wikidata": "https://www.wikidata.org/wiki/Q14777816",
+      "display_name": "Rational design",
+      "level": 2,
+      "score": 0.26350000500679016
+    },
+    {
+      "id": "https://openalex.org/C63645605",
+      "wikidata": "https://www.wikidata.org/wiki/Q103191",
+      "display_name": "Homeostasis",
+      "level": 2,
+      "score": 0.262800008058548
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000900",
+      "descriptor_name": "Anti-Bacterial Agents",
+      "qualifier_ui": "Q000096",
+      "qualifier_name": "biosynthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000900",
+      "descriptor_name": "Anti-Bacterial Agents",
+      "qualifier_ui": "Q000096",
+      "qualifier_name": "biosynthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000900",
+      "descriptor_name": "Anti-Bacterial Agents",
+      "qualifier_ui": "Q000096",
+      "qualifier_name": "biosynthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000900",
+      "descriptor_name": "Anti-Bacterial Agents",
+      "qualifier_ui": "Q000096",
+      "qualifier_name": "biosynthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000900",
+      "descriptor_name": "Anti-Bacterial Agents",
+      "qualifier_ui": "Q000096",
+      "qualifier_name": "biosynthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000900",
+      "descriptor_name": "Anti-Bacterial Agents",
+      "qualifier_ui": "Q000096",
+      "qualifier_name": "biosynthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000900",
+      "descriptor_name": "Anti-Bacterial Agents",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000900",
+      "descriptor_name": "Anti-Bacterial Agents",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000900",
+      "descriptor_name": "Anti-Bacterial Agents",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000900",
+      "descriptor_name": "Anti-Bacterial Agents",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000900",
+      "descriptor_name": "Anti-Bacterial Agents",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000900",
+      "descriptor_name": "Anti-Bacterial Agents",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005839",
+      "descriptor_name": "Gentamicins",
+      "qualifier_ui": "Q000096",
+      "qualifier_name": "biosynthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005839",
+      "descriptor_name": "Gentamicins",
+      "qualifier_ui": "Q000096",
+      "qualifier_name": "biosynthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005839",
+      "descriptor_name": "Gentamicins",
+      "qualifier_ui": "Q000096",
+      "qualifier_name": "biosynthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005839",
+      "descriptor_name": "Gentamicins",
+      "qualifier_ui": "Q000096",
+      "qualifier_name": "biosynthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005839",
+      "descriptor_name": "Gentamicins",
+      "qualifier_ui": "Q000096",
+      "qualifier_name": "biosynthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005839",
+      "descriptor_name": "Gentamicins",
+      "qualifier_ui": "Q000096",
+      "qualifier_name": "biosynthesis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005839",
+      "descriptor_name": "Gentamicins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005839",
+      "descriptor_name": "Gentamicins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005839",
+      "descriptor_name": "Gentamicins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005839",
+      "descriptor_name": "Gentamicins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005839",
+      "descriptor_name": "Gentamicins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005839",
+      "descriptor_name": "Gentamicins",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008847",
+      "descriptor_name": "Micromonospora",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008847",
+      "descriptor_name": "Micromonospora",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008847",
+      "descriptor_name": "Micromonospora",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008847",
+      "descriptor_name": "Micromonospora",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008847",
+      "descriptor_name": "Micromonospora",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008847",
+      "descriptor_name": "Micromonospora",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008847",
+      "descriptor_name": "Micromonospora",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008847",
+      "descriptor_name": "Micromonospora",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008847",
+      "descriptor_name": "Micromonospora",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008847",
+      "descriptor_name": "Micromonospora",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008847",
+      "descriptor_name": "Micromonospora",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008847",
+      "descriptor_name": "Micromonospora",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D019149",
+      "descriptor_name": "Bioreactors",
+      "qualifier_ui": "Q000382",
+      "qualifier_name": "microbiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019149",
+      "descriptor_name": "Bioreactors",
+      "qualifier_ui": "Q000382",
+      "qualifier_name": "microbiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019149",
+      "descriptor_name": "Bioreactors",
+      "qualifier_ui": "Q000382",
+      "qualifier_name": "microbiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019149",
+      "descriptor_name": "Bioreactors",
+      "qualifier_ui": "Q000382",
+      "qualifier_name": "microbiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019149",
+      "descriptor_name": "Bioreactors",
+      "qualifier_ui": "Q000382",
+      "qualifier_name": "microbiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019149",
+      "descriptor_name": "Bioreactors",
+      "qualifier_ui": "Q000382",
+      "qualifier_name": "microbiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D060847",
+      "descriptor_name": "Metabolic Engineering",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D060847",
+      "descriptor_name": "Metabolic Engineering",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D060847",
+      "descriptor_name": "Metabolic Engineering",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D060847",
+      "descriptor_name": "Metabolic Engineering",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D060847",
+      "descriptor_name": "Metabolic Engineering",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D060847",
+      "descriptor_name": "Metabolic Engineering",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D064688",
+      "descriptor_name": "Metabolic Flux Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D064688",
+      "descriptor_name": "Metabolic Flux Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D064688",
+      "descriptor_name": "Metabolic Flux Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.tibtech.2025.12.006",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.tibtech.2025.12.006",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S147849156",
+        "display_name": "Trends in biotechnology",
+        "issn_l": "0167-7799",
+        "issn": [
+          "0167-7799",
+          "0167-9430",
+          "1879-3096"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Trends in Biotechnology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:41558881",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41558881",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Trends in biotechnology",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G4612111823",
+      "display_name": null,
+      "funder_award_id": "2024YFA0917900",
+      "funder_id": "https://openalex.org/F4320335777",
+      "funder_display_name": "National Key Research and Development Program of China"
+    },
+    {
+      "id": "https://openalex.org/G7423607764",
+      "display_name": null,
+      "funder_award_id": "23ZR1416500",
+      "funder_id": "https://openalex.org/F4320309612",
+      "funder_display_name": "Natural Science Foundation of Shanghai"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320309612",
+      "display_name": "Natural Science Foundation of Shanghai",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320316335",
+      "display_name": "Shanghai Key Basic Research Program",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320326185",
+      "display_name": "Taishan Scholar Foundation of Shandong Province",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320335777",
+      "display_name": "National Key Research and Development Program of China",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 80,
+  "referenced_works": [
+    "https://openalex.org/W1995995599",
+    "https://openalex.org/W1998884272",
+    "https://openalex.org/W2002930772",
+    "https://openalex.org/W2010930876",
+    "https://openalex.org/W2012583526",
+    "https://openalex.org/W2014323212",
+    "https://openalex.org/W2018003897",
+    "https://openalex.org/W2042331838",
+    "https://openalex.org/W2044225087",
+    "https://openalex.org/W2045232719",
+    "https://openalex.org/W2045843097",
+    "https://openalex.org/W2048073138",
+    "https://openalex.org/W2068092274",
+    "https://openalex.org/W2085993965",
+    "https://openalex.org/W2092493462",
+    "https://openalex.org/W2096093282",
+    "https://openalex.org/W2103879007",
+    "https://openalex.org/W2105199251",
+    "https://openalex.org/W2110944555",
+    "https://openalex.org/W2112814753",
+    "https://openalex.org/W2120167281",
+    "https://openalex.org/W2120796786",
+    "https://openalex.org/W2122215636",
+    "https://openalex.org/W2124737787",
+    "https://openalex.org/W2126731835",
+    "https://openalex.org/W2134138595",
+    "https://openalex.org/W2142428670",
+    "https://openalex.org/W2158381555",
+    "https://openalex.org/W2160079005",
+    "https://openalex.org/W2337226704",
+    "https://openalex.org/W2399400073",
+    "https://openalex.org/W2617172021",
+    "https://openalex.org/W2737247080",
+    "https://openalex.org/W2741699205",
+    "https://openalex.org/W2762019694",
+    "https://openalex.org/W2767088268",
+    "https://openalex.org/W2788603913",
+    "https://openalex.org/W2886325974",
+    "https://openalex.org/W2950354111",
+    "https://openalex.org/W2952117162",
+    "https://openalex.org/W2962710893",
+    "https://openalex.org/W2970944338",
+    "https://openalex.org/W2977803792",
+    "https://openalex.org/W2995548791",
+    "https://openalex.org/W3010629926",
+    "https://openalex.org/W3014112968",
+    "https://openalex.org/W3017598650",
+    "https://openalex.org/W3082099888",
+    "https://openalex.org/W3090689814",
+    "https://openalex.org/W3137111959",
+    "https://openalex.org/W3159995035",
+    "https://openalex.org/W3160080007",
+    "https://openalex.org/W3195010157",
+    "https://openalex.org/W3201905261",
+    "https://openalex.org/W3216494066",
+    "https://openalex.org/W4206779094",
+    "https://openalex.org/W4224222327",
+    "https://openalex.org/W4242022834",
+    "https://openalex.org/W4281628012",
+    "https://openalex.org/W4283118910",
+    "https://openalex.org/W4290760550",
+    "https://openalex.org/W4293315041",
+    "https://openalex.org/W4318473713",
+    "https://openalex.org/W4319460260",
+    "https://openalex.org/W4387321563",
+    "https://openalex.org/W4388942037",
+    "https://openalex.org/W4396708201",
+    "https://openalex.org/W4399034186",
+    "https://openalex.org/W4399597185",
+    "https://openalex.org/W4400949579",
+    "https://openalex.org/W4403785337",
+    "https://openalex.org/W4404432111",
+    "https://openalex.org/W4406235042",
+    "https://openalex.org/W4406544962",
+    "https://openalex.org/W4406688266",
+    "https://openalex.org/W4407251831",
+    "https://openalex.org/W4412392442",
+    "https://openalex.org/W4414321018",
+    "https://openalex.org/W4414863774",
+    "https://openalex.org/W4415024881"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-06-18T10:00:31.954636",
+  "created_date": "2026-01-21T00:00:00"
+}

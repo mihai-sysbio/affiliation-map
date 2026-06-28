@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I4210088668",
+  "ror": "https://ror.org/003vg9w96",
+  "display_name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+  "country_code": "FR",
+  "type": "government",
+  "geo": {
+    "city": "Paris",
+    "geonames_city_id": "2988507",
+    "region": "Île-de-France",
+    "country_code": "FR",
+    "country": "France",
+    "latitude": 48.85341,
+    "longitude": 2.3488
+  }
+}

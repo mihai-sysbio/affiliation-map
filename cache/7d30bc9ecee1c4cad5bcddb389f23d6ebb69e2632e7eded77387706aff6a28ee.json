@@ -1,0 +1,2212 @@
+{
+  "id": "https://openalex.org/W3183463549",
+  "doi": "https://doi.org/10.1073/pnas.2102344118",
+  "title": "Genome-scale metabolic network reconstruction of model animals as a platform for translational research",
+  "display_name": "Genome-scale metabolic network reconstruction of model animals as a platform for translational research",
+  "publication_year": 2021,
+  "publication_date": "2021-07-19",
+  "ids": {
+    "openalex": "https://openalex.org/W3183463549",
+    "doi": "https://doi.org/10.1073/pnas.2102344118",
+    "mag": "3183463549",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/34282017"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1073/pnas.2102344118",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1073/pnas.2102344118",
+    "pdf_url": "https://pnas.org/doi/full/10.1073/pnas.2102344118",
+    "source": {
+      "id": "https://openalex.org/S125754415",
+      "display_name": "Proceedings of the National Academy of Sciences",
+      "issn_l": "0027-8424",
+      "issn": [
+        "0027-8424",
+        "1091-6490"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320052",
+      "host_organization_name": "National Academy of Sciences",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320052"
+      ],
+      "host_organization_lineage_names": [
+        "National Academy of Sciences"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings of the National Academy of Sciences",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://pnas.org/doi/full/10.1073/pnas.2102344118",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5100663368",
+        "display_name": "Hao Wang",
+        "orcid": "https://orcid.org/0000-0001-7475-0136"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800139495",
+          "display_name": "Science for Life Laboratory",
+          "ror": "https://ror.org/04ev03g22",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2800139495"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210124641",
+          "display_name": "Wallenberg Wood Science Center",
+          "ror": "https://ror.org/039qvmf95",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I102134673",
+            "https://openalex.org/I4210124641",
+            "https://openalex.org/I66862912",
+            "https://openalex.org/I86987016"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I881427289",
+          "display_name": "University of Gothenburg",
+          "ror": "https://ror.org/01tm6cn81",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I881427289"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hao Wang",
+      "raw_affiliation_strings": [
+        "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+        "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+        "Wallenberg Center for Molecular and Translational Medicine, University of Gothenburg, 405 30 Gothenburg, Sweden;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7475-0136",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I2800139495",
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Wallenberg Center for Molecular and Translational Medicine, University of Gothenburg, 405 30 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I4210124641",
+            "https://openalex.org/I881427289"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5090227920",
+        "display_name": "Jonathan L. Robinson",
+        "orcid": "https://orcid.org/0000-0001-8567-5960"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800139495",
+          "display_name": "Science for Life Laboratory",
+          "ror": "https://ror.org/04ev03g22",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2800139495"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jonathan L. Robinson",
+      "raw_affiliation_strings": [
+        "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+        "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8567-5960",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I2800139495",
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006192970",
+        "display_name": "Pınar Kocabaş",
+        "orcid": "https://orcid.org/0000-0001-9788-2019"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pinar Kocabas",
+      "raw_affiliation_strings": [
+        "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-9788-2019",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080173528",
+        "display_name": "Johan Gustafsson",
+        "orcid": "https://orcid.org/0000-0001-5072-2659"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Johan Gustafsson",
+      "raw_affiliation_strings": [
+        "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5072-2659",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5038426035",
+        "display_name": "Mihail Anton",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800139495",
+          "display_name": "Science for Life Laboratory",
+          "ror": "https://ror.org/04ev03g22",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2800139495"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mihail Anton",
+      "raw_affiliation_strings": [
+        "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7753-9042",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I2800139495",
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003839767",
+        "display_name": "Pierre‐Etienne Cholley",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800139495",
+          "display_name": "Science for Life Laboratory",
+          "ror": "https://ror.org/04ev03g22",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2800139495"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pierre-Etienne Cholley",
+      "raw_affiliation_strings": [
+        "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I2800139495",
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5075436060",
+        "display_name": "Shan Huang",
+        "orcid": "https://orcid.org/0000-0002-7375-5215"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800139495",
+          "display_name": "Science for Life Laboratory",
+          "ror": "https://ror.org/04ev03g22",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2800139495"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shan Huang",
+      "raw_affiliation_strings": [
+        "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I2800139495",
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005557542",
+        "display_name": "Johan Gobom",
+        "orcid": "https://orcid.org/0000-0001-6193-6193"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I881427289",
+          "display_name": "University of Gothenburg",
+          "ror": "https://ror.org/01tm6cn81",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I881427289"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Johan Gobom",
+      "raw_affiliation_strings": [
+        "Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, Sahlgrenska Academy at University of Gothenburg, 431 30 Mölndal, Sweden;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, Sahlgrenska Academy at University of Gothenburg, 431 30 Mölndal, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I881427289"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5050285122",
+        "display_name": "Thomas Svensson",
+        "orcid": "https://orcid.org/0000-0002-9190-2979"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800139495",
+          "display_name": "Science for Life Laboratory",
+          "ror": "https://ror.org/04ev03g22",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2800139495"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Thomas Svensson",
+      "raw_affiliation_strings": [
+        "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9190-2979",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I2800139495",
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5060241561",
+        "display_name": "Mathias Uhlén",
+        "orcid": "https://orcid.org/0000-0002-4858-8056"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800139495",
+          "display_name": "Science for Life Laboratory",
+          "ror": "https://ror.org/04ev03g22",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2800139495"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2801134892",
+          "display_name": "Novo Nordisk Foundation",
+          "ror": "https://ror.org/04txyc737",
+          "country_code": "DK",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801134892"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210124641",
+          "display_name": "Wallenberg Wood Science Center",
+          "ror": "https://ror.org/039qvmf95",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I102134673",
+            "https://openalex.org/I4210124641",
+            "https://openalex.org/I66862912",
+            "https://openalex.org/I86987016"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I86987016",
+          "display_name": "KTH Royal Institute of Technology",
+          "ror": "https://ror.org/026vcq606",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I86987016"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I96673099",
+          "display_name": "Technical University of Denmark",
+          "ror": "https://ror.org/04qtj9h94",
+          "country_code": "DK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ],
+      "countries": [
+        "DK",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mattias Uhlen",
+      "raw_affiliation_strings": [
+        "Department of Protein Science, Science for Life Laboratory, KTH–Royal Institute of Technology, SE-100 44 Stockholm, Sweden;",
+        "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark;",
+        "Wallenberg Center for Protein Research, KTH–Royal Institute of Technology, SE-100 44 Stockholm, Sweden;"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Protein Science, Science for Life Laboratory, KTH–Royal Institute of Technology, SE-100 44 Stockholm, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I2800139495",
+            "https://openalex.org/I86987016"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark;",
+          "institution_ids": [
+            "https://openalex.org/I2801134892",
+            "https://openalex.org/I96673099"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Wallenberg Center for Protein Research, KTH–Royal Institute of Technology, SE-100 44 Stockholm, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I4210124641",
+            "https://openalex.org/I86987016"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079766290",
+        "display_name": "Henrik Zetterberg",
+        "orcid": "https://orcid.org/0000-0003-3930-4354"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801112325",
+          "display_name": "Sahlgrenska University Hospital",
+          "ror": "https://ror.org/04vgqjj36",
+          "country_code": "SE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801112325"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210126463",
+          "display_name": "UK Dementia Research Institute",
+          "ror": "https://ror.org/02wedp412",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210126463"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210151618",
+          "display_name": "National Hospital for Neurology and Neurosurgery",
+          "ror": "https://ror.org/048b34d51",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1340918713",
+            "https://openalex.org/I4210151618"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I45129253",
+          "display_name": "University College London",
+          "ror": "https://ror.org/02jx3x895",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I124357947",
+            "https://openalex.org/I45129253"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I881427289",
+          "display_name": "University of Gothenburg",
+          "ror": "https://ror.org/01tm6cn81",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I881427289"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Henrik Zetterberg",
+      "raw_affiliation_strings": [
+        "Clinical Neurochemistry Laboratory, Sahlgrenska University Hospital, 431 30 Mölndal, Sweden;",
+        "Department of Neurodegenerative Disease, University College London Queen Square Institute of Neurology, London WC1E 6BT, United Kingdom;",
+        "Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, Sahlgrenska Academy at University of Gothenburg, 431 30 Mölndal, Sweden;",
+        "UK Dementia Research Institute, University College London, London WC1E 6BT, United Kingdom;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3930-4354",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Clinical Neurochemistry Laboratory, Sahlgrenska University Hospital, 431 30 Mölndal, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I2801112325"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Neurodegenerative Disease, University College London Queen Square Institute of Neurology, London WC1E 6BT, United Kingdom;",
+          "institution_ids": [
+            "https://openalex.org/I45129253",
+            "https://openalex.org/I4210151618"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, Sahlgrenska Academy at University of Gothenburg, 431 30 Mölndal, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I881427289"
+          ]
+        },
+        {
+          "raw_affiliation_string": "UK Dementia Research Institute, University College London, London WC1E 6BT, United Kingdom;",
+          "institution_ids": [
+            "https://openalex.org/I4210126463",
+            "https://openalex.org/I45129253"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5083238115",
+        "display_name": "Jens Nielsen",
+        "orcid": "https://orcid.org/0000-0002-9955-6003"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801134892",
+          "display_name": "Novo Nordisk Foundation",
+          "ror": "https://ror.org/04txyc737",
+          "country_code": "DK",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801134892"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210146628",
+          "display_name": "BioInnovation Institute",
+          "ror": "https://ror.org/048b3qc73",
+          "country_code": "DK",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210146628"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I96673099",
+          "display_name": "Technical University of Denmark",
+          "ror": "https://ror.org/04qtj9h94",
+          "country_code": "DK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ],
+      "countries": [
+        "DK",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jens Nielsen",
+      "raw_affiliation_strings": [
+        "BioInnovation Institute, DK2200 Copenhagen, Denmark",
+        "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+        "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark;"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9955-6003",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "BioInnovation Institute, DK2200 Copenhagen, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I4210146628"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden;",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark;",
+          "institution_ids": [
+            "https://openalex.org/I2801134892",
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 12,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 6.4335,
+  "has_fulltext": true,
+  "cited_by_count": 121,
+  "citation_normalized_percentile": {
+    "value": 0.97805281,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "118",
+    "issue": "30",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10932",
+    "display_name": "Microbial Metabolic Engineering and Bioproduction",
+    "score": 0.9987999796867371,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10932",
+      "display_name": "Microbial Metabolic Engineering and Bioproduction",
+      "score": 0.9987999796867371,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10836",
+      "display_name": "Metabolomics and Mass Spectrometry Studies",
+      "score": 0.9940999746322632,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10887",
+      "display_name": "Bioinformatics and Genomic Networks",
+      "score": 0.993399977684021,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.680757999420166
+    },
+    {
+      "id": "https://openalex.org/keywords/drosophila-melanogaster",
+      "display_name": "Drosophila melanogaster",
+      "score": 0.6296393871307373
+    },
+    {
+      "id": "https://openalex.org/keywords/caenorhabditis-elegans",
+      "display_name": "Caenorhabditis elegans",
+      "score": 0.6209033727645874
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.617356538772583
+    },
+    {
+      "id": "https://openalex.org/keywords/model-organism",
+      "display_name": "Model organism",
+      "score": 0.6052197217941284
+    },
+    {
+      "id": "https://openalex.org/keywords/proteomics",
+      "display_name": "Proteomics",
+      "score": 0.5201154947280884
+    },
+    {
+      "id": "https://openalex.org/keywords/danio",
+      "display_name": "Danio",
+      "score": 0.47710496187210083
+    },
+    {
+      "id": "https://openalex.org/keywords/systems-biology",
+      "display_name": "Systems biology",
+      "score": 0.44275131821632385
+    },
+    {
+      "id": "https://openalex.org/keywords/genome",
+      "display_name": "Genome",
+      "score": 0.43989938497543335
+    },
+    {
+      "id": "https://openalex.org/keywords/transgene",
+      "display_name": "Transgene",
+      "score": 0.43908700346946716
+    },
+    {
+      "id": "https://openalex.org/keywords/bioinformatics",
+      "display_name": "Bioinformatics",
+      "score": 0.3511947989463806
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.294444739818573
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.22448399662971497
+    },
+    {
+      "id": "https://openalex.org/keywords/zebrafish",
+      "display_name": "Zebrafish",
+      "score": 0.22284278273582458
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.680757999420166
+    },
+    {
+      "id": "https://openalex.org/C2780104201",
+      "wikidata": "https://www.wikidata.org/wiki/Q130888",
+      "display_name": "Drosophila melanogaster",
+      "level": 3,
+      "score": 0.6296393871307373
+    },
+    {
+      "id": "https://openalex.org/C2778944004",
+      "wikidata": "https://www.wikidata.org/wiki/Q91703",
+      "display_name": "Caenorhabditis elegans",
+      "level": 3,
+      "score": 0.6209033727645874
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.617356538772583
+    },
+    {
+      "id": "https://openalex.org/C19843653",
+      "wikidata": "https://www.wikidata.org/wiki/Q213907",
+      "display_name": "Model organism",
+      "level": 3,
+      "score": 0.6052197217941284
+    },
+    {
+      "id": "https://openalex.org/C46111723",
+      "wikidata": "https://www.wikidata.org/wiki/Q471857",
+      "display_name": "Proteomics",
+      "level": 3,
+      "score": 0.5201154947280884
+    },
+    {
+      "id": "https://openalex.org/C2780384893",
+      "wikidata": "https://www.wikidata.org/wiki/Q901804",
+      "display_name": "Danio",
+      "level": 4,
+      "score": 0.47710496187210083
+    },
+    {
+      "id": "https://openalex.org/C152662350",
+      "wikidata": "https://www.wikidata.org/wiki/Q815297",
+      "display_name": "Systems biology",
+      "level": 2,
+      "score": 0.44275131821632385
+    },
+    {
+      "id": "https://openalex.org/C141231307",
+      "wikidata": "https://www.wikidata.org/wiki/Q7020",
+      "display_name": "Genome",
+      "level": 3,
+      "score": 0.43989938497543335
+    },
+    {
+      "id": "https://openalex.org/C102230213",
+      "wikidata": "https://www.wikidata.org/wiki/Q430117",
+      "display_name": "Transgene",
+      "level": 3,
+      "score": 0.43908700346946716
+    },
+    {
+      "id": "https://openalex.org/C60644358",
+      "wikidata": "https://www.wikidata.org/wiki/Q128570",
+      "display_name": "Bioinformatics",
+      "level": 1,
+      "score": 0.3511947989463806
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.294444739818573
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.22448399662971497
+    },
+    {
+      "id": "https://openalex.org/C2776878037",
+      "wikidata": "https://www.wikidata.org/wiki/Q169444",
+      "display_name": "Zebrafish",
+      "level": 3,
+      "score": 0.22284278273582458
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000544",
+      "descriptor_name": "Alzheimer Disease",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000544",
+      "descriptor_name": "Alzheimer Disease",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000544",
+      "descriptor_name": "Alzheimer Disease",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000544",
+      "descriptor_name": "Alzheimer Disease",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000544",
+      "descriptor_name": "Alzheimer Disease",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000544",
+      "descriptor_name": "Alzheimer Disease",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000544",
+      "descriptor_name": "Alzheimer Disease",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000544",
+      "descriptor_name": "Alzheimer Disease",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000544",
+      "descriptor_name": "Alzheimer Disease",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004195",
+      "descriptor_name": "Disease Models, Animal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004195",
+      "descriptor_name": "Disease Models, Animal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004195",
+      "descriptor_name": "Disease Models, Animal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004331",
+      "descriptor_name": "Drosophila melanogaster",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004331",
+      "descriptor_name": "Drosophila melanogaster",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004331",
+      "descriptor_name": "Drosophila melanogaster",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008822",
+      "descriptor_name": "Mice, Transgenic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008822",
+      "descriptor_name": "Mice, Transgenic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008822",
+      "descriptor_name": "Mice, Transgenic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015027",
+      "descriptor_name": "Zebrafish",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015027",
+      "descriptor_name": "Zebrafish",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015027",
+      "descriptor_name": "Zebrafish",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015415",
+      "descriptor_name": "Biomarkers",
+      "qualifier_ui": "Q000032",
+      "qualifier_name": "analysis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015415",
+      "descriptor_name": "Biomarkers",
+      "qualifier_ui": "Q000032",
+      "qualifier_name": "analysis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015415",
+      "descriptor_name": "Biomarkers",
+      "qualifier_ui": "Q000032",
+      "qualifier_name": "analysis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016678",
+      "descriptor_name": "Genome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016678",
+      "descriptor_name": "Genome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016678",
+      "descriptor_name": "Genome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017173",
+      "descriptor_name": "Caenorhabditis elegans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017173",
+      "descriptor_name": "Caenorhabditis elegans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017173",
+      "descriptor_name": "Caenorhabditis elegans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D020543",
+      "descriptor_name": "Proteome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051381",
+      "descriptor_name": "Rats",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051381",
+      "descriptor_name": "Rats",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051381",
+      "descriptor_name": "Rats",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053263",
+      "descriptor_name": "Gene Regulatory Networks",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D053263",
+      "descriptor_name": "Gene Regulatory Networks",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D053263",
+      "descriptor_name": "Gene Regulatory Networks",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059467",
+      "descriptor_name": "Transcriptome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059467",
+      "descriptor_name": "Transcriptome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059467",
+      "descriptor_name": "Transcriptome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 6,
+  "locations": [
+    {
+      "id": "doi:10.1073/pnas.2102344118",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1073/pnas.2102344118",
+      "pdf_url": "https://pnas.org/doi/full/10.1073/pnas.2102344118",
+      "source": {
+        "id": "https://openalex.org/S125754415",
+        "display_name": "Proceedings of the National Academy of Sciences",
+        "issn_l": "0027-8424",
+        "issn": [
+          "0027-8424",
+          "1091-6490"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320052",
+        "host_organization_name": "National Academy of Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320052"
+        ],
+        "host_organization_lineage_names": [
+          "National Academy of Sciences"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Proceedings of the National Academy of Sciences",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:34282017",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/34282017",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Proceedings of the National Academy of Sciences of the United States of America",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:research.chalmers.se:525212",
+      "is_oa": true,
+      "landing_page_url": "http://doi.org/10.1073/pnas.2102344118",
+      "pdf_url": "https://research.chalmers.se/en/publication/525212",
+      "source": {
+        "id": "https://openalex.org/S4306402469",
+        "display_name": "Chalmers Research (Chalmers University of Technology)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I66862912",
+        "host_organization_name": "Chalmers University of Technology",
+        "host_organization_lineage": [
+          "https://openalex.org/I66862912"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": ""
+    },
+    {
+      "id": "pmh:oai:eprints.ucl.ac.uk.OAI2:10131896",
+      "is_oa": false,
+      "landing_page_url": "https://discovery.ucl.ac.uk/id/eprint/10131896/",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400024",
+        "display_name": "UCL Discovery (University College London)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I45129253",
+        "host_organization_name": "University College London",
+        "host_organization_lineage": [
+          "https://openalex.org/I45129253"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "   Proceedings of the National Academy of Sciences , 118  (30)    , Article e2102344118. (2021)      ",
+      "raw_type": "Article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:8325244",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8325244",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Proc Natl Acad Sci U S A",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:pure.atira.dk:publications/534c2a92-5e5e-41e7-9d52-ba7c208fe4ae",
+      "is_oa": true,
+      "landing_page_url": "https://orbit.dtu.dk/en/publications/534c2a92-5e5e-41e7-9d52-ba7c208fe4ae",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400705",
+        "display_name": "Technical University of Denmark, DTU Orbit (Technical University of Denmark, DTU)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I96673099",
+        "host_organization_name": "Technical University of Denmark",
+        "host_organization_lineage": [
+          "https://openalex.org/I96673099"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Wang , H , Robinson , J L , Kocabas , P , Gustafsson , J , Anton , M , Cholley , P-E , Huang , S , Gobom , J , Svensson , T , Uhlen , M , Zetterberg , H &amp; Nielsen , J 2021 , ' Genome-scale metabolic network reconstruction of model animals as a platform for translational research ' , Proceedings of the National Academy of Sciences of the United States of America , vol. 118 , no. 30 , e2102344118 . https://doi.org/10.1073/pnas.2102344118",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1073/pnas.2102344118",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1073/pnas.2102344118",
+    "pdf_url": "https://pnas.org/doi/full/10.1073/pnas.2102344118",
+    "source": {
+      "id": "https://openalex.org/S125754415",
+      "display_name": "Proceedings of the National Academy of Sciences",
+      "issn_l": "0027-8424",
+      "issn": [
+        "0027-8424",
+        "1091-6490"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320052",
+      "host_organization_name": "National Academy of Sciences",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320052"
+      ],
+      "host_organization_lineage_names": [
+        "National Academy of Sciences"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings of the National Academy of Sciences",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1442296065",
+      "display_name": null,
+      "funder_award_id": "681712",
+      "funder_id": "https://openalex.org/F4320322327",
+      "funder_display_name": "Knut och Alice Wallenbergs Stiftelse"
+    },
+    {
+      "id": "https://openalex.org/G5111822078",
+      "display_name": null,
+      "funder_award_id": "681712",
+      "funder_id": "https://openalex.org/F4320322581",
+      "funder_display_name": "Vetenskapsrådet"
+    },
+    {
+      "id": "https://openalex.org/G625226978",
+      "display_name": null,
+      "funder_award_id": "NNF17SA0032514",
+      "funder_id": "https://openalex.org/F4320325957",
+      "funder_display_name": "Novo Nordisk Fonden"
+    },
+    {
+      "id": "https://openalex.org/G712881263",
+      "display_name": null,
+      "funder_award_id": "2018-",
+      "funder_id": "https://openalex.org/F4320322581",
+      "funder_display_name": "Vetenskapsrådet"
+    },
+    {
+      "id": "https://openalex.org/G8653344385",
+      "display_name": null,
+      "funder_award_id": "2018-02532",
+      "funder_id": "https://openalex.org/F4320322581",
+      "funder_display_name": "Vetenskapsrådet"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320286",
+      "display_name": "University College London",
+      "ror": "https://ror.org/02jx3x895"
+    },
+    {
+      "id": "https://openalex.org/F4320322327",
+      "display_name": "Knut och Alice Wallenbergs Stiftelse",
+      "ror": "https://ror.org/004hzzk67"
+    },
+    {
+      "id": "https://openalex.org/F4320322581",
+      "display_name": "Vetenskapsrådet",
+      "ror": "https://ror.org/03zttf063"
+    },
+    {
+      "id": "https://openalex.org/F4320325957",
+      "display_name": "Novo Nordisk Fonden",
+      "ror": "https://ror.org/04txyc737"
+    },
+    {
+      "id": "https://openalex.org/F4320329730",
+      "display_name": "UK Dementia Research Institute",
+      "ror": "https://ror.org/02wedp412"
+    },
+    {
+      "id": "https://openalex.org/F4320330960",
+      "display_name": "Fondation Chalmers",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W3183463549.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W3183463549.grobid-xml"
+  },
+  "referenced_works_count": 57,
+  "referenced_works": [
+    "https://openalex.org/W1511926043",
+    "https://openalex.org/W1771394546",
+    "https://openalex.org/W1792338879",
+    "https://openalex.org/W1811802061",
+    "https://openalex.org/W1907174433",
+    "https://openalex.org/W1952732684",
+    "https://openalex.org/W1974250737",
+    "https://openalex.org/W1995363983",
+    "https://openalex.org/W2020560250",
+    "https://openalex.org/W2062581381",
+    "https://openalex.org/W2064561614",
+    "https://openalex.org/W2099291727",
+    "https://openalex.org/W2103581484",
+    "https://openalex.org/W2109553965",
+    "https://openalex.org/W2120012725",
+    "https://openalex.org/W2124490243",
+    "https://openalex.org/W2124653577",
+    "https://openalex.org/W2128613449",
+    "https://openalex.org/W2142500268",
+    "https://openalex.org/W2144589197",
+    "https://openalex.org/W2155344647",
+    "https://openalex.org/W2215915497",
+    "https://openalex.org/W2327547544",
+    "https://openalex.org/W2398956125",
+    "https://openalex.org/W2407468727",
+    "https://openalex.org/W2543582635",
+    "https://openalex.org/W2548574320",
+    "https://openalex.org/W2559307267",
+    "https://openalex.org/W2562785312",
+    "https://openalex.org/W2586966203",
+    "https://openalex.org/W2594573607",
+    "https://openalex.org/W2594933406",
+    "https://openalex.org/W2670014005",
+    "https://openalex.org/W2743063996",
+    "https://openalex.org/W2782493947",
+    "https://openalex.org/W2790974918",
+    "https://openalex.org/W2795823005",
+    "https://openalex.org/W2891411797",
+    "https://openalex.org/W2900069807",
+    "https://openalex.org/W2900255713",
+    "https://openalex.org/W2903517662",
+    "https://openalex.org/W2951229754",
+    "https://openalex.org/W2952117162",
+    "https://openalex.org/W2965590414",
+    "https://openalex.org/W2973180259",
+    "https://openalex.org/W2976494531",
+    "https://openalex.org/W2981657561",
+    "https://openalex.org/W2991140002",
+    "https://openalex.org/W3009100729",
+    "https://openalex.org/W3010629926",
+    "https://openalex.org/W3013554928",
+    "https://openalex.org/W3015123576",
+    "https://openalex.org/W3015627776",
+    "https://openalex.org/W3091802774",
+    "https://openalex.org/W3105750359",
+    "https://openalex.org/W4210516726",
+    "https://openalex.org/W4211248573"
+  ],
+  "related_works": [
+    "https://openalex.org/W1980411169",
+    "https://openalex.org/W2971505853",
+    "https://openalex.org/W2913028483",
+    "https://openalex.org/W2465065470",
+    "https://openalex.org/W3013644380",
+    "https://openalex.org/W4401686747",
+    "https://openalex.org/W4297906920",
+    "https://openalex.org/W3041017960",
+    "https://openalex.org/W1971840302",
+    "https://openalex.org/W3011964944"
+  ],
+  "abstract_inverted_index": {
+    ").": [
+      0
+    ],
+    "These": [
+      1
+    ],
+    "GEMs": [
+      2,
+      21
+    ],
+    "represent": [
+      3
+    ],
+    "the": [
+      4,
+      9,
+      27,
+      137
+    ],
+    "most": [
+      5
+    ],
+    "comprehensive": [
+      6
+    ],
+    "coverage": [
+      7
+    ],
+    "of": [
+      8,
+      37,
+      45,
+      53,
+      78,
+      118,
+      139
+    ],
+    "metabolic": [
+      10,
+      67,
+      84
+    ],
+    "network": [
+      11
+    ],
+    "by": [
+      12
+    ],
+    "considering": [
+      13
+    ],
+    "both": [
+      14
+    ],
+    "orthology-based": [
+      15
+    ],
+    "pathways": [
+      16,
+      60
+    ],
+    "and": [
+      17,
+      57,
+      95,
+      142
+    ],
+    "species-specific": [
+      18
+    ],
+    "reactions.": [
+      19
+    ],
+    "All": [
+      20
+    ],
+    "can": [
+      22
+    ],
+    "be": [
+      23,
+      64,
+      110
+    ],
+    "interactively": [
+      24
+    ],
+    "queried": [
+      25
+    ],
+    "via": [
+      26
+    ],
+    "accompanying": [
+      28
+    ],
+    "web": [
+      29
+    ],
+    "portal": [
+      30
+    ],
+    "Metabolic": [
+      31
+    ],
+    "Atlas.": [
+      32
+    ],
+    "Specifically,": [
+      33
+    ],
+    "through": [
+      34
+    ],
+    "integrative": [
+      35
+    ],
+    "analysis": [
+      36
+    ],
+    "Mouse1": [
+      38
+    ],
+    "with": [
+      39,
+      75,
+      89
+    ],
+    "RNA-sequencing": [
+      40
+    ],
+    "data": [
+      41,
+      91
+    ],
+    "from": [
+      42,
+      92,
+      99
+    ],
+    "brain": [
+      43
+    ],
+    "tissues": [
+      44
+    ],
+    "transgenic": [
+      46,
+      93
+    ],
+    "mice": [
+      47,
+      94
+    ],
+    "we": [
+      48,
+      122
+    ],
+    "identified": [
+      49
+    ],
+    "a": [
+      50,
+      65,
+      76,
+      113
+    ],
+    "coordinated": [
+      51
+    ],
+    "up-regulation": [
+      52
+    ],
+    "lysosomal": [
+      54,
+      104
+    ],
+    "GM2": [
+      55
+    ],
+    "ganglioside": [
+      56
+    ],
+    "peptide": [
+      58
+    ],
+    "degradation": [
+      59
+    ],
+    "which": [
+      61
+    ],
+    "appears": [
+      62
+    ],
+    "to": [
+      63,
+      109,
+      135
+    ],
+    "signature": [
+      66
+    ],
+    "alteration": [
+      68
+    ],
+    "in": [
+      69
+    ],
+    "Alzheimer's": [
+      70
+    ],
+    "disease": [
+      71
+    ],
+    "(AD)": [
+      72
+    ],
+    "mouse": [
+      73
+    ],
+    "models": [
+      74
+    ],
+    "phenotype": [
+      77
+    ],
+    "amyloid": [
+      79
+    ],
+    "precursor": [
+      80
+    ],
+    "protein": [
+      81
+    ],
+    "overexpression.": [
+      82
+    ],
+    "This": [
+      83
+    ],
+    "shift": [
+      85
+    ],
+    "was": [
+      86
+    ],
+    "further": [
+      87
+    ],
+    "validated": [
+      88
+    ],
+    "proteomics": [
+      90
+    ],
+    "cerebrospinal": [
+      96
+    ],
+    "fluid": [
+      97
+    ],
+    "samples": [
+      98
+    ],
+    "human": [
+      100
+    ],
+    "patients.": [
+      101
+    ],
+    "The": [
+      102
+    ],
+    "elevated": [
+      103
+    ],
+    "enzymes": [
+      105
+    ],
+    "thus": [
+      106
+    ],
+    "hold": [
+      107
+    ],
+    "potential": [
+      108
+    ],
+    "used": [
+      111
+    ],
+    "as": [
+      112,
+      131
+    ],
+    "biomarker": [
+      114
+    ],
+    "for": [
+      115
+    ],
+    "early": [
+      116
+    ],
+    "diagnosis": [
+      117
+    ],
+    "AD.": [
+      119
+    ],
+    "Taken": [
+      120
+    ],
+    "together,": [
+      121
+    ],
+    "foresee": [
+      123
+    ],
+    "that": [
+      124
+    ],
+    "this": [
+      125
+    ],
+    "evolving": [
+      126
+    ],
+    "open-source": [
+      127
+    ],
+    "platform": [
+      128
+    ],
+    "will": [
+      129
+    ],
+    "serve": [
+      130
+    ],
+    "an": [
+      132
+    ],
+    "important": [
+      133
+    ],
+    "resource": [
+      134
+    ],
+    "facilitate": [
+      136
+    ],
+    "development": [
+      138
+    ],
+    "systems": [
+      140
+    ],
+    "medicines": [
+      141
+    ],
+    "translational": [
+      143
+    ],
+    "biomedical": [
+      144
+    ],
+    "applications.": [
+      145
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 32
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 31
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 26
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 20
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-24T13:16:06.693445",
+  "created_date": "2025-10-10T00:00:00"
+}

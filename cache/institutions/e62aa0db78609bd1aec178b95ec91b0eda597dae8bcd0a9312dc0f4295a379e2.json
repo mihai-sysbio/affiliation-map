@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I4665924",
+  "ror": "https://ror.org/03zdwsf69",
+  "display_name": "University of Rostock",
+  "country_code": "DE",
+  "type": "education",
+  "geo": {
+    "city": "Rostock",
+    "geonames_city_id": "2844588",
+    "region": null,
+    "country_code": "DE",
+    "country": "Germany",
+    "latitude": 54.08869934082031,
+    "longitude": 12.14048957824707
+  }
+}

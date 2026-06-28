@@ -1,0 +1,352 @@
+{
+  "id": "https://openalex.org/W4283033585",
+  "doi": "https://doi.org/10.1186/s12934-022-01841-1",
+  "display_name": "Genome-scale metabolic modelling enables deciphering ethanol metabolism via the acrylate pathway in the propionate-producer Anaerotignum neopropionicum",
+  "publication_year": 2022,
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5044274138",
+        "display_name": "Sara Benito-Vaquerizo",
+        "orcid": "https://orcid.org/0000-0003-3936-9676"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sara Benito-Vaquerizo",
+      "raw_affiliation_strings": [
+        "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+        "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5058474028",
+        "display_name": "Ivette Parera Olm",
+        "orcid": "https://orcid.org/0000-0001-9652-8712"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ivette Parera Olm",
+      "raw_affiliation_strings": [
+        "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+        "Laboratory of Microbiology, Wageningen University & Research, Wageningen, The Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Microbiology, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5040621044",
+        "display_name": "Thijs de Vroet",
+        "orcid": "https://orcid.org/0000-0002-3522-3998"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Thijs de Vroet",
+      "raw_affiliation_strings": [
+        "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+        "Laboratory of Microbiology, Wageningen University & Research, Wageningen, The Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Microbiology, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5073898339",
+        "display_name": "Peter J. Schaap",
+        "orcid": "https://orcid.org/0000-0002-4346-6084"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Peter J. Schaap",
+      "raw_affiliation_strings": [
+        "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+        "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5020245701",
+        "display_name": "Diana Z. Sousa",
+        "orcid": "https://orcid.org/0000-0003-3569-1545"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Diana Z. Sousa",
+      "raw_affiliation_strings": [
+        "Centre for Living Technologies, Alliance TU/e, WUR, UU, UMC Utrecht, Vening Meinesz building C, Princetonlaan 6, Utrecht, 3584 CB, The Netherlands",
+        "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+        "Laboratory of Microbiology, Wageningen University & Research, Wageningen, The Netherlands",
+        "Centre for Living Technologies, Utrecht, The Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre for Living Technologies, Alliance TU/e, WUR, UU, UMC Utrecht, Vening Meinesz building C, Princetonlaan 6, Utrecht, 3584 CB, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Microbiology, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Centre for Living Technologies, Utrecht, The Netherlands",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5039324414",
+        "display_name": "Vítor A. P. Martins dos Santos",
+        "orcid": "https://orcid.org/0000-0002-2352-9017"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Vitor A. P. Martins dos Santos",
+      "raw_affiliation_strings": [
+        "Bioprocess Engineering, Wageningen University & Research, Droevendaalsesteeg 1, 6708 PB, Wageningen, The Netherlands",
+        "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+        "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands",
+        "Bioprocess Engineering, Wageningen University & Research, Wageningen, The Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Bioprocess Engineering, Wageningen University & Research, Droevendaalsesteeg 1, 6708 PB, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Bioprocess Engineering, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5041170743",
+        "display_name": "María Suárez‐Diez",
+        "orcid": "https://orcid.org/0000-0001-5845-146X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Maria Suarez-Diez",
+      "raw_affiliation_strings": [
+        "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands. maria.suarezdiez@wur.nl",
+        "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Stippeneng 4, Wageningen, 6708WE, The Netherlands. maria.suarezdiez@wur.nl",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I4210146628",
+  "ror": "https://ror.org/048b3qc73",
+  "display_name": "BioInnovation Institute",
+  "country_code": "DK",
+  "type": "nonprofit",
+  "geo": {
+    "city": "Copenhagen",
+    "geonames_city_id": "2618425",
+    "region": null,
+    "country_code": "DK",
+    "country": "Denmark",
+    "latitude": 55.69607925415039,
+    "longitude": 12.566587448120117
+  }
+}

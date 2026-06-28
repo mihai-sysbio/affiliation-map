@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I111112146",
+  "ror": "https://ror.org/0443cwa12",
+  "display_name": "Tallinn University of Technology",
+  "country_code": "EE",
+  "type": "education",
+  "geo": {
+    "city": "Tallinn",
+    "geonames_city_id": "588409",
+    "region": "Harjumaa",
+    "country_code": "EE",
+    "country": "Estonia",
+    "latitude": 59.43696,
+    "longitude": 24.75353
+  }
+}

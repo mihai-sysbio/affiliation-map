@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I20121455",
+  "ror": "https://ror.org/02hpadn98",
+  "display_name": "Bielefeld University",
+  "country_code": "DE",
+  "type": "education",
+  "geo": {
+    "city": "Bielefeld",
+    "geonames_city_id": "2949186",
+    "region": "North Rhine-Westphalia",
+    "country_code": "DE",
+    "country": "Germany",
+    "latitude": 52.03333,
+    "longitude": 8.53333
+  }
+}

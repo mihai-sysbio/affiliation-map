@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I4210114105",
+  "ror": "https://ror.org/02hhwwz98",
+  "display_name": "Tsinghua–Berkeley Shenzhen Institute",
+  "country_code": "CN",
+  "type": "facility",
+  "geo": {
+    "city": "Shenzhen",
+    "geonames_city_id": "1795565",
+    "region": null,
+    "country_code": "CN",
+    "country": "China",
+    "latitude": 22.54553985595703,
+    "longitude": 114.06829833984375
+  }
+}

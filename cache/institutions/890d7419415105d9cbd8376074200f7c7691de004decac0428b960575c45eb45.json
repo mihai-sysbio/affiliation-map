@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I45129253",
+  "ror": "https://ror.org/02jx3x895",
+  "display_name": "University College London",
+  "country_code": "GB",
+  "type": "education",
+  "geo": {
+    "city": "London",
+    "geonames_city_id": "2643743",
+    "region": "England",
+    "country_code": "GB",
+    "country": "United Kingdom",
+    "latitude": 51.50853,
+    "longitude": -0.12574
+  }
+}

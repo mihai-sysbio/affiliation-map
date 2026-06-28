@@ -1,0 +1,1313 @@
+{
+  "id": "https://openalex.org/W4409122260",
+  "doi": "https://doi.org/10.1016/j.csbj.2025.03.049",
+  "title": "Insights into optimization of oleaginous fungi – genome-scale metabolic reconstruction and analysis of <i>Umbelopsis</i> sp. WA50703",
+  "display_name": "Insights into optimization of oleaginous fungi – genome-scale metabolic reconstruction and analysis of <i>Umbelopsis</i> sp. WA50703",
+  "publication_year": 2025,
+  "publication_date": "2025-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4409122260",
+    "doi": "https://doi.org/10.1016/j.csbj.2025.03.049",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/40242294"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.csbj.2025.03.049",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.csbj.2025.03.049",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764539591",
+      "display_name": "Computational and Structural Biotechnology Journal",
+      "issn_l": "2001-0370",
+      "issn": [
+        "2001-0370"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Computational and Structural Biotechnology Journal",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1016/j.csbj.2025.03.049",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5021830272",
+        "display_name": "Mikołaj Dziurzyński",
+        "orcid": "https://orcid.org/0000-0002-5593-9432"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210099030",
+          "display_name": "LAM Foundation",
+          "ror": "https://ror.org/012xhfk02",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210099030"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I45084792",
+          "display_name": "University of Florence",
+          "ror": "https://ror.org/04jr1s763",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I45084792"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "IT",
+        "PL",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mikołaj Dziurzyński",
+      "raw_affiliation_strings": [
+        "Department of Biology, University of Florence, Via Madonna del Piano 6, Sesto Fiorentino, FI 50019, Italy",
+        "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology, University of Florence, Via Madonna del Piano 6, Sesto Fiorentino, FI 50019, Italy",
+          "institution_ids": [
+            "https://openalex.org/I45084792",
+            "https://openalex.org/I4210099030"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Maksymilian E. Nowak",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maksymilian E. Nowak",
+      "raw_affiliation_strings": [
+        "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057969314",
+        "display_name": "Maria Furman",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maria Furman",
+      "raw_affiliation_strings": [
+        "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5061910014",
+        "display_name": "Alicja Okrasińska",
+        "orcid": "https://orcid.org/0000-0002-3402-1526"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alicja Okrasińska",
+      "raw_affiliation_strings": [
+        "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037491546",
+        "display_name": "Julia Pawłowska",
+        "orcid": "https://orcid.org/0000-0003-4914-5182"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4654613",
+          "display_name": "University of Warsaw",
+          "ror": "https://ror.org/039bjqg32",
+          "country_code": "PL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ],
+      "countries": [
+        "PL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Julia Pawłowska",
+      "raw_affiliation_strings": [
+        "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Evolutionary Biology, Faculty of Biology, Biological and Chemical Research Centre, University of Warsaw, Żwirki i Wigury 101, Warsaw 02-089, Poland",
+          "institution_ids": [
+            "https://openalex.org/I4654613"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5068198320",
+        "display_name": "Marco Fondi",
+        "orcid": "https://orcid.org/0000-0001-9291-5467"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210099030",
+          "display_name": "LAM Foundation",
+          "ror": "https://ror.org/012xhfk02",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210099030"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I45084792",
+          "display_name": "University of Florence",
+          "ror": "https://ror.org/04jr1s763",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I45084792"
+          ]
+        }
+      ],
+      "countries": [
+        "IT",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marco Fondi",
+      "raw_affiliation_strings": [
+        "Department of Biology, University of Florence, Via Madonna del Piano 6, Sesto Fiorentino, FI 50019, Italy"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology, University of Florence, Via Madonna del Piano 6, Sesto Fiorentino, FI 50019, Italy",
+          "institution_ids": [
+            "https://openalex.org/I45084792",
+            "https://openalex.org/I4210099030"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 2450,
+    "currency": "EUR",
+    "value_usd": 2642
+  },
+  "apc_paid": {
+    "value": 2450,
+    "currency": "EUR",
+    "value_usd": 2642
+  },
+  "fwci": 1.1519,
+  "has_fulltext": false,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.76324074,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "27",
+    "issue": null,
+    "first_page": "1431",
+    "last_page": "1439"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10932",
+    "display_name": "Microbial Metabolic Engineering and Bioproduction",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10932",
+      "display_name": "Microbial Metabolic Engineering and Bioproduction",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10171",
+      "display_name": "Biofuel production and bioconversion",
+      "score": 0.9983000159263611,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10404",
+      "display_name": "Enzyme Catalysis and Immobilization",
+      "score": 0.9968000054359436,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/scale",
+      "display_name": "Scale (ratio)",
+      "score": 0.5408459305763245
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.5286505818367004
+    },
+    {
+      "id": "https://openalex.org/keywords/genome",
+      "display_name": "Genome",
+      "score": 0.5134716629981995
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.503898561000824
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.23229995369911194
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.2257293164730072
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.09791189432144165
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2778755073",
+      "wikidata": "https://www.wikidata.org/wiki/Q10858537",
+      "display_name": "Scale (ratio)",
+      "level": 2,
+      "score": 0.5408459305763245
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.5286505818367004
+    },
+    {
+      "id": "https://openalex.org/C141231307",
+      "wikidata": "https://www.wikidata.org/wiki/Q7020",
+      "display_name": "Genome",
+      "level": 3,
+      "score": 0.5134716629981995
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.503898561000824
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.23229995369911194
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.2257293164730072
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.09791189432144165
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.csbj.2025.03.049",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.csbj.2025.03.049",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764539591",
+        "display_name": "Computational and Structural Biotechnology Journal",
+        "issn_l": "2001-0370",
+        "issn": [
+          "2001-0370"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Computational and Structural Biotechnology Journal",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:40242294",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40242294",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Computational and structural biotechnology journal",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:0352e6e5acbf453392d390c2649ad79a",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/0352e6e5acbf453392d390c2649ad79a",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Computational and Structural Biotechnology Journal, Vol 27, Iss , Pp 1431-1439 (2025)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:flore.unifi.it:2158/1468219",
+      "is_oa": false,
+      "landing_page_url": "https://hdl.handle.net/2158/1468219",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402033",
+        "display_name": "Florence Research (University of Florence)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I45084792",
+        "host_organization_name": "University of Florence",
+        "host_organization_lineage": [
+          "https://openalex.org/I45084792"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:12002602",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12002602",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Comput Struct Biotechnol J",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.csbj.2025.03.049",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.csbj.2025.03.049",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764539591",
+      "display_name": "Computational and Structural Biotechnology Journal",
+      "issn_l": "2001-0370",
+      "issn": [
+        "2001-0370"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Computational and Structural Biotechnology Journal",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/2",
+      "score": 0.6399999856948853,
+      "display_name": "Zero hunger"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G5854191017",
+      "display_name": null,
+      "funder_award_id": "ALTF 565-2021",
+      "funder_id": "https://openalex.org/F4320307844",
+      "funder_display_name": "European Molecular Biology Organization"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320307844",
+      "display_name": "European Molecular Biology Organization",
+      "ror": "https://ror.org/04wfr2810"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 74,
+  "referenced_works": [
+    "https://openalex.org/W1484347389",
+    "https://openalex.org/W1971999831",
+    "https://openalex.org/W1985799174",
+    "https://openalex.org/W1993899465",
+    "https://openalex.org/W2000604427",
+    "https://openalex.org/W2010930876",
+    "https://openalex.org/W2029676567",
+    "https://openalex.org/W2056072739",
+    "https://openalex.org/W2056743095",
+    "https://openalex.org/W2076830784",
+    "https://openalex.org/W2079137794",
+    "https://openalex.org/W2079510885",
+    "https://openalex.org/W2085993965",
+    "https://openalex.org/W2095056231",
+    "https://openalex.org/W2106263380",
+    "https://openalex.org/W2107772251",
+    "https://openalex.org/W2108108770",
+    "https://openalex.org/W2121840477",
+    "https://openalex.org/W2128242967",
+    "https://openalex.org/W2143888289",
+    "https://openalex.org/W2148044817",
+    "https://openalex.org/W2158592738",
+    "https://openalex.org/W2163823651",
+    "https://openalex.org/W2330944087",
+    "https://openalex.org/W2338194256",
+    "https://openalex.org/W2566387862",
+    "https://openalex.org/W2604657987",
+    "https://openalex.org/W2743063996",
+    "https://openalex.org/W2754921920",
+    "https://openalex.org/W2767957186",
+    "https://openalex.org/W2769449671",
+    "https://openalex.org/W2805282299",
+    "https://openalex.org/W2893226894",
+    "https://openalex.org/W2900629010",
+    "https://openalex.org/W2925745058",
+    "https://openalex.org/W2941342985",
+    "https://openalex.org/W2941440692",
+    "https://openalex.org/W2951912016",
+    "https://openalex.org/W2952117162",
+    "https://openalex.org/W2968468432",
+    "https://openalex.org/W2969149674",
+    "https://openalex.org/W3000375708",
+    "https://openalex.org/W3010309156",
+    "https://openalex.org/W3010629926",
+    "https://openalex.org/W3036135788",
+    "https://openalex.org/W3044582591",
+    "https://openalex.org/W3107815298",
+    "https://openalex.org/W3124177285",
+    "https://openalex.org/W3129378123",
+    "https://openalex.org/W3159703745",
+    "https://openalex.org/W3161596995",
+    "https://openalex.org/W3184567381",
+    "https://openalex.org/W3186309583",
+    "https://openalex.org/W3196821019",
+    "https://openalex.org/W3203343200",
+    "https://openalex.org/W3209292275",
+    "https://openalex.org/W3217216416",
+    "https://openalex.org/W4205192056",
+    "https://openalex.org/W4206950245",
+    "https://openalex.org/W4214605381",
+    "https://openalex.org/W4241630616",
+    "https://openalex.org/W4281489613",
+    "https://openalex.org/W4308616064",
+    "https://openalex.org/W4309506674",
+    "https://openalex.org/W4376278342",
+    "https://openalex.org/W4384825965",
+    "https://openalex.org/W4385302529",
+    "https://openalex.org/W4388411316",
+    "https://openalex.org/W4393356203",
+    "https://openalex.org/W6646795437",
+    "https://openalex.org/W6741961599",
+    "https://openalex.org/W6761844579",
+    "https://openalex.org/W6795275932",
+    "https://openalex.org/W6838760129"
+  ],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2082860237",
+    "https://openalex.org/W2119695867",
+    "https://openalex.org/W2130076355",
+    "https://openalex.org/W1990804418",
+    "https://openalex.org/W1993764875",
+    "https://openalex.org/W2046158694",
+    "https://openalex.org/W2788277189",
+    "https://openalex.org/W2013243191",
+    "https://openalex.org/W1971568933"
+  ],
+  "abstract_inverted_index": {
+    "<h2>Abstract</h2>": [
+      0
+    ],
+    "Oleaginous": [
+      1
+    ],
+    "fungi—known": [
+      2
+    ],
+    "for": [
+      3,
+      19,
+      44,
+      89,
+      139,
+      171,
+      178
+    ],
+    "their": [
+      4
+    ],
+    "high": [
+      5
+    ],
+    "lipid": [
+      6,
+      68,
+      141,
+      155
+    ],
+    "content": [
+      7
+    ],
+    "of": [
+      8,
+      13,
+      16,
+      38,
+      57,
+      116
+    ],
+    "up": [
+      9
+    ],
+    "to": [
+      10,
+      53,
+      135,
+      154,
+      183
+    ],
+    "80": [
+      11
+    ],
+    "%": [
+      12,
+      115
+    ],
+    "dry": [
+      14
+    ],
+    "mass—are": [
+      15
+    ],
+    "significant": [
+      17
+    ],
+    "interest": [
+      18
+    ],
+    "biotechnological": [
+      20
+    ],
+    "applications,": [
+      21
+    ],
+    "particularly": [
+      22
+    ],
+    "in": [
+      23,
+      70,
+      113,
+      187
+    ],
+    "biofuel": [
+      24
+    ],
+    "and": [
+      25,
+      51,
+      98,
+      164
+    ],
+    "fatty": [
+      26,
+      61
+    ],
+    "acid": [
+      27
+    ],
+    "production.": [
+      28,
+      142
+    ],
+    "Among": [
+      29
+    ],
+    "these,": [
+      30
+    ],
+    "the": [
+      31,
+      39,
+      84,
+      158
+    ],
+    "genus": [
+      32
+    ],
+    "<i>Umbelopsis</i>,": [
+      33,
+      71
+    ],
+    "a": [
+      34,
+      105
+    ],
+    "common": [
+      35
+    ],
+    "soil": [
+      36
+    ],
+    "saprotroph": [
+      37
+    ],
+    "Mucoromycota": [
+      40
+    ],
+    "phylum,": [
+      41
+    ],
+    "stands": [
+      42
+    ],
+    "out": [
+      43
+    ],
+    "its": [
+      45
+    ],
+    "rapid": [
+      46
+    ],
+    "growth,": [
+      47
+    ],
+    "low": [
+      48
+    ],
+    "nutritional": [
+      49
+    ],
+    "requirements,": [
+      50
+    ],
+    "ability": [
+      52
+    ],
+    "produce": [
+      54
+    ],
+    "substantial": [
+      55
+    ],
+    "amounts": [
+      56
+    ],
+    "lipids,": [
+      58
+    ],
+    "especially": [
+      59
+    ],
+    "polyunsaturated": [
+      60
+    ],
+    "acids": [
+      62
+    ],
+    "(PUFAs).": [
+      63
+    ],
+    "Despite": [
+      64
+    ],
+    "previous": [
+      65
+    ],
+    "studies": [
+      66
+    ],
+    "on": [
+      67,
+      127
+    ],
+    "production": [
+      69,
+      186
+    ],
+    "metabolic": [
+      72,
+      87,
+      111,
+      151,
+      180
+    ],
+    "engineering": [
+      73,
+      181
+    ],
+    "has": [
+      74
+    ],
+    "been": [
+      75
+    ],
+    "underexplored.": [
+      76
+    ],
+    "This": [
+      77,
+      143
+    ],
+    "study": [
+      78
+    ],
+    "fills": [
+      79
+    ],
+    "that": [
+      80
+    ],
+    "gap": [
+      81
+    ],
+    "by": [
+      82,
+      161
+    ],
+    "presenting": [
+      83
+    ],
+    "first": [
+      85
+    ],
+    "comprehensive": [
+      86
+    ],
+    "model": [
+      88,
+      103
+    ],
+    "<i>Umbelopsis</i>": [
+      90,
+      188
+    ],
+    "sp.": [
+      91
+    ],
+    "WA50703,": [
+      92
+    ],
+    "encompassing": [
+      93
+    ],
+    "2418": [
+      94
+    ],
+    "metabolites,": [
+      95
+    ],
+    "2215": [
+      96
+    ],
+    "reactions,": [
+      97
+    ],
+    "1627": [
+      99
+    ],
+    "genes": [
+      100,
+      147
+    ],
+    "(iUmbe1).": [
+      101
+    ],
+    "The": [
+      102,
+      123
+    ],
+    "demonstrated": [
+      104
+    ],
+    "strong": [
+      106
+    ],
+    "predictive": [
+      107
+    ],
+    "accuracy": [
+      108
+    ],
+    "correctly": [
+      109
+    ],
+    "predicting": [
+      110
+    ],
+    "capabilities": [
+      112
+    ],
+    "81.05": [
+      114
+    ],
+    "cases": [
+      117
+    ],
+    "when": [
+      118
+    ],
+    "evaluated": [
+      119
+    ],
+    "against": [
+      120
+    ],
+    "experimental": [
+      121
+    ],
+    "data.": [
+      122
+    ],
+    "Flux": [
+      124,
+      130
+    ],
+    "Scanning": [
+      125
+    ],
+    "based": [
+      126
+    ],
+    "Enforced": [
+      128
+    ],
+    "Objective": [
+      129
+    ],
+    "(FSEOF)": [
+      131
+    ],
+    "algorithm": [
+      132
+    ],
+    "was": [
+      133
+    ],
+    "utilized": [
+      134
+    ],
+    "identify": [
+      136
+    ],
+    "gene": [
+      137
+    ],
+    "targets": [
+      138
+    ],
+    "enhancing": [
+      140
+    ],
+    "analysis": [
+      144
+    ],
+    "revealed": [
+      145
+    ],
+    "33": [
+      146
+    ],
+    "associated": [
+      148
+    ],
+    "with": [
+      149
+    ],
+    "23": [
+      150
+    ],
+    "reactions": [
+      152,
+      159
+    ],
+    "relevant": [
+      153
+    ],
+    "biosynthesis.": [
+      156
+    ],
+    "Notably,": [
+      157
+    ],
+    "catalysed": [
+      160
+    ],
+    "acetyl-CoA": [
+      162
+    ],
+    "carboxylase": [
+      163
+    ],
+    "carbonic": [
+      165
+    ],
+    "anhydrase": [
+      166
+    ],
+    "emerged": [
+      167
+    ],
+    "as": [
+      168
+    ],
+    "prime": [
+      169
+    ],
+    "candidates": [
+      170
+    ],
+    "up-regulation.": [
+      172
+    ],
+    "These": [
+      173
+    ],
+    "findings": [
+      174
+    ],
+    "provide": [
+      175
+    ],
+    "clear": [
+      176
+    ],
+    "guidelines": [
+      177
+    ],
+    "future": [
+      179
+    ],
+    "efforts": [
+      182
+    ],
+    "optimize": [
+      184
+    ],
+    "PUFA": [
+      185
+    ],
+    "strains.": [
+      189
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-06-11T09:08:48.828518",
+  "created_date": "2025-10-10T00:00:00"
+}

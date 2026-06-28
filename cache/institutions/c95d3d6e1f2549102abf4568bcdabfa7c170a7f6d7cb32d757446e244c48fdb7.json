@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I4210099030",
+  "ror": "https://ror.org/012xhfk02",
+  "display_name": "LAM Foundation",
+  "country_code": "US",
+  "type": "nonprofit",
+  "geo": {
+    "city": "Cincinnati",
+    "geonames_city_id": "4508722",
+    "region": "Ohio",
+    "country_code": "US",
+    "country": "United States",
+    "latitude": 39.287723541259766,
+    "longitude": -84.39405822753906
+  }
+}

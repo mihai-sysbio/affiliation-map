@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I204778367",
+  "ror": "https://ror.org/05xg72x27",
+  "display_name": "Norwegian University of Science and Technology",
+  "country_code": "NO",
+  "type": "education",
+  "geo": {
+    "city": "Trondheim",
+    "geonames_city_id": "3133880",
+    "region": "Trøndelag",
+    "country_code": "NO",
+    "country": "Norway",
+    "latitude": 63.43049,
+    "longitude": 10.39506
+  }
+}

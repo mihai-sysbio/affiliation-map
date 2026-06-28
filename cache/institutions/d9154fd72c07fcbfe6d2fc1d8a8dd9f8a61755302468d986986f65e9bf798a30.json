@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I4210126463",
+  "ror": "https://ror.org/02wedp412",
+  "display_name": "UK Dementia Research Institute",
+  "country_code": "GB",
+  "type": "facility",
+  "geo": {
+    "city": "London",
+    "geonames_city_id": "2643743",
+    "region": "England",
+    "country_code": "GB",
+    "country": "United Kingdom",
+    "latitude": 51.50853,
+    "longitude": -0.12574
+  }
+}

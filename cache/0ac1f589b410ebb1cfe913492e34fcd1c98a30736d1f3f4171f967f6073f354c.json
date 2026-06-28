@@ -1,0 +1,1668 @@
+{
+  "id": "https://openalex.org/W7126461659",
+  "doi": "https://doi.org/10.1186/s12934-026-02941-y",
+  "title": "Model-driven exploration of lactose and galactose metabolism via an oxidoreductive pathway in Sungouiella intermedia for cell factory applications",
+  "display_name": "Model-driven exploration of lactose and galactose metabolism via an oxidoreductive pathway in Sungouiella intermedia for cell factory applications",
+  "publication_year": 2026,
+  "publication_date": "2026-02-01",
+  "ids": {
+    "openalex": "https://openalex.org/W7126461659",
+    "doi": "https://doi.org/10.1186/s12934-026-02941-y",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/41622260"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1186/s12934-026-02941-y",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/s12934-026-02941-y",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S171368329",
+      "display_name": "Microbial Cell Factories",
+      "issn_l": "1475-2859",
+      "issn": [
+        "1475-2859"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320256",
+      "host_organization_name": "BioMed Central",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320256",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "BioMed Central",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Microbial Cell Factories",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1186/s12934-026-02941-y",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5003001290",
+        "display_name": "Kameshwara V. R. Peri",
+        "orcid": "https://orcid.org/0000-0002-3055-4261"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kameshwara V. R. Peri",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5009011251",
+        "display_name": "Iván Domenzain",
+        "orcid": "https://orcid.org/0000-0002-5322-2040"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Iván Domenzain",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037087972",
+        "display_name": "Hanna Alalam",
+        "orcid": "https://orcid.org/0000-0002-0468-6631"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hanna D. Alalam",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5054654352",
+        "display_name": "Luca Torello Pianale",
+        "orcid": "https://orcid.org/0000-0001-7673-0059"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Luca Torello Pianale",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5114746110",
+        "display_name": "Abril Valverde Rascón",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Abril Valverde Rascón",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5124545349",
+        "display_name": "Jens Christian Nielsen",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210146628",
+          "display_name": "BioInnovation Institute",
+          "ror": "https://ror.org/048b3qc73",
+          "country_code": "DK",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210146628"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "DK",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jens Nielsen",
+      "raw_affiliation_strings": [
+        "BioInnovation Institute, Ole Maaløes Vej 3, DK2200, Copenhagen, Denmark",
+        "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "BioInnovation Institute, Ole Maaløes Vej 3, DK2200, Copenhagen, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I4210146628"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5044221898",
+        "display_name": "Cecilia Geijer",
+        "orcid": "https://orcid.org/0000-0002-4158-2938"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Cecilia Geijer",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden. cecilia.geijer@chalmers.se"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden. cecilia.geijer@chalmers.se",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5044221898"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I66862912"
+  ],
+  "apc_list": {
+    "value": 1990,
+    "currency": "GBP",
+    "value_usd": 2440
+  },
+  "apc_paid": {
+    "value": 1990,
+    "currency": "GBP",
+    "value_usd": 2440
+  },
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.10821533,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "25",
+    "issue": "1",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10932",
+    "display_name": "Microbial Metabolic Engineering and Bioproduction",
+    "score": 0.9886000156402588,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10932",
+      "display_name": "Microbial Metabolic Engineering and Bioproduction",
+      "score": 0.9886000156402588,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10171",
+      "display_name": "Biofuel production and bioconversion",
+      "score": 0.00559999980032444,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10404",
+      "display_name": "Enzyme Catalysis and Immobilization",
+      "score": 0.0010999999940395355,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/galactose",
+      "display_name": "Galactose",
+      "score": 0.7946000099182129
+    },
+    {
+      "id": "https://openalex.org/keywords/lactose",
+      "display_name": "Lactose",
+      "score": 0.7943999767303467
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolic-pathway",
+      "display_name": "Metabolic pathway",
+      "score": 0.7261999845504761
+    },
+    {
+      "id": "https://openalex.org/keywords/xylose-metabolism",
+      "display_name": "Xylose metabolism",
+      "score": 0.7034000158309937
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolic-engineering",
+      "display_name": "Metabolic engineering",
+      "score": 0.6784999966621399
+    },
+    {
+      "id": "https://openalex.org/keywords/bioprocess",
+      "display_name": "Bioprocess",
+      "score": 0.5519999861717224
+    },
+    {
+      "id": "https://openalex.org/keywords/fermentation",
+      "display_name": "Fermentation",
+      "score": 0.5354999899864197
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolite",
+      "display_name": "Metabolite",
+      "score": 0.534600019454956
+    },
+    {
+      "id": "https://openalex.org/keywords/xylose",
+      "display_name": "Xylose",
+      "score": 0.5109999775886536
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2778173381",
+      "wikidata": "https://www.wikidata.org/wiki/Q66589593",
+      "display_name": "Galactose",
+      "level": 2,
+      "score": 0.7946000099182129
+    },
+    {
+      "id": "https://openalex.org/C2778724459",
+      "wikidata": "https://www.wikidata.org/wiki/Q127900",
+      "display_name": "Lactose",
+      "level": 2,
+      "score": 0.7943999767303467
+    },
+    {
+      "id": "https://openalex.org/C192989942",
+      "wikidata": "https://www.wikidata.org/wiki/Q68685",
+      "display_name": "Metabolic pathway",
+      "level": 3,
+      "score": 0.7261999845504761
+    },
+    {
+      "id": "https://openalex.org/C2781135521",
+      "wikidata": "https://www.wikidata.org/wiki/Q8045523",
+      "display_name": "Xylose metabolism",
+      "level": 4,
+      "score": 0.7034000158309937
+    },
+    {
+      "id": "https://openalex.org/C6350086",
+      "wikidata": "https://www.wikidata.org/wiki/Q6822347",
+      "display_name": "Metabolic engineering",
+      "level": 3,
+      "score": 0.6784999966621399
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.6700999736785889
+    },
+    {
+      "id": "https://openalex.org/C4916135",
+      "wikidata": "https://www.wikidata.org/wiki/Q4119055",
+      "display_name": "Bioprocess",
+      "level": 2,
+      "score": 0.5519999861717224
+    },
+    {
+      "id": "https://openalex.org/C100544194",
+      "wikidata": "https://www.wikidata.org/wiki/Q41760",
+      "display_name": "Fermentation",
+      "level": 2,
+      "score": 0.5354999899864197
+    },
+    {
+      "id": "https://openalex.org/C2777477808",
+      "wikidata": "https://www.wikidata.org/wiki/Q407595",
+      "display_name": "Metabolite",
+      "level": 2,
+      "score": 0.534600019454956
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.5260999798774719
+    },
+    {
+      "id": "https://openalex.org/C2780294150",
+      "wikidata": "https://www.wikidata.org/wiki/Q66589603",
+      "display_name": "Xylose",
+      "level": 3,
+      "score": 0.5109999775886536
+    },
+    {
+      "id": "https://openalex.org/C2779222958",
+      "wikidata": "https://www.wikidata.org/wiki/Q45422",
+      "display_name": "Yeast",
+      "level": 2,
+      "score": 0.4887999892234802
+    },
+    {
+      "id": "https://openalex.org/C2779274956",
+      "wikidata": "https://www.wikidata.org/wiki/Q774483",
+      "display_name": "Galactosemia",
+      "level": 3,
+      "score": 0.46540001034736633
+    },
+    {
+      "id": "https://openalex.org/C196493046",
+      "wikidata": "https://www.wikidata.org/wiki/Q24768242",
+      "display_name": "Galactokinase",
+      "level": 4,
+      "score": 0.45170000195503235
+    },
+    {
+      "id": "https://openalex.org/C62231903",
+      "wikidata": "https://www.wikidata.org/wiki/Q1057",
+      "display_name": "Metabolism",
+      "level": 2,
+      "score": 0.4408999979496002
+    },
+    {
+      "id": "https://openalex.org/C2779039970",
+      "wikidata": "https://www.wikidata.org/wiki/Q3610387",
+      "display_name": "Industrial microbiology",
+      "level": 3,
+      "score": 0.43220001459121704
+    },
+    {
+      "id": "https://openalex.org/C2776241147",
+      "wikidata": "https://www.wikidata.org/wiki/Q420367",
+      "display_name": "Galactitol",
+      "level": 3,
+      "score": 0.42980000376701355
+    },
+    {
+      "id": "https://openalex.org/C2775868465",
+      "wikidata": "https://www.wikidata.org/wiki/Q1880471",
+      "display_name": "Arabitol",
+      "level": 4,
+      "score": 0.4032000005245209
+    },
+    {
+      "id": "https://openalex.org/C135870905",
+      "wikidata": "https://www.wikidata.org/wiki/Q903667",
+      "display_name": "Metabolome",
+      "level": 3,
+      "score": 0.3398999869823456
+    },
+    {
+      "id": "https://openalex.org/C96942376",
+      "wikidata": "https://www.wikidata.org/wiki/Q21130714",
+      "display_name": "Catabolism",
+      "level": 3,
+      "score": 0.3303000032901764
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.3230000138282776
+    },
+    {
+      "id": "https://openalex.org/C2777937268",
+      "wikidata": "https://www.wikidata.org/wiki/Q223083",
+      "display_name": "Acetoin",
+      "level": 3,
+      "score": 0.3183000087738037
+    },
+    {
+      "id": "https://openalex.org/C58598135",
+      "wikidata": "https://www.wikidata.org/wiki/Q24780812",
+      "display_name": "Lactose permease",
+      "level": 5,
+      "score": 0.302700012922287
+    },
+    {
+      "id": "https://openalex.org/C101810790",
+      "wikidata": "https://www.wikidata.org/wiki/Q2263094",
+      "display_name": "Metabolic network",
+      "level": 2,
+      "score": 0.2913999855518341
+    },
+    {
+      "id": "https://openalex.org/C43053761",
+      "wikidata": "https://www.wikidata.org/wiki/Q286379",
+      "display_name": "Beta-galactosidase",
+      "level": 4,
+      "score": 0.2822999954223633
+    },
+    {
+      "id": "https://openalex.org/C31903555",
+      "wikidata": "https://www.wikidata.org/wiki/Q1637030",
+      "display_name": "Food science",
+      "level": 1,
+      "score": 0.26409998536109924
+    },
+    {
+      "id": "https://openalex.org/C21565614",
+      "wikidata": "https://www.wikidata.org/wiki/Q12149006",
+      "display_name": "Metabolomics",
+      "level": 2,
+      "score": 0.25850000977516174
+    },
+    {
+      "id": "https://openalex.org/C27881333",
+      "wikidata": "https://www.wikidata.org/wiki/Q864895",
+      "display_name": "Biotransformation",
+      "level": 3,
+      "score": 0.2533999979496002
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D004376",
+      "descriptor_name": "Galactitol",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004718",
+      "descriptor_name": "Saccharomycetales",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004718",
+      "descriptor_name": "Saccharomycetales",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005285",
+      "descriptor_name": "Fermentation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005690",
+      "descriptor_name": "Galactose",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D007785",
+      "descriptor_name": "Lactose",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010084",
+      "descriptor_name": "Oxidation-Reduction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019149",
+      "descriptor_name": "Bioreactors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D053858",
+      "descriptor_name": "Metabolic Networks and Pathways",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D060847",
+      "descriptor_name": "Metabolic Engineering",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1186/s12934-026-02941-y",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1186/s12934-026-02941-y",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S171368329",
+        "display_name": "Microbial Cell Factories",
+        "issn_l": "1475-2859",
+        "issn": [
+          "1475-2859"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320256",
+        "host_organization_name": "BioMed Central",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320256",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "BioMed Central",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Microbial Cell Factories",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:41622260",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41622260",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Microbial cell factories",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:doi:10.6084/m9.figshare.c.8325225",
+      "is_oa": true,
+      "landing_page_url": null,
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4406922384",
+        "display_name": "Open MIND",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Collection"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:11a962f955874a85a5c3faabb1fa4650",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/11a962f955874a85a5c3faabb1fa4650",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Microbial Cell Factories, Vol 25, Iss 1 (2026)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:12930983",
+      "is_oa": true,
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12930983/",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Microb Cell Fact",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1186/s12934-026-02941-y",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/s12934-026-02941-y",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S171368329",
+      "display_name": "Microbial Cell Factories",
+      "issn_l": "1475-2859",
+      "issn": [
+        "1475-2859"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320256",
+      "host_organization_name": "BioMed Central",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320256",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "BioMed Central",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Microbial Cell Factories",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Industry, innovation and infrastructure",
+      "id": "https://metadata.un.org/sdg/9",
+      "score": 0.5287945866584778
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320321523",
+      "display_name": "Chalmers Tekniska Högskola",
+      "ror": "https://ror.org/040wg7k59"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 58,
+  "referenced_works": [
+    "https://openalex.org/W642521510",
+    "https://openalex.org/W1979186118",
+    "https://openalex.org/W1995764364",
+    "https://openalex.org/W1998596961",
+    "https://openalex.org/W2011778636",
+    "https://openalex.org/W2016667239",
+    "https://openalex.org/W2018994057",
+    "https://openalex.org/W2028561804",
+    "https://openalex.org/W2047632644",
+    "https://openalex.org/W2061647355",
+    "https://openalex.org/W2067094344",
+    "https://openalex.org/W2078355959",
+    "https://openalex.org/W2082382448",
+    "https://openalex.org/W2095209321",
+    "https://openalex.org/W2100513481",
+    "https://openalex.org/W2101442503",
+    "https://openalex.org/W2138249633",
+    "https://openalex.org/W2153373497",
+    "https://openalex.org/W2160541874",
+    "https://openalex.org/W2163823651",
+    "https://openalex.org/W2205785247",
+    "https://openalex.org/W2312280072",
+    "https://openalex.org/W2502716066",
+    "https://openalex.org/W2546694518",
+    "https://openalex.org/W2594933406",
+    "https://openalex.org/W2604295104",
+    "https://openalex.org/W2743063996",
+    "https://openalex.org/W2763881270",
+    "https://openalex.org/W2765510366",
+    "https://openalex.org/W2894744183",
+    "https://openalex.org/W2902867462",
+    "https://openalex.org/W2923328608",
+    "https://openalex.org/W2941848107",
+    "https://openalex.org/W2965590414",
+    "https://openalex.org/W2967843340",
+    "https://openalex.org/W2973070511",
+    "https://openalex.org/W3007833217",
+    "https://openalex.org/W3011482282",
+    "https://openalex.org/W3080408612",
+    "https://openalex.org/W3092792405",
+    "https://openalex.org/W3134035549",
+    "https://openalex.org/W3154616075",
+    "https://openalex.org/W3204967707",
+    "https://openalex.org/W3206238391",
+    "https://openalex.org/W4200358265",
+    "https://openalex.org/W4210681598",
+    "https://openalex.org/W4281912922",
+    "https://openalex.org/W4283733937",
+    "https://openalex.org/W4286852520",
+    "https://openalex.org/W4321352258",
+    "https://openalex.org/W4323657538",
+    "https://openalex.org/W4366452194",
+    "https://openalex.org/W4385225105",
+    "https://openalex.org/W4387205282",
+    "https://openalex.org/W4394029371",
+    "https://openalex.org/W4394609441",
+    "https://openalex.org/W4395447529",
+    "https://openalex.org/W4402312160"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "BACKGROUND:": [
+      0
+    ],
+    "Converting": [
+      1
+    ],
+    "industrial": [
+      2,
+      89,
+      196
+    ],
+    "side": [
+      3
+    ],
+    "streams": [
+      4
+    ],
+    "into": [
+      5
+    ],
+    "value-added": [
+      6
+    ],
+    "chemicals": [
+      7
+    ],
+    "using": [
+      8,
+      66,
+      194
+    ],
+    "microbial": [
+      9
+    ],
+    "cell": [
+      10,
+      33,
+      85,
+      267
+    ],
+    "factories": [
+      11,
+      34
+    ],
+    "is": [
+      12,
+      139
+    ],
+    "of": [
+      13,
+      57,
+      68,
+      172,
+      187,
+      190,
+      213,
+      263
+    ],
+    "increasing": [
+      14
+    ],
+    "interest,": [
+      15
+    ],
+    "as": [
+      16,
+      82,
+      101,
+      103,
+      149,
+      201
+    ],
+    "such": [
+      17
+    ],
+    "processes": [
+      18
+    ],
+    "offer": [
+      19
+    ],
+    "sustainable": [
+      20
+    ],
+    "solutions": [
+      21
+    ],
+    "to": [
+      22,
+      41,
+      257
+    ],
+    "reduce": [
+      23
+    ],
+    "waste": [
+      24
+    ],
+    "and": [
+      25,
+      54,
+      78,
+      112,
+      117,
+      121,
+      161,
+      237,
+      261
+    ],
+    "production": [
+      26,
+      216
+    ],
+    "costs.": [
+      27
+    ],
+    "However,": [
+      28
+    ],
+    "developing": [
+      29
+    ],
+    "new,": [
+      30,
+      264
+    ],
+    "efficient": [
+      31
+    ],
+    "non-model": [
+      32,
+      265
+    ],
+    "for": [
+      35,
+      107
+    ],
+    "precision": [
+      36
+    ],
+    "fermentation": [
+      37
+    ],
+    "remains": [
+      38
+    ],
+    "challenging": [
+      39
+    ],
+    "due": [
+      40
+    ],
+    "limited": [
+      42
+    ],
+    "knowledge": [
+      43
+    ],
+    "about": [
+      44
+    ],
+    "their": [
+      45
+    ],
+    "metabolic": [
+      46,
+      71,
+      167,
+      231,
+      259
+    ],
+    "capabilities.": [
+      47
+    ],
+    "RESULTS:": [
+      48
+    ],
+    "Here,": [
+      49
+    ],
+    "we": [
+      50
+    ],
+    "investigate": [
+      51
+    ],
+    "the": [
+      52,
+      58,
+      97,
+      127,
+      136,
+      165,
+      170,
+      191,
+      195,
+      211,
+      214,
+      226,
+      235
+    ],
+    "lactose": [
+      53,
+      160,
+      236
+    ],
+    "galactose": [
+      55,
+      108,
+      131,
+      162,
+      238
+    ],
+    "metabolism": [
+      56,
+      132
+    ],
+    "understudied": [
+      59
+    ],
+    "yeast": [
+      60,
+      95,
+      146,
+      266
+    ],
+    "Sungouiella": [
+      61
+    ],
+    "intermedia": [
+      62,
+      181
+    ],
+    "(formerly": [
+      63
+    ],
+    "Candida": [
+      64
+    ],
+    "intermedia),": [
+      65
+    ],
+    "knowledge-matching": [
+      67
+    ],
+    "high-quality": [
+      69
+    ],
+    "genome-scale": [
+      70
+    ],
+    "model": [
+      72
+    ],
+    "(GEM)": [
+      73
+    ],
+    "with": [
+      74,
+      250
+    ],
+    "extensive": [
+      75
+    ],
+    "experimental": [
+      76,
+      113,
+      251
+    ],
+    "analysis,": [
+      77
+    ],
+    "determine": [
+      79
+    ],
+    "its": [
+      80
+    ],
+    "potential": [
+      81
+    ],
+    "a": [
+      83,
+      142,
+      150,
+      247
+    ],
+    "future": [
+      84,
+      215
+    ],
+    "factory": [
+      86
+    ],
+    "on": [
+      87,
+      225
+    ],
+    "lactose-rich": [
+      88
+    ],
+    "side-streams.": [
+      90
+    ],
+    "We": [
+      91
+    ],
+    "show": [
+      92
+    ],
+    "that": [
+      93,
+      125,
+      233
+    ],
+    "this": [
+      94,
+      220
+    ],
+    "possesses": [
+      96
+    ],
+    "conserved": [
+      98
+    ],
+    "Leloir": [
+      99,
+      128
+    ],
+    "pathway": [
+      100,
+      129,
+      138
+    ],
+    "well": [
+      102
+    ],
+    "an": [
+      104,
+      173,
+      178
+    ],
+    "oxidoreductive": [
+      105,
+      137
+    ],
+    "route": [
+      106
+    ],
+    "catabolism.": [
+      109
+    ],
+    "Model": [
+      110
+    ],
+    "simulations": [
+      111
+    ],
+    "data": [
+      114
+    ],
+    "from": [
+      115
+    ],
+    "continuous": [
+      116
+    ],
+    "batch": [
+      118
+    ],
+    "bioreactors,": [
+      119
+    ],
+    "transcriptomics,": [
+      120
+    ],
+    "metabolite": [
+      122
+    ],
+    "analysis": [
+      123,
+      252
+    ],
+    "indicate": [
+      124
+    ],
+    "while": [
+      126
+    ],
+    "dominates": [
+      130
+    ],
+    "in": [
+      133,
+      141,
+      207,
+      240,
+      255
+    ],
+    "S.": [
+      134,
+      180,
+      241
+    ],
+    "intermedia,": [
+      135
+    ],
+    "employed": [
+      140
+    ],
+    "condition-dependent": [
+      143
+    ],
+    "manner.": [
+      144
+    ],
+    "The": [
+      145
+    ],
+    "produces": [
+      147
+    ],
+    "galactitol": [
+      148,
+      185
+    ],
+    "carbon": [
+      151
+    ],
+    "overflow": [
+      152
+    ],
+    "metabolite,": [
+      153
+    ],
+    "facilitating": [
+      154
+    ],
+    "redox": [
+      155
+    ],
+    "cofactor": [
+      156
+    ],
+    "balance": [
+      157
+    ],
+    "during": [
+      158
+    ],
+    "both": [
+      159
+    ],
+    "growth.": [
+      163
+    ],
+    "Furthermore,": [
+      164
+    ],
+    "new": [
+      166,
+      223
+    ],
+    "insights": [
+      168
+    ],
+    "facilitated": [
+      169
+    ],
+    "development": [
+      171,
+      262
+    ],
+    "improved": [
+      174
+    ],
+    "bioprocess": [
+      175
+    ],
+    "design,": [
+      176
+    ],
+    "where": [
+      177
+    ],
+    "engineered": [
+      179
+    ],
+    "strain": [
+      182,
+      204
+    ],
+    "could": [
+      183
+    ],
+    "achieve": [
+      184
+    ],
+    "yields": [
+      186
+    ],
+    ">": [
+      188
+    ],
+    "90%": [
+      189
+    ],
+    "theoretical": [
+      192
+    ],
+    "maximum": [
+      193
+    ],
+    "side-stream": [
+      197
+    ],
+    "cheese": [
+      198
+    ],
+    "whey": [
+      199
+    ],
+    "permeate": [
+      200
+    ],
+    "feedstock.": [
+      202
+    ],
+    "Additional": [
+      203
+    ],
+    "engineering": [
+      205
+    ],
+    "resulted": [
+      206
+    ],
+    "galactitol-to-tagatose": [
+      208
+    ],
+    "conversion,": [
+      209
+    ],
+    "proving": [
+      210
+    ],
+    "versatility": [
+      212
+    ],
+    "host.": [
+      217
+    ],
+    "CONCLUSIONS:": [
+      218
+    ],
+    "Overall,": [
+      219
+    ],
+    "work": [
+      221,
+      254
+    ],
+    "sheds": [
+      222
+    ],
+    "light": [
+      224
+    ],
+    "intrinsic": [
+      227
+    ],
+    "interplay": [
+      228
+    ],
+    "between": [
+      229
+    ],
+    "parallel": [
+      230
+    ],
+    "pathways": [
+      232
+    ],
+    "shape": [
+      234
+    ],
+    "catabolism": [
+      239
+    ],
+    "intermedia.": [
+      242
+    ],
+    "It": [
+      243
+    ],
+    "also": [
+      244
+    ],
+    "demonstrates": [
+      245
+    ],
+    "how": [
+      246
+    ],
+    "GEM": [
+      248
+    ],
+    "combined": [
+      249
+    ],
+    "can": [
+      253
+    ],
+    "synergy": [
+      256
+    ],
+    "fast-forward": [
+      258
+    ],
+    "characterization": [
+      260
+    ],
+    "factories.": [
+      268
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-06-28T08:01:55.173337",
+  "created_date": "2026-02-02T00:00:00"
+}

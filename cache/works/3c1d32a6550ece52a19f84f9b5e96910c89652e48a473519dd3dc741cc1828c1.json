@@ -1,0 +1,415 @@
+{
+  "id": "https://openalex.org/W7124894512",
+  "doi": "https://doi.org/10.1016/j.tibtech.2025.12.006",
+  "display_name": "Systematic engineering of Micromonospora echinospora cell factory for gentamicin C1a overproduction",
+  "publication_year": 2026,
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5018896568",
+        "display_name": "Feng Xu",
+        "orcid": "https://orcid.org/0000-0002-9168-561X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Feng Xu",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China; Shanghai Collaborative Innovation Center for Biomanufacturing Technology, East China University of Science and Technology, Shanghai 200237, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China; Shanghai Collaborative Innovation Center for Biomanufacturing Technology, East China University of Science and Technology, Shanghai 200237, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5102118124",
+        "display_name": "Hao Gao",
+        "orcid": "https://orcid.org/0000-0002-6139-925X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hao Gao",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5114667507",
+        "display_name": "Rong Ben",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rong Ben",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5045421733",
+        "display_name": "K.P. Hu",
+        "orcid": "https://orcid.org/0009-0004-8329-2690"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kaihao Hu",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123396079",
+        "display_name": "Yuan Wang",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yuan Wang",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100588269",
+        "display_name": "Ali Mohsin",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ali Mohsin",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Yuanxin Guo",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yuanxin Guo",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123445197",
+        "display_name": "Xu Li",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Xu Li",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5093467126",
+        "display_name": "HaiFeng Hang",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Haifeng Hang",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China; Shanghai Collaborative Innovation Center for Biomanufacturing Technology, East China University of Science and Technology, Shanghai 200237, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China; Shanghai Collaborative Innovation Center for Biomanufacturing Technology, East China University of Science and Technology, Shanghai 200237, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5123395070",
+        "display_name": "Ju Chu",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Ju Chu",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China; Shanghai Collaborative Innovation Center for Biomanufacturing Technology, East China University of Science and Technology, Shanghai 200237, China. Electronic address: juchu@ecust.edu.cn"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China; Shanghai Collaborative Innovation Center for Biomanufacturing Technology, East China University of Science and Technology, Shanghai 200237, China. Electronic address: juchu@ecust.edu.cn",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5123448396",
+        "display_name": "Xiwei Tian",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Xiwei Tian",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China; Shanghai Collaborative Innovation Center for Biomanufacturing Technology, East China University of Science and Technology, Shanghai 200237, China. Electronic address: xiweitian@ecust.edu.cn"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, Qingdao Innovation Institute of East China University of Science and Technology, East China University of Science and Technology, Shanghai 200237, China; National Center of Bio-Engineering & Technology (Shanghai), East China University of Science and Technology, Shanghai 200237, China; Shanghai Collaborative Innovation Center for Biomanufacturing Technology, East China University of Science and Technology, Shanghai 200237, China. Electronic address: xiweitian@ecust.edu.cn",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    }
+  ]
+}

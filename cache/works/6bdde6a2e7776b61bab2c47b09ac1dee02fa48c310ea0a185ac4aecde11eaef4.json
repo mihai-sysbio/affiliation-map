@@ -1,0 +1,409 @@
+{
+  "id": "https://openalex.org/W3082099888",
+  "doi": "https://doi.org/10.1016/j.isci.2020.101525",
+  "display_name": "Enzyme-Constrained Models and Omics Analysis of <i>Streptomyces coelicolor</i> Reveal Metabolic Changes that Enhance Heterologous Production.",
+  "publication_year": 2020,
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5001910866",
+        "display_name": "Snorre Sulheim",
+        "orcid": "https://orcid.org/0000-0002-3967-1683"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I173888879",
+          "display_name": "SINTEF",
+          "ror": "https://ror.org/01f677e56",
+          "country_code": "NO",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I173888879"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I204778367",
+          "display_name": "Norwegian University of Science and Technology",
+          "ror": "https://ror.org/05xg72x27",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Snorre Sulheim",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology and Nanomedicine, SINTEF Industry, 7034 Trondheim, Norway",
+        "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, 7491 Trondheim, Norway"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Nanomedicine, SINTEF Industry, 7034 Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I173888879"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, 7491 Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082727841",
+        "display_name": "Tjaša Kumelj",
+        "orcid": "https://orcid.org/0000-0002-1998-0366"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204778367",
+          "display_name": "Norwegian University of Science and Technology",
+          "ror": "https://ror.org/05xg72x27",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tjaša Kumelj",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, 7491 Trondheim, Norway"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, 7491 Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5028326911",
+        "display_name": "Dino van Dissel",
+        "orcid": "https://orcid.org/0000-0002-6793-7469"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I173888879",
+          "display_name": "SINTEF",
+          "ror": "https://ror.org/01f677e56",
+          "country_code": "NO",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I173888879"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dino van Dissel",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology and Nanomedicine, SINTEF Industry, 7034 Trondheim, Norway"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Nanomedicine, SINTEF Industry, 7034 Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I173888879"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017567949",
+        "display_name": "Ali Salehzadeh‐Yazdi",
+        "orcid": "https://orcid.org/0000-0002-1678-0051"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4665924",
+          "display_name": "University of Rostock",
+          "ror": "https://ror.org/03zdwsf69",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4665924"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ali Salehzadeh-Yazdi",
+      "raw_affiliation_strings": [
+        "Department of Systems Biology and Bioinformatics, Faculty of Computer Science and Electrical Engineering, University of Rostock, 18057 Rostock, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Systems Biology and Bioinformatics, Faculty of Computer Science and Electrical Engineering, University of Rostock, 18057 Rostock, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4665924"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082019295",
+        "display_name": "Chao Du",
+        "orcid": "https://orcid.org/0000-0003-3447-5293"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I121797337",
+          "display_name": "Leiden University",
+          "ror": "https://ror.org/027bh9e22",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chao Du",
+      "raw_affiliation_strings": [
+        "Microbial Biotechnology, Institute of Biology, Leiden University, 2300 Leiden, the Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Microbial Biotechnology, Institute of Biology, Leiden University, 2300 Leiden, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091052284",
+        "display_name": "Gilles P. van Wezel",
+        "orcid": "https://orcid.org/0000-0003-0341-1561"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I121797337",
+          "display_name": "Leiden University",
+          "ror": "https://ror.org/027bh9e22",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Gilles P van Wezel",
+      "raw_affiliation_strings": [
+        "Microbial Biotechnology, Institute of Biology, Leiden University, 2300 Leiden, the Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Microbial Biotechnology, Institute of Biology, Leiden University, 2300 Leiden, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5061586847",
+        "display_name": "Kay Nieselt",
+        "orcid": "https://orcid.org/0000-0002-1283-7065"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I8087733",
+          "display_name": "University of Tübingen",
+          "ror": "https://ror.org/03a1kwz48",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I8087733"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kay Nieselt",
+      "raw_affiliation_strings": [
+        "Integrative Transcriptomics, Center for Bioinformatics, University of Tübingen, 72070 Tübingen, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Integrative Transcriptomics, Center for Bioinformatics, University of Tübingen, 72070 Tübingen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I8087733"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003678652",
+        "display_name": "Eivind Almaas",
+        "orcid": "https://orcid.org/0000-0002-9125-326X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204778367",
+          "display_name": "Norwegian University of Science and Technology",
+          "ror": "https://ror.org/05xg72x27",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eivind Almaas",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, 7491 Trondheim, Norway",
+        "K.G. Jebsen Center for Genetic Epidemiology, Department of Public Health and General Practice, NTNU - Norwegian University of Science and Technology, 7491 Trondheim, Norway"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, 7491 Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        },
+        {
+          "raw_affiliation_string": "K.G. Jebsen Center for Genetic Epidemiology, Department of Public Health and General Practice, NTNU - Norwegian University of Science and Technology, 7491 Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032838630",
+        "display_name": "Alexander Wentzel",
+        "orcid": "https://orcid.org/0000-0002-9420-1959"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I173888879",
+          "display_name": "SINTEF",
+          "ror": "https://ror.org/01f677e56",
+          "country_code": "NO",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I173888879"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alexander Wentzel",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology and Nanomedicine, SINTEF Industry, 7034 Trondheim, Norway"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Nanomedicine, SINTEF Industry, 7034 Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I173888879"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5059167313",
+        "display_name": "Eduard J. Kerkhoven",
+        "orcid": "https://orcid.org/0000-0002-3593-5792"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Eduard J Kerkhoven",
+      "raw_affiliation_strings": [
+        "Systems and Synthetic Biology, Department of Biology and Biological Engineering, Chalmers University of Technology, 412 96 Gothenburg, Sweden",
+        "Novo Nordisk Foundation Center for Biosustainability, Chalmers University of Technology, 412 96 Gothenburg, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Systems and Synthetic Biology, Department of Biology and Biological Engineering, Chalmers University of Technology, 412 96 Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Novo Nordisk Foundation Center for Biosustainability, Chalmers University of Technology, 412 96 Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    }
+  ]
+}

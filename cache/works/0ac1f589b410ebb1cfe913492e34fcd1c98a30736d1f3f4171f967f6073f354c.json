@@ -1,0 +1,285 @@
+{
+  "id": "https://openalex.org/W7126461659",
+  "doi": "https://doi.org/10.1186/s12934-026-02941-y",
+  "display_name": "Model-driven exploration of lactose and galactose metabolism via an oxidoreductive pathway in Sungouiella intermedia for cell factory applications",
+  "publication_year": 2026,
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5003001290",
+        "display_name": "Kameshwara V. R. Peri",
+        "orcid": "https://orcid.org/0000-0002-3055-4261"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kameshwara V. R. Peri",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5009011251",
+        "display_name": "Iván Domenzain",
+        "orcid": "https://orcid.org/0000-0002-5322-2040"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Iván Domenzain",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037087972",
+        "display_name": "Hanna Alalam",
+        "orcid": "https://orcid.org/0000-0002-0468-6631"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hanna D. Alalam",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5054654352",
+        "display_name": "Luca Torello Pianale",
+        "orcid": "https://orcid.org/0000-0001-7673-0059"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Luca Torello Pianale",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5114746110",
+        "display_name": "Abril Valverde Rascón",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Abril Valverde Rascón",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5124545349",
+        "display_name": "Jens Christian Nielsen",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210146628",
+          "display_name": "BioInnovation Institute",
+          "ror": "https://ror.org/048b3qc73",
+          "country_code": "DK",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210146628"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "DK",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jens Nielsen",
+      "raw_affiliation_strings": [
+        "BioInnovation Institute, Ole Maaløes Vej 3, DK2200, Copenhagen, Denmark",
+        "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "BioInnovation Institute, Ole Maaløes Vej 3, DK2200, Copenhagen, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I4210146628"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5044221898",
+        "display_name": "Cecilia Geijer",
+        "orcid": "https://orcid.org/0000-0002-4158-2938"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Cecilia Geijer",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden. cecilia.geijer@chalmers.se"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology, Gothenburg, Sweden. cecilia.geijer@chalmers.se",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    }
+  ]
+}

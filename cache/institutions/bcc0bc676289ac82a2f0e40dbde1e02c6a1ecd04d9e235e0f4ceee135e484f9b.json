@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I4210110997",
+  "ror": "https://ror.org/01xexqx38",
+  "display_name": "Ministry of Education",
+  "country_code": "ME",
+  "type": "government",
+  "geo": {
+    "city": "Podgorica",
+    "geonames_city_id": "3193044",
+    "region": null,
+    "country_code": "ME",
+    "country": "Montenegro",
+    "latitude": 42.446346282958984,
+    "longitude": 19.263551712036133
+  }
+}

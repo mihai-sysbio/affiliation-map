@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I3020098449",
+  "ror": "https://ror.org/02mg6n827",
+  "display_name": "CEA Grenoble",
+  "country_code": "FR",
+  "type": "government",
+  "geo": {
+    "city": "Grenoble",
+    "geonames_city_id": "3014728",
+    "region": "Auvergne-Rhône-Alpes",
+    "country_code": "FR",
+    "country": "France",
+    "latitude": 45.17869,
+    "longitude": 5.71479
+  }
+}

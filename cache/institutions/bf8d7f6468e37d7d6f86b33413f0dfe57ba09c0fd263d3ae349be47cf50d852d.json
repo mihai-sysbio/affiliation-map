@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I2801134892",
+  "ror": "https://ror.org/04txyc737",
+  "display_name": "Novo Nordisk Foundation",
+  "country_code": "DK",
+  "type": "facility",
+  "geo": {
+    "city": "Copenhagen",
+    "geonames_city_id": "2618425",
+    "region": "Capital Region",
+    "country_code": "DK",
+    "country": "Denmark",
+    "latitude": 55.67594,
+    "longitude": 12.56553
+  }
+}

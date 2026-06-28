@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I103084370",
+  "ror": "https://ror.org/04sk34n56",
+  "display_name": "Total (France)",
+  "country_code": "FR",
+  "type": "company",
+  "geo": {
+    "city": "Paris",
+    "geonames_city_id": "2988507",
+    "region": null,
+    "country_code": "FR",
+    "country": "France",
+    "latitude": 48.85340881347656,
+    "longitude": 2.34879994392395
+  }
+}

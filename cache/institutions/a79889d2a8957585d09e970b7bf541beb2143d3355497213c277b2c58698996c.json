@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I66068411",
+  "ror": "https://ror.org/05k8wg936",
+  "display_name": "Genome Institute of Singapore",
+  "country_code": "SG",
+  "type": "facility",
+  "geo": {
+    "city": "Singapore",
+    "geonames_city_id": "1880252",
+    "region": null,
+    "country_code": "SG",
+    "country": "Singapore",
+    "latitude": 1.2896699905395508,
+    "longitude": 103.85006713867188
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I4210099371",
+  "ror": "https://ror.org/00jxe7243",
+  "display_name": "Laboratoire Physiologie Cellulaire & Végétale",
+  "country_code": "FR",
+  "type": "facility",
+  "geo": {
+    "city": "Grenoble",
+    "geonames_city_id": "3014728",
+    "region": "Auvergne-Rhône-Alpes",
+    "country_code": "FR",
+    "country": "France",
+    "latitude": 45.17869,
+    "longitude": 5.71479
+  }
+}

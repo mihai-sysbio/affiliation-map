@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I172675005",
+  "ror": "https://ror.org/02e7b5302",
+  "display_name": "Nanyang Technological University",
+  "country_code": "SG",
+  "type": "education",
+  "geo": {
+    "city": "Singapore",
+    "geonames_city_id": "1880252",
+    "region": null,
+    "country_code": "SG",
+    "country": "Singapore",
+    "latitude": 1.28967,
+    "longitude": 103.85007
+  }
+}

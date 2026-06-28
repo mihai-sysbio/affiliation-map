@@ -1,0 +1,293 @@
+{
+  "id": "https://openalex.org/W7140173396",
+  "doi": "https://doi.org/10.1007/s00253-026-13791-4",
+  "display_name": "Enzyme-constrained genome-scale model of Yarrowia lipolytica predicts growth-phase specific metabolic engineering targets",
+  "publication_year": 2026,
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": null,
+        "display_name": "Juliano Sabedotti De Biaggi",
+        "orcid": "https://orcid.org/0000-0003-3893-1006"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I111112146",
+          "display_name": "Tallinn University of Technology",
+          "ror": "https://ror.org/0443cwa12",
+          "country_code": "EE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I111112146"
+          ]
+        }
+      ],
+      "countries": [
+        "EE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Juliano Sabedotti De Biaggi",
+      "raw_affiliation_strings": [
+        "Department of Chemistry and Biotechnology, Tallinn University of Technology, Tallinn, Estonia"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3893-1006",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Chemistry and Biotechnology, Tallinn University of Technology, Tallinn, Estonia",
+          "institution_ids": [
+            "https://openalex.org/I111112146"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Young-Kyoung Park",
+        "orcid": "https://orcid.org/0000-0003-1989-7498"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I22248866",
+          "display_name": "AgroParisTech",
+          "ror": "https://ror.org/02kbmgc12",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I22248866",
+            "https://openalex.org/I277688954"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I277688954",
+          "display_name": "Université Paris-Saclay",
+          "ror": "https://ror.org/03xjwb503",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I277688954"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I3017594750",
+          "display_name": "Microbiologie de l’alimentation au service de la santé",
+          "ror": "https://ror.org/0471cyx86",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I22248866",
+            "https://openalex.org/I277688954",
+            "https://openalex.org/I277688954",
+            "https://openalex.org/I3017594750",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I4210099460"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210088668",
+          "display_name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+          "ror": "https://ror.org/003vg9w96",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210088668"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I47508984",
+          "display_name": "Imperial College London",
+          "ror": "https://ror.org/041kmwe10",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47508984"
+          ]
+        }
+      ],
+      "countries": [
+        "FR",
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Young-Kyoung Park",
+      "raw_affiliation_strings": [
+        "Department of Bioengineering and Imperial College Centre for Synthetic Biology, Imperial College London, London, UK",
+        "Micalis Institute, Université Paris-Saclay, INRAE, AgroParisTech, Jouy-en-Josas, France"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-1989-7498",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Bioengineering and Imperial College Centre for Synthetic Biology, Imperial College London, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I47508984"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Micalis Institute, Université Paris-Saclay, INRAE, AgroParisTech, Jouy-en-Josas, France",
+          "institution_ids": [
+            "https://openalex.org/I3017594750",
+            "https://openalex.org/I22248866",
+            "https://openalex.org/I4210088668",
+            "https://openalex.org/I277688954"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Eduard J. Kerkhoven",
+        "orcid": "https://orcid.org/0000-0002-3593-5792"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801134892",
+          "display_name": "Novo Nordisk Foundation",
+          "ror": "https://ror.org/04txyc737",
+          "country_code": "DK",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801134892"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I96673099",
+          "display_name": "Technical University of Denmark",
+          "ror": "https://ror.org/04qtj9h94",
+          "country_code": "DK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ],
+      "countries": [
+        "DK",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eduard J. Kerkhoven",
+      "raw_affiliation_strings": [
+        "Department of Biology and Biological Engineering, Chalmers University of Technology, Gothenburg, Sweden",
+        "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, Lyngby, Denmark"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3593-5792",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biology and Biological Engineering, Chalmers University of Technology, Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, Lyngby, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I2801134892",
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Rodrigo Ledesma-Amaro",
+        "orcid": "https://orcid.org/0000-0003-2631-5898"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47508984",
+          "display_name": "Imperial College London",
+          "ror": "https://ror.org/041kmwe10",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47508984"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rodrigo Ledesma-Amaro",
+      "raw_affiliation_strings": [
+        "Bezos Centre for Sustainable Protein, Imperial College London, London, UK",
+        "Department of Bioengineering and Imperial College Centre for Synthetic Biology, Imperial College London, London, UK",
+        "UKRI Mission Hub On Microbial Food, Imperial College London, London, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-2631-5898",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Bezos Centre for Sustainable Protein, Imperial College London, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I47508984"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Bioengineering and Imperial College Centre for Synthetic Biology, Imperial College London, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I47508984"
+          ]
+        },
+        {
+          "raw_affiliation_string": "UKRI Mission Hub On Microbial Food, Imperial College London, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I47508984"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": null,
+        "display_name": "Petri-Jaan Lahtvee",
+        "orcid": "https://orcid.org/0000-0002-3327-3190"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I111112146",
+          "display_name": "Tallinn University of Technology",
+          "ror": "https://ror.org/0443cwa12",
+          "country_code": "EE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I111112146"
+          ]
+        }
+      ],
+      "countries": [
+        "EE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Petri-Jaan Lahtvee",
+      "raw_affiliation_strings": [
+        "Department of Chemistry and Biotechnology, Tallinn University of Technology, Tallinn, Estonia. lahtvee@taltech.ee"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3327-3190",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Chemistry and Biotechnology, Tallinn University of Technology, Tallinn, Estonia. lahtvee@taltech.ee",
+          "institution_ids": [
+            "https://openalex.org/I111112146"
+          ]
+        }
+      ]
+    }
+  ]
+}

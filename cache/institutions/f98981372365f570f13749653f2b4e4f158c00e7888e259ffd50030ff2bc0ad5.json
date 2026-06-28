@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I173888879",
+  "ror": "https://ror.org/01f677e56",
+  "display_name": "SINTEF",
+  "country_code": "NO",
+  "type": "facility",
+  "geo": {
+    "city": "Trondheim",
+    "geonames_city_id": "3133880",
+    "region": null,
+    "country_code": "NO",
+    "country": "Norway",
+    "latitude": 63.43048858642578,
+    "longitude": 10.395059585571289
+  }
+}

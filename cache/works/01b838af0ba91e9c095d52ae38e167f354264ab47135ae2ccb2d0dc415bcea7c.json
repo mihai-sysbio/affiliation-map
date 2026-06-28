@@ -1,0 +1,712 @@
+{
+  "id": "https://openalex.org/W4401510590",
+  "doi": "https://doi.org/10.1038/s44320-024-00060-7",
+  "display_name": "Yeast9: a consensus genome-scale metabolic model for S. cerevisiae curated by the community",
+  "publication_year": 2024,
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5100521523",
+        "display_name": "Chengyu Zhang",
+        "orcid": "https://orcid.org/0009-0004-3006-9073"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I183067930",
+          "display_name": "Shanghai Jiao Tong University",
+          "ror": "https://ror.org/0220qvk04",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I183067930"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chengyu Zhang",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, and School of Biotechnology, East China University of Science and Technology (ECUST), 200237, Shanghai, China",
+        "State Key Laboratory of Microbial Metabolism, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, 200240, Shanghai, China"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0004-3006-9073",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, and School of Biotechnology, East China University of Science and Technology (ECUST), 200237, Shanghai, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Microbial Metabolism, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, 200240, Shanghai, China",
+          "institution_ids": [
+            "https://openalex.org/I183067930"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055779084",
+        "display_name": "Benjamín J. Sánchez",
+        "orcid": "https://orcid.org/0000-0001-6093-4110"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801134892",
+          "display_name": "Novo Nordisk Foundation",
+          "ror": "https://ror.org/04txyc737",
+          "country_code": "DK",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801134892"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I96673099",
+          "display_name": "Technical University of Denmark",
+          "ror": "https://ror.org/04qtj9h94",
+          "country_code": "DK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ],
+      "countries": [
+        "DK"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Benjamín J Sánchez",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology and Biomedicine, Technical University of Denmark, DK-2800 Kgs, Lyngby, Denmark",
+        "The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, DK-2800 Kgs, Lyngby, Denmark"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6093-4110",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Biomedicine, Technical University of Denmark, DK-2800 Kgs, Lyngby, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I96673099"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, DK-2800 Kgs, Lyngby, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I2801134892",
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100731088",
+        "display_name": "Feiran Li",
+        "orcid": "https://orcid.org/0000-0001-9155-5260"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114105",
+          "display_name": "Tsinghua–Berkeley Shenzhen Institute",
+          "ror": "https://ror.org/02hhwwz98",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210114105",
+            "https://openalex.org/I95457486",
+            "https://openalex.org/I99065089"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I99065089",
+          "display_name": "Tsinghua University",
+          "ror": "https://ror.org/03cve4549",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I99065089"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Feiran Li",
+      "raw_affiliation_strings": [
+        "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen, 518055, China"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-9155-5260",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Biopharmaceutical and Health Engineering, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen, 518055, China",
+          "institution_ids": [
+            "https://openalex.org/I4210114105",
+            "https://openalex.org/I99065089"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5093423940",
+        "display_name": "Cheng Wei Quan Eiden",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I172675005",
+          "display_name": "Nanyang Technological University",
+          "ror": "https://ror.org/02e7b5302",
+          "country_code": "SG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I172675005"
+          ]
+        }
+      ],
+      "countries": [
+        "SG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Cheng Wei Quan Eiden",
+      "raw_affiliation_strings": [
+        "School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological University, 62 Nanyang Drive, Singapore, 637459, Singapore"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological University, 62 Nanyang Drive, Singapore, 637459, Singapore",
+          "institution_ids": [
+            "https://openalex.org/I172675005"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074450770",
+        "display_name": "William T. Scott",
+        "orcid": "https://orcid.org/0000-0002-4029-2998"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "William T Scott",
+      "raw_affiliation_strings": [
+        "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands",
+        "UNLOCK, Wageningen University & Research, Wageningen, The Netherlands"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-4029-2998",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        },
+        {
+          "raw_affiliation_string": "UNLOCK, Wageningen University & Research, Wageningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5076649110",
+        "display_name": "Ulf W. Liebal",
+        "orcid": "https://orcid.org/0000-0001-5172-7339"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ulf W Liebal",
+      "raw_affiliation_strings": [
+        "Institute of Applied Microbiology - iAMB, Aachen Biology and Biotechnology - ABBt, RWTH Aachen University, 52074, Aachen, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Applied Microbiology - iAMB, Aachen Biology and Biotechnology - ABBt, RWTH Aachen University, 52074, Aachen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021545487",
+        "display_name": "Lars M. Blank",
+        "orcid": "https://orcid.org/0000-0003-0961-4976"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lars M Blank",
+      "raw_affiliation_strings": [
+        "Institute of Applied Microbiology - iAMB, Aachen Biology and Biotechnology - ABBt, RWTH Aachen University, 52074, Aachen, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0961-4976",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Applied Microbiology - iAMB, Aachen Biology and Biotechnology - ABBt, RWTH Aachen University, 52074, Aachen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5009946858",
+        "display_name": "Hendrik G. Mengers",
+        "orcid": "https://orcid.org/0000-0002-5098-164X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887968799",
+          "display_name": "RWTH Aachen University",
+          "ror": "https://ror.org/04xfq0f34",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hendrik G Mengers",
+      "raw_affiliation_strings": [
+        "Institute of Applied Microbiology - iAMB, Aachen Biology and Biotechnology - ABBt, RWTH Aachen University, 52074, Aachen, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Applied Microbiology - iAMB, Aachen Biology and Biotechnology - ABBt, RWTH Aachen University, 52074, Aachen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I887968799"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5038426035",
+        "display_name": "Mihail Anton",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800139495",
+          "display_name": "Science for Life Laboratory",
+          "ror": "https://ror.org/04ev03g22",
+          "country_code": "SE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2800139495"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mihail Anton",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, Gothenburg, SE412 58, Sweden"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7753-9042",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, Gothenburg, SE412 58, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I2800139495",
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5046993526",
+        "display_name": "Albert Tafur Rangel",
+        "orcid": "https://orcid.org/0000-0002-9428-183X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801134892",
+          "display_name": "Novo Nordisk Foundation",
+          "ror": "https://ror.org/04txyc737",
+          "country_code": "DK",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801134892"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I96673099",
+          "display_name": "Technical University of Denmark",
+          "ror": "https://ror.org/04qtj9h94",
+          "country_code": "DK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ],
+      "countries": [
+        "DK",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Albert Tafur Rangel",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, Chalmers University of Technology, Gothenburg, SE412 96, Sweden",
+        "The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, DK-2800 Kgs, Lyngby, Denmark"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9428-183X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology, Gothenburg, SE412 96, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, DK-2800 Kgs, Lyngby, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I2801134892",
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5023051270",
+        "display_name": "Sebastián N. Mendoza",
+        "orcid": "https://orcid.org/0000-0002-2192-5569"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I69737025",
+          "display_name": "University of Chile",
+          "ror": "https://ror.org/047gc3g35",
+          "country_code": "CL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I69737025"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I865915315",
+          "display_name": "Vrije Universiteit Amsterdam",
+          "ror": "https://ror.org/008xxew50",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I865915315"
+          ]
+        }
+      ],
+      "countries": [
+        "CL",
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sebastián N Mendoza",
+      "raw_affiliation_strings": [
+        "Center for Mathematical Modeling, University of Chile, Santiago, Chile",
+        "Systems Biology Lab, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2192-5569",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Mathematical Modeling, University of Chile, Santiago, Chile",
+          "institution_ids": [
+            "https://openalex.org/I69737025"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Systems Biology Lab, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I865915315"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100427821",
+        "display_name": "Lixin Zhang",
+        "orcid": "https://orcid.org/0000-0003-0894-9520"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143593769",
+          "display_name": "East China University of Science and Technology",
+          "ror": "https://ror.org/01vyrm377",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lixin Zhang",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Bioreactor Engineering, and School of Biotechnology, East China University of Science and Technology (ECUST), 200237, Shanghai, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Bioreactor Engineering, and School of Biotechnology, East China University of Science and Technology (ECUST), 200237, Shanghai, China",
+          "institution_ids": [
+            "https://openalex.org/I143593769"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083238115",
+        "display_name": "Jens Nielsen",
+        "orcid": "https://orcid.org/0000-0002-9955-6003"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210146628",
+          "display_name": "BioInnovation Institute",
+          "ror": "https://ror.org/048b3qc73",
+          "country_code": "DK",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210146628"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "DK",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jens Nielsen",
+      "raw_affiliation_strings": [
+        "BioInnovation Institute, Ole Maaløes Vej 3, DK2200, Copenhagen N, Denmark",
+        "Department of Life Sciences, Chalmers University of Technology, Gothenburg, SE412 96, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "BioInnovation Institute, Ole Maaløes Vej 3, DK2200, Copenhagen N, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I4210146628"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Life Sciences, Chalmers University of Technology, Gothenburg, SE412 96, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5075758242",
+        "display_name": "Hongzhong Lu",
+        "orcid": "https://orcid.org/0009-0005-8555-1841"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I183067930",
+          "display_name": "Shanghai Jiao Tong University",
+          "ror": "https://ror.org/0220qvk04",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I183067930"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Hongzhong Lu",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Microbial Metabolism, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, 200240, Shanghai, China. hongzhonglu@sjtu.edu.cn"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0005-8555-1841",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Microbial Metabolism, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, 200240, Shanghai, China. hongzhonglu@sjtu.edu.cn",
+          "institution_ids": [
+            "https://openalex.org/I183067930"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5059167313",
+        "display_name": "Eduard J. Kerkhoven",
+        "orcid": "https://orcid.org/0000-0002-3593-5792"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801134892",
+          "display_name": "Novo Nordisk Foundation",
+          "ror": "https://ror.org/04txyc737",
+          "country_code": "DK",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801134892"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "DK",
+        "SE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Eduard J Kerkhoven",
+      "raw_affiliation_strings": [
+        "Department of Life Sciences, SciLifeLab, Chalmers University of Technology, Gothenburg, SE412 96, Sweden. eduardk@chalmers.se",
+        "The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, DK-2800 Kgs, Lyngby, Denmark. eduardk@chalmers.se"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3593-5792",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Life Sciences, SciLifeLab, Chalmers University of Technology, Gothenburg, SE412 96, Sweden. eduardk@chalmers.se",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, DK-2800 Kgs, Lyngby, Denmark. eduardk@chalmers.se",
+          "institution_ids": [
+            "https://openalex.org/I2801134892"
+          ]
+        }
+      ]
+    }
+  ]
+}

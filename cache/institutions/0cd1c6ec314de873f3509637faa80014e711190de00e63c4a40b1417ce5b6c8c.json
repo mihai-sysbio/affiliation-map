@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I887968799",
+  "ror": "https://ror.org/04xfq0f34",
+  "display_name": "RWTH Aachen University",
+  "country_code": "DE",
+  "type": "education",
+  "geo": {
+    "city": "Aachen",
+    "geonames_city_id": "3247449",
+    "region": "North Rhine-Westphalia",
+    "country_code": "DE",
+    "country": "Germany",
+    "latitude": 50.77664,
+    "longitude": 6.08342
+  }
+}

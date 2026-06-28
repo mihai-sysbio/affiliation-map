@@ -1,0 +1,1038 @@
+{
+  "id": "https://openalex.org/W3082099888",
+  "doi": "https://doi.org/10.1016/j.isci.2020.101525",
+  "title": "Enzyme-Constrained Models and Omics Analysis of <i>Streptomyces coelicolor</i> Reveal Metabolic Changes that Enhance Heterologous Production.",
+  "display_name": "Enzyme-Constrained Models and Omics Analysis of <i>Streptomyces coelicolor</i> Reveal Metabolic Changes that Enhance Heterologous Production.",
+  "publication_year": 2020,
+  "publication_date": "2020-09-25",
+  "ids": {
+    "openalex": "https://openalex.org/W3082099888",
+    "doi": "https://doi.org/10.1016/j.isci.2020.101525",
+    "mag": "3082099888",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/32942174"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "pmid:32942174",
+    "is_oa": false,
+    "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/32942174",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306525036",
+      "display_name": "PubMed",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I1299303238",
+      "host_organization_name": "National Institutes of Health",
+      "host_organization_lineage": [
+        "https://openalex.org/I1299303238"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "iScience",
+    "raw_type": null
+  },
+  "type": "article",
+  "indexed_in": [
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5001910866",
+        "display_name": "Snorre Sulheim",
+        "orcid": "https://orcid.org/0000-0002-3967-1683"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I173888879",
+          "display_name": "SINTEF",
+          "ror": "https://ror.org/01f677e56",
+          "country_code": "NO",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I173888879"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I204778367",
+          "display_name": "Norwegian University of Science and Technology",
+          "ror": "https://ror.org/05xg72x27",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Snorre Sulheim",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology and Nanomedicine, SINTEF Industry, 7034 Trondheim, Norway",
+        "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, 7491 Trondheim, Norway"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Nanomedicine, SINTEF Industry, 7034 Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I173888879"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, 7491 Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082727841",
+        "display_name": "Tjaša Kumelj",
+        "orcid": "https://orcid.org/0000-0002-1998-0366"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204778367",
+          "display_name": "Norwegian University of Science and Technology",
+          "ror": "https://ror.org/05xg72x27",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tjaša Kumelj",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, 7491 Trondheim, Norway"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, 7491 Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5028326911",
+        "display_name": "Dino van Dissel",
+        "orcid": "https://orcid.org/0000-0002-6793-7469"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I173888879",
+          "display_name": "SINTEF",
+          "ror": "https://ror.org/01f677e56",
+          "country_code": "NO",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I173888879"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dino van Dissel",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology and Nanomedicine, SINTEF Industry, 7034 Trondheim, Norway"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Nanomedicine, SINTEF Industry, 7034 Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I173888879"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017567949",
+        "display_name": "Ali Salehzadeh‐Yazdi",
+        "orcid": "https://orcid.org/0000-0002-1678-0051"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4665924",
+          "display_name": "University of Rostock",
+          "ror": "https://ror.org/03zdwsf69",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4665924"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ali Salehzadeh-Yazdi",
+      "raw_affiliation_strings": [
+        "Department of Systems Biology and Bioinformatics, Faculty of Computer Science and Electrical Engineering, University of Rostock, 18057 Rostock, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Systems Biology and Bioinformatics, Faculty of Computer Science and Electrical Engineering, University of Rostock, 18057 Rostock, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4665924"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082019295",
+        "display_name": "Chao Du",
+        "orcid": "https://orcid.org/0000-0003-3447-5293"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I121797337",
+          "display_name": "Leiden University",
+          "ror": "https://ror.org/027bh9e22",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chao Du",
+      "raw_affiliation_strings": [
+        "Microbial Biotechnology, Institute of Biology, Leiden University, 2300 Leiden, the Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Microbial Biotechnology, Institute of Biology, Leiden University, 2300 Leiden, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091052284",
+        "display_name": "Gilles P. van Wezel",
+        "orcid": "https://orcid.org/0000-0003-0341-1561"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I121797337",
+          "display_name": "Leiden University",
+          "ror": "https://ror.org/027bh9e22",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Gilles P van Wezel",
+      "raw_affiliation_strings": [
+        "Microbial Biotechnology, Institute of Biology, Leiden University, 2300 Leiden, the Netherlands"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Microbial Biotechnology, Institute of Biology, Leiden University, 2300 Leiden, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5061586847",
+        "display_name": "Kay Nieselt",
+        "orcid": "https://orcid.org/0000-0002-1283-7065"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I8087733",
+          "display_name": "University of Tübingen",
+          "ror": "https://ror.org/03a1kwz48",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I8087733"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kay Nieselt",
+      "raw_affiliation_strings": [
+        "Integrative Transcriptomics, Center for Bioinformatics, University of Tübingen, 72070 Tübingen, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Integrative Transcriptomics, Center for Bioinformatics, University of Tübingen, 72070 Tübingen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I8087733"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003678652",
+        "display_name": "Eivind Almaas",
+        "orcid": "https://orcid.org/0000-0002-9125-326X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204778367",
+          "display_name": "Norwegian University of Science and Technology",
+          "ror": "https://ror.org/05xg72x27",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eivind Almaas",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, 7491 Trondheim, Norway",
+        "K.G. Jebsen Center for Genetic Epidemiology, Department of Public Health and General Practice, NTNU - Norwegian University of Science and Technology, 7491 Trondheim, Norway"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, 7491 Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        },
+        {
+          "raw_affiliation_string": "K.G. Jebsen Center for Genetic Epidemiology, Department of Public Health and General Practice, NTNU - Norwegian University of Science and Technology, 7491 Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032838630",
+        "display_name": "Alexander Wentzel",
+        "orcid": "https://orcid.org/0000-0002-9420-1959"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I173888879",
+          "display_name": "SINTEF",
+          "ror": "https://ror.org/01f677e56",
+          "country_code": "NO",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I173888879"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alexander Wentzel",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology and Nanomedicine, SINTEF Industry, 7034 Trondheim, Norway"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Nanomedicine, SINTEF Industry, 7034 Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I173888879"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5059167313",
+        "display_name": "Eduard J. Kerkhoven",
+        "orcid": "https://orcid.org/0000-0002-3593-5792"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Eduard J Kerkhoven",
+      "raw_affiliation_strings": [
+        "Systems and Synthetic Biology, Department of Biology and Biological Engineering, Chalmers University of Technology, 412 96 Gothenburg, Sweden",
+        "Novo Nordisk Foundation Center for Biosustainability, Chalmers University of Technology, 412 96 Gothenburg, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Systems and Synthetic Biology, Department of Biology and Biological Engineering, Chalmers University of Technology, 412 96 Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Novo Nordisk Foundation Center for Biosustainability, Chalmers University of Technology, 412 96 Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 4,
+  "institutions_distinct_count": 10,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5059167313"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I66862912"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 5.1422,
+  "has_fulltext": false,
+  "cited_by_count": 45,
+  "citation_normalized_percentile": {
+    "value": 0.9611509,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "23",
+    "issue": "9",
+    "first_page": "101525",
+    "last_page": "101525"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10252",
+    "display_name": "Microbial Natural Products and Biosynthesis",
+    "score": 0.9998000264167786,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2736",
+      "display_name": "Pharmacology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10252",
+      "display_name": "Microbial Natural Products and Biosynthesis",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2736",
+        "display_name": "Pharmacology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10932",
+      "display_name": "Microbial Metabolic Engineering and Bioproduction",
+      "score": 0.9988999962806702,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10521",
+      "display_name": "RNA and protein synthesis mechanisms",
+      "score": 0.9945999979972839,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/streptomyces-coelicolor",
+      "display_name": "Streptomyces coelicolor",
+      "score": 0.9779406189918518
+    },
+    {
+      "id": "https://openalex.org/keywords/heterologous",
+      "display_name": "Heterologous",
+      "score": 0.7935745716094971
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.6597225069999695
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.5809365510940552
+    },
+    {
+      "id": "https://openalex.org/keywords/transcriptome",
+      "display_name": "Transcriptome",
+      "score": 0.5598412156105042
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.5152792930603027
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolome",
+      "display_name": "Metabolome",
+      "score": 0.4848519563674927
+    },
+    {
+      "id": "https://openalex.org/keywords/heterologous-expression",
+      "display_name": "Heterologous expression",
+      "score": 0.4834066927433014
+    },
+    {
+      "id": "https://openalex.org/keywords/metagenomics",
+      "display_name": "Metagenomics",
+      "score": 0.4681888818740845
+    },
+    {
+      "id": "https://openalex.org/keywords/streptomyces",
+      "display_name": "Streptomyces",
+      "score": 0.4536657929420471
+    },
+    {
+      "id": "https://openalex.org/keywords/proteomics",
+      "display_name": "Proteomics",
+      "score": 0.4488339126110077
+    },
+    {
+      "id": "https://openalex.org/keywords/polyketide",
+      "display_name": "Polyketide",
+      "score": 0.4257761538028717
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.39462125301361084
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolomics",
+      "display_name": "Metabolomics",
+      "score": 0.36225706338882446
+    },
+    {
+      "id": "https://openalex.org/keywords/gene-expression",
+      "display_name": "Gene expression",
+      "score": 0.27142688632011414
+    },
+    {
+      "id": "https://openalex.org/keywords/bioinformatics",
+      "display_name": "Bioinformatics",
+      "score": 0.21900585293769836
+    },
+    {
+      "id": "https://openalex.org/keywords/bacteria",
+      "display_name": "Bacteria",
+      "score": 0.2184104025363922
+    },
+    {
+      "id": "https://openalex.org/keywords/biosynthesis",
+      "display_name": "Biosynthesis",
+      "score": 0.12524986267089844
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2780681812",
+      "wikidata": "https://www.wikidata.org/wiki/Q22286833",
+      "display_name": "Streptomyces coelicolor",
+      "level": 4,
+      "score": 0.9779406189918518
+    },
+    {
+      "id": "https://openalex.org/C2780115692",
+      "wikidata": "https://www.wikidata.org/wiki/Q5747302",
+      "display_name": "Heterologous",
+      "level": 3,
+      "score": 0.7935745716094971
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.6597225069999695
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.5809365510940552
+    },
+    {
+      "id": "https://openalex.org/C162317418",
+      "wikidata": "https://www.wikidata.org/wiki/Q252857",
+      "display_name": "Transcriptome",
+      "level": 4,
+      "score": 0.5598412156105042
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.5152792930603027
+    },
+    {
+      "id": "https://openalex.org/C135870905",
+      "wikidata": "https://www.wikidata.org/wiki/Q903667",
+      "display_name": "Metabolome",
+      "level": 3,
+      "score": 0.4848519563674927
+    },
+    {
+      "id": "https://openalex.org/C108305142",
+      "wikidata": "https://www.wikidata.org/wiki/Q3062286",
+      "display_name": "Heterologous expression",
+      "level": 4,
+      "score": 0.4834066927433014
+    },
+    {
+      "id": "https://openalex.org/C15151743",
+      "wikidata": "https://www.wikidata.org/wiki/Q903778",
+      "display_name": "Metagenomics",
+      "level": 3,
+      "score": 0.4681888818740845
+    },
+    {
+      "id": "https://openalex.org/C2779920670",
+      "wikidata": "https://www.wikidata.org/wiki/Q1144013",
+      "display_name": "Streptomyces",
+      "level": 3,
+      "score": 0.4536657929420471
+    },
+    {
+      "id": "https://openalex.org/C46111723",
+      "wikidata": "https://www.wikidata.org/wiki/Q471857",
+      "display_name": "Proteomics",
+      "level": 3,
+      "score": 0.4488339126110077
+    },
+    {
+      "id": "https://openalex.org/C2778635478",
+      "wikidata": "https://www.wikidata.org/wiki/Q516751",
+      "display_name": "Polyketide",
+      "level": 4,
+      "score": 0.4257761538028717
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.39462125301361084
+    },
+    {
+      "id": "https://openalex.org/C21565614",
+      "wikidata": "https://www.wikidata.org/wiki/Q12149006",
+      "display_name": "Metabolomics",
+      "level": 2,
+      "score": 0.36225706338882446
+    },
+    {
+      "id": "https://openalex.org/C150194340",
+      "wikidata": "https://www.wikidata.org/wiki/Q26972",
+      "display_name": "Gene expression",
+      "level": 3,
+      "score": 0.27142688632011414
+    },
+    {
+      "id": "https://openalex.org/C60644358",
+      "wikidata": "https://www.wikidata.org/wiki/Q128570",
+      "display_name": "Bioinformatics",
+      "level": 1,
+      "score": 0.21900585293769836
+    },
+    {
+      "id": "https://openalex.org/C523546767",
+      "wikidata": "https://www.wikidata.org/wiki/Q10876",
+      "display_name": "Bacteria",
+      "level": 2,
+      "score": 0.2184104025363922
+    },
+    {
+      "id": "https://openalex.org/C553450214",
+      "wikidata": "https://www.wikidata.org/wiki/Q851162",
+      "display_name": "Biosynthesis",
+      "level": 3,
+      "score": 0.12524986267089844
+    },
+    {
+      "id": "https://openalex.org/C40767141",
+      "wikidata": "https://www.wikidata.org/wiki/Q285697",
+      "display_name": "Recombinant DNA",
+      "level": 3,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "pmid:32942174",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/32942174",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "iScience",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G7251805186",
+      "display_name": null,
+      "funder_award_id": "248885",
+      "funder_id": "https://openalex.org/F4320323299",
+      "funder_display_name": "Norges Forskningsråd"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320309605",
+      "display_name": "Västra Götalandsregionen",
+      "ror": "https://ror.org/00a4x6777"
+    },
+    {
+      "id": "https://openalex.org/F4320320929",
+      "display_name": "Universiteit Leiden",
+      "ror": "https://ror.org/027bh9e22"
+    },
+    {
+      "id": "https://openalex.org/F4320323299",
+      "display_name": "Norges Forskningsråd",
+      "ror": "https://ror.org/00epmv149"
+    },
+    {
+      "id": "https://openalex.org/F4320330260",
+      "display_name": "Centre for Digital Life Norway",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 114,
+  "referenced_works": [
+    "https://openalex.org/W586318925",
+    "https://openalex.org/W1489326505",
+    "https://openalex.org/W1522658170",
+    "https://openalex.org/W1551767815",
+    "https://openalex.org/W1598992418",
+    "https://openalex.org/W1665355332",
+    "https://openalex.org/W1827213771",
+    "https://openalex.org/W1827848435",
+    "https://openalex.org/W1845916887",
+    "https://openalex.org/W1935434993",
+    "https://openalex.org/W1952732684",
+    "https://openalex.org/W1954652720",
+    "https://openalex.org/W1971842724",
+    "https://openalex.org/W1975825697",
+    "https://openalex.org/W1982137903",
+    "https://openalex.org/W1984045227",
+    "https://openalex.org/W1987549243",
+    "https://openalex.org/W1987622597",
+    "https://openalex.org/W1989049812",
+    "https://openalex.org/W1991820359",
+    "https://openalex.org/W1994575037",
+    "https://openalex.org/W1995346298",
+    "https://openalex.org/W1999944507",
+    "https://openalex.org/W2001859397",
+    "https://openalex.org/W2001872144",
+    "https://openalex.org/W2010502100",
+    "https://openalex.org/W2012960603",
+    "https://openalex.org/W2024829623",
+    "https://openalex.org/W2026666552",
+    "https://openalex.org/W2030667990",
+    "https://openalex.org/W2039059974",
+    "https://openalex.org/W2041375885",
+    "https://openalex.org/W2043301112",
+    "https://openalex.org/W2046228091",
+    "https://openalex.org/W2046527060",
+    "https://openalex.org/W2047632644",
+    "https://openalex.org/W2053454626",
+    "https://openalex.org/W2056286476",
+    "https://openalex.org/W2061588341",
+    "https://openalex.org/W2064379341",
+    "https://openalex.org/W2066550363",
+    "https://openalex.org/W2068092274",
+    "https://openalex.org/W2078355959",
+    "https://openalex.org/W2082728768",
+    "https://openalex.org/W2085993965",
+    "https://openalex.org/W2086803231",
+    "https://openalex.org/W2092838569",
+    "https://openalex.org/W2097865522",
+    "https://openalex.org/W2099714453",
+    "https://openalex.org/W2100481510",
+    "https://openalex.org/W2102211868",
+    "https://openalex.org/W2103017472",
+    "https://openalex.org/W2103915079",
+    "https://openalex.org/W2108336065",
+    "https://openalex.org/W2108529043",
+    "https://openalex.org/W2113369444",
+    "https://openalex.org/W2115559271",
+    "https://openalex.org/W2116976883",
+    "https://openalex.org/W2117363410",
+    "https://openalex.org/W2118048938",
+    "https://openalex.org/W2120469353",
+    "https://openalex.org/W2120796786",
+    "https://openalex.org/W2127954263",
+    "https://openalex.org/W2132218677",
+    "https://openalex.org/W2138207763",
+    "https://openalex.org/W2142314320",
+    "https://openalex.org/W2142663960",
+    "https://openalex.org/W2150126975",
+    "https://openalex.org/W2150880732",
+    "https://openalex.org/W2151598022",
+    "https://openalex.org/W2152456759",
+    "https://openalex.org/W2153584471",
+    "https://openalex.org/W2157483647",
+    "https://openalex.org/W2159482845",
+    "https://openalex.org/W2163132655",
+    "https://openalex.org/W2164957955",
+    "https://openalex.org/W2169105416",
+    "https://openalex.org/W2170427655",
+    "https://openalex.org/W2171164225",
+    "https://openalex.org/W2171452615",
+    "https://openalex.org/W2179438025",
+    "https://openalex.org/W2202347610",
+    "https://openalex.org/W2290207093",
+    "https://openalex.org/W2291242534",
+    "https://openalex.org/W2497303707",
+    "https://openalex.org/W2555369234",
+    "https://openalex.org/W2592272684",
+    "https://openalex.org/W2604059586",
+    "https://openalex.org/W2610719260",
+    "https://openalex.org/W2619962439",
+    "https://openalex.org/W2743063996",
+    "https://openalex.org/W2743365876",
+    "https://openalex.org/W2749464300",
+    "https://openalex.org/W2765860644",
+    "https://openalex.org/W2770167560",
+    "https://openalex.org/W2794036608",
+    "https://openalex.org/W2807827792",
+    "https://openalex.org/W2811096556",
+    "https://openalex.org/W2886325974",
+    "https://openalex.org/W2897708146",
+    "https://openalex.org/W2897805491",
+    "https://openalex.org/W2899760200",
+    "https://openalex.org/W2900044275",
+    "https://openalex.org/W2905301904",
+    "https://openalex.org/W2911805374",
+    "https://openalex.org/W2945007537",
+    "https://openalex.org/W2950595506",
+    "https://openalex.org/W2952015518",
+    "https://openalex.org/W2952117162",
+    "https://openalex.org/W2954334950",
+    "https://openalex.org/W2965590414",
+    "https://openalex.org/W3010629926",
+    "https://openalex.org/W3136918052",
+    "https://openalex.org/W4294216483"
+  ],
+  "related_works": [
+    "https://openalex.org/W2597831332",
+    "https://openalex.org/W754542020",
+    "https://openalex.org/W1990406852",
+    "https://openalex.org/W196581644",
+    "https://openalex.org/W2148975940",
+    "https://openalex.org/W1977865893",
+    "https://openalex.org/W2043518771",
+    "https://openalex.org/W1973761814",
+    "https://openalex.org/W2997031172",
+    "https://openalex.org/W2070149389"
+  ],
+  "abstract_inverted_index": {
+    "for": [
+      0
+    ],
+    "heterologous": [
+      1
+    ],
+    "production": [
+      2
+    ],
+    "of": [
+      3
+    ],
+    "novel": [
+      4
+    ],
+    "compounds.": [
+      5
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 17
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-06-24T13:16:06.693445",
+  "created_date": "2020-09-08T00:00:00"
+}

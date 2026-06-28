@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I45084792",
+  "ror": "https://ror.org/04jr1s763",
+  "display_name": "University of Florence",
+  "country_code": "IT",
+  "type": "education",
+  "geo": {
+    "city": "Florence",
+    "geonames_city_id": "3176959",
+    "region": "Tuscany",
+    "country_code": "IT",
+    "country": "Italy",
+    "latitude": 43.77925,
+    "longitude": 11.24626
+  }
+}

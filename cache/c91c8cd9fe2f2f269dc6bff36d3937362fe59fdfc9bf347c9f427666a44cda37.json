@@ -1,0 +1,1410 @@
+{
+  "id": "https://openalex.org/W3129586930",
+  "doi": "https://doi.org/10.1002/bit.27726",
+  "title": "High‐quality genome‐scale metabolic model of <i>Aurantiochytrium</i> sp. T66",
+  "display_name": "High‐quality genome‐scale metabolic model of <i>Aurantiochytrium</i> sp. T66",
+  "publication_year": 2021,
+  "publication_date": "2021-02-24",
+  "ids": {
+    "openalex": "https://openalex.org/W3129586930",
+    "doi": "https://doi.org/10.1002/bit.27726",
+    "mag": "3129586930",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/33624839"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1002/bit.27726",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1002/bit.27726",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S151564723",
+      "display_name": "Biotechnology and Bioengineering",
+      "issn_l": "0006-3592",
+      "issn": [
+        "0006-3592",
+        "1097-0290"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Biotechnology and Bioengineering",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://hdl.handle.net/11250/2993393",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5055327289",
+        "display_name": "Vetle Simensen",
+        "orcid": "https://orcid.org/0000-0002-2511-1052"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204778367",
+          "display_name": "Norwegian University of Science and Technology",
+          "ror": "https://ror.org/05xg72x27",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Vetle Simensen",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology and Food Science NTNU ‐ Norwegian University of Science and Technology Trondheim Norway",
+        "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, Trondheim, Norway"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2511-1052",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Food Science NTNU ‐ Norwegian University of Science and Technology Trondheim Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5064312872",
+        "display_name": "André Voigt",
+        "orcid": "https://orcid.org/0000-0002-3006-6970"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204778367",
+          "display_name": "Norwegian University of Science and Technology",
+          "ror": "https://ror.org/05xg72x27",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "André Voigt",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology and Food Science NTNU ‐ Norwegian University of Science and Technology Trondheim Norway",
+        "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, Trondheim, Norway"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3006-6970",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Food Science NTNU ‐ Norwegian University of Science and Technology Trondheim Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5003678652",
+        "display_name": "Eivind Almaas",
+        "orcid": "https://orcid.org/0000-0002-9125-326X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204778367",
+          "display_name": "Norwegian University of Science and Technology",
+          "ror": "https://ror.org/05xg72x27",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Eivind Almaas",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology and Food Science NTNU ‐ Norwegian University of Science and Technology Trondheim Norway",
+        "Department of Public Health and General Practice, K.G. Jebsen Center for Genetic Epidemiology NTNU ‐ Norwegian University of Science and Technology Trondheim Norway",
+        "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, Trondheim, Norway",
+        "Department of Public Health and General Practice, K.G. Jebsen Center for Genetic Epidemiology, NTNU - Norwegian University of Science and Technology, Trondheim, Norway"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9125-326X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Food Science NTNU ‐ Norwegian University of Science and Technology Trondheim Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Public Health and General Practice, K.G. Jebsen Center for Genetic Epidemiology NTNU ‐ Norwegian University of Science and Technology Trondheim Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biotechnology and Food Science, NTNU - Norwegian University of Science and Technology, Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Public Health and General Practice, K.G. Jebsen Center for Genetic Epidemiology, NTNU - Norwegian University of Science and Technology, Trondheim, Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5003678652"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I204778367"
+  ],
+  "apc_list": {
+    "value": 4840,
+    "currency": "USD",
+    "value_usd": 4840
+  },
+  "apc_paid": null,
+  "fwci": 0.8958,
+  "has_fulltext": false,
+  "cited_by_count": 15,
+  "citation_normalized_percentile": {
+    "value": 0.72109579,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 91,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "118",
+    "issue": "5",
+    "first_page": "2105",
+    "last_page": "2117"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10932",
+    "display_name": "Microbial Metabolic Engineering and Bioproduction",
+    "score": 0.9997000098228455,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10932",
+      "display_name": "Microbial Metabolic Engineering and Bioproduction",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10476",
+      "display_name": "Algal biology and biofuel production",
+      "score": 0.9990000128746033,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2105",
+        "display_name": "Renewable Energy, Sustainability and the Environment"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/21",
+        "display_name": "Energy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11791",
+      "display_name": "Microbial Community Ecology and Physiology",
+      "score": 0.9890000224113464,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/docosahexaenoic-acid",
+      "display_name": "Docosahexaenoic acid",
+      "score": 0.7506700158119202
+    },
+    {
+      "id": "https://openalex.org/keywords/polyunsaturated-fatty-acid",
+      "display_name": "Polyunsaturated fatty acid",
+      "score": 0.7438494563102722
+    },
+    {
+      "id": "https://openalex.org/keywords/metabolic-engineering",
+      "display_name": "Metabolic engineering",
+      "score": 0.659273624420166
+    },
+    {
+      "id": "https://openalex.org/keywords/eicosapentaenoic-acid",
+      "display_name": "Eicosapentaenoic acid",
+      "score": 0.6522939205169678
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.5675364136695862
+    },
+    {
+      "id": "https://openalex.org/keywords/in-silico",
+      "display_name": "In silico",
+      "score": 0.531823456287384
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.44947168231010437
+    },
+    {
+      "id": "https://openalex.org/keywords/food-science",
+      "display_name": "Food science",
+      "score": 0.3589569926261902
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemical-engineering",
+      "display_name": "Biochemical engineering",
+      "score": 0.348027765750885
+    },
+    {
+      "id": "https://openalex.org/keywords/biotechnology",
+      "display_name": "Biotechnology",
+      "score": 0.3202061057090759
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.31236571073532104
+    },
+    {
+      "id": "https://openalex.org/keywords/fatty-acid",
+      "display_name": "Fatty acid",
+      "score": 0.27954280376434326
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.1518256664276123
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2777171753",
+      "wikidata": "https://www.wikidata.org/wiki/Q423345",
+      "display_name": "Docosahexaenoic acid",
+      "level": 4,
+      "score": 0.7506700158119202
+    },
+    {
+      "id": "https://openalex.org/C19038510",
+      "wikidata": "https://www.wikidata.org/wiki/Q2005087",
+      "display_name": "Polyunsaturated fatty acid",
+      "level": 3,
+      "score": 0.7438494563102722
+    },
+    {
+      "id": "https://openalex.org/C6350086",
+      "wikidata": "https://www.wikidata.org/wiki/Q6822347",
+      "display_name": "Metabolic engineering",
+      "level": 3,
+      "score": 0.659273624420166
+    },
+    {
+      "id": "https://openalex.org/C2776091944",
+      "wikidata": "https://www.wikidata.org/wiki/Q409990",
+      "display_name": "Eicosapentaenoic acid",
+      "level": 4,
+      "score": 0.6522939205169678
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.5675364136695862
+    },
+    {
+      "id": "https://openalex.org/C2775905019",
+      "wikidata": "https://www.wikidata.org/wiki/Q192572",
+      "display_name": "In silico",
+      "level": 3,
+      "score": 0.531823456287384
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.44947168231010437
+    },
+    {
+      "id": "https://openalex.org/C31903555",
+      "wikidata": "https://www.wikidata.org/wiki/Q1637030",
+      "display_name": "Food science",
+      "level": 1,
+      "score": 0.3589569926261902
+    },
+    {
+      "id": "https://openalex.org/C183696295",
+      "wikidata": "https://www.wikidata.org/wiki/Q2487696",
+      "display_name": "Biochemical engineering",
+      "level": 1,
+      "score": 0.348027765750885
+    },
+    {
+      "id": "https://openalex.org/C150903083",
+      "wikidata": "https://www.wikidata.org/wiki/Q7108",
+      "display_name": "Biotechnology",
+      "level": 1,
+      "score": 0.3202061057090759
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.31236571073532104
+    },
+    {
+      "id": "https://openalex.org/C543025807",
+      "wikidata": "https://www.wikidata.org/wiki/Q61476",
+      "display_name": "Fatty acid",
+      "level": 2,
+      "score": 0.27954280376434326
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.1518256664276123
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008954",
+      "descriptor_name": "Models, Biological",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015525",
+      "descriptor_name": "Fatty Acids, Omega-3",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015525",
+      "descriptor_name": "Fatty Acids, Omega-3",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015525",
+      "descriptor_name": "Fatty Acids, Omega-3",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018533",
+      "descriptor_name": "Biomass",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018533",
+      "descriptor_name": "Biomass",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018533",
+      "descriptor_name": "Biomass",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D058009",
+      "descriptor_name": "Stramenopiles",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D058009",
+      "descriptor_name": "Stramenopiles",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D058009",
+      "descriptor_name": "Stramenopiles",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D058009",
+      "descriptor_name": "Stramenopiles",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D058009",
+      "descriptor_name": "Stramenopiles",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D058009",
+      "descriptor_name": "Stramenopiles",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D060847",
+      "descriptor_name": "Metabolic Engineering",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D060847",
+      "descriptor_name": "Metabolic Engineering",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D060847",
+      "descriptor_name": "Metabolic Engineering",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1002/bit.27726",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1002/bit.27726",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S151564723",
+        "display_name": "Biotechnology and Bioengineering",
+        "issn_l": "0006-3592",
+        "issn": [
+          "0006-3592",
+          "1097-0290"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Biotechnology and Bioengineering",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:33624839",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/33624839",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Biotechnology and bioengineering",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:ntnuopen.ntnu.no:11250/2993393",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/11250/2993393",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401716",
+        "display_name": "Duo Research Archive (University of Oslo)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I184942183",
+        "host_organization_name": "University of Oslo",
+        "host_organization_lineage": [
+          "https://openalex.org/I184942183"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "2105-2117",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:ntnuopen.ntnu.no:11250/2993393",
+    "is_oa": true,
+    "landing_page_url": "https://hdl.handle.net/11250/2993393",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306401716",
+      "display_name": "Duo Research Archive (University of Oslo)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I184942183",
+      "host_organization_name": "University of Oslo",
+      "host_organization_lineage": [
+        "https://openalex.org/I184942183"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "2105-2117",
+    "raw_type": "info:eu-repo/semantics/article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/14",
+      "display_name": "Life below water",
+      "score": 0.699999988079071
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 71,
+  "referenced_works": [
+    "https://openalex.org/W1148722567",
+    "https://openalex.org/W1964530054",
+    "https://openalex.org/W1969109410",
+    "https://openalex.org/W1991283899",
+    "https://openalex.org/W2003029675",
+    "https://openalex.org/W2015032378",
+    "https://openalex.org/W2018705949",
+    "https://openalex.org/W2020541351",
+    "https://openalex.org/W2029403511",
+    "https://openalex.org/W2032664506",
+    "https://openalex.org/W2033377040",
+    "https://openalex.org/W2044935306",
+    "https://openalex.org/W2050424183",
+    "https://openalex.org/W2055043387",
+    "https://openalex.org/W2061991778",
+    "https://openalex.org/W2066906106",
+    "https://openalex.org/W2067631691",
+    "https://openalex.org/W2076217102",
+    "https://openalex.org/W2078355959",
+    "https://openalex.org/W2079137794",
+    "https://openalex.org/W2079217126",
+    "https://openalex.org/W2084503127",
+    "https://openalex.org/W2085966233",
+    "https://openalex.org/W2085993965",
+    "https://openalex.org/W2089449076",
+    "https://openalex.org/W2100084634",
+    "https://openalex.org/W2106876061",
+    "https://openalex.org/W2114347076",
+    "https://openalex.org/W2116875566",
+    "https://openalex.org/W2124111734",
+    "https://openalex.org/W2128601422",
+    "https://openalex.org/W2132200710",
+    "https://openalex.org/W2134354175",
+    "https://openalex.org/W2140470365",
+    "https://openalex.org/W2148044817",
+    "https://openalex.org/W2154139219",
+    "https://openalex.org/W2155753085",
+    "https://openalex.org/W2159482845",
+    "https://openalex.org/W2160398757",
+    "https://openalex.org/W2165373392",
+    "https://openalex.org/W2165681080",
+    "https://openalex.org/W2174873063",
+    "https://openalex.org/W2185235821",
+    "https://openalex.org/W2202347610",
+    "https://openalex.org/W2206567631",
+    "https://openalex.org/W2274010545",
+    "https://openalex.org/W2330433237",
+    "https://openalex.org/W2344019652",
+    "https://openalex.org/W2346689092",
+    "https://openalex.org/W2507924017",
+    "https://openalex.org/W2605504874",
+    "https://openalex.org/W2730472814",
+    "https://openalex.org/W2734603555",
+    "https://openalex.org/W2744745572",
+    "https://openalex.org/W2762019694",
+    "https://openalex.org/W2804703793",
+    "https://openalex.org/W2892125910",
+    "https://openalex.org/W2941164415",
+    "https://openalex.org/W2949418748",
+    "https://openalex.org/W2952015518",
+    "https://openalex.org/W2964251256",
+    "https://openalex.org/W2966440819",
+    "https://openalex.org/W2973029286",
+    "https://openalex.org/W3010629926",
+    "https://openalex.org/W3022486700",
+    "https://openalex.org/W3036638162",
+    "https://openalex.org/W4230770774",
+    "https://openalex.org/W4236875018",
+    "https://openalex.org/W4255659575",
+    "https://openalex.org/W4294216483",
+    "https://openalex.org/W6686485194"
+  ],
+  "related_works": [
+    "https://openalex.org/W186746711",
+    "https://openalex.org/W2091388948",
+    "https://openalex.org/W4386095742",
+    "https://openalex.org/W2094100039",
+    "https://openalex.org/W2029389630",
+    "https://openalex.org/W1990478119",
+    "https://openalex.org/W1984929305",
+    "https://openalex.org/W2946715403",
+    "https://openalex.org/W4254513601",
+    "https://openalex.org/W1987372462"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      198
+    ],
+    "long-chain,": [
+      1
+    ],
+    "ω-3": [
+      2,
+      52,
+      92,
+      228
+    ],
+    "polyunsaturated": [
+      3
+    ],
+    "fatty": [
+      4
+    ],
+    "acids": [
+      5
+    ],
+    "(PUFAs)": [
+      6
+    ],
+    "(e.g.,": [
+      7
+    ],
+    "eicosapentaenoic": [
+      8
+    ],
+    "acid": [
+      9,
+      13
+    ],
+    "[EPA]": [
+      10
+    ],
+    "and": [
+      11,
+      19,
+      74,
+      140,
+      150,
+      169,
+      221
+    ],
+    "docosahexaenoic": [
+      12
+    ],
+    "[DHA]),": [
+      14
+    ],
+    "are": [
+      15,
+      63,
+      83
+    ],
+    "essential": [
+      16
+    ],
+    "for": [
+      17,
+      91,
+      206,
+      226
+    ],
+    "humans": [
+      18
+    ],
+    "animals,": [
+      20
+    ],
+    "including": [
+      21
+    ],
+    "marine": [
+      22
+    ],
+    "fish": [
+      23,
+      33,
+      40
+    ],
+    "species.": [
+      24
+    ],
+    "Presently,": [
+      25
+    ],
+    "the": [
+      26,
+      36,
+      58,
+      70,
+      81,
+      88,
+      127,
+      147,
+      153
+    ],
+    "primary": [
+      27
+    ],
+    "source": [
+      28
+    ],
+    "of": [
+      29,
+      39,
+      50,
+      66,
+      78,
+      102,
+      126,
+      137,
+      152,
+      157,
+      200,
+      211
+    ],
+    "these": [
+      30
+    ],
+    "PUFAs": [
+      31,
+      53,
+      93
+    ],
+    "is": [
+      32,
+      54,
+      176
+    ],
+    "oils.": [
+      34
+    ],
+    "As": [
+      35
+    ],
+    "global": [
+      37
+    ],
+    "production": [
+      38
+    ],
+    "oils": [
+      41
+    ],
+    "appears": [
+      42
+    ],
+    "to": [
+      43,
+      56,
+      72,
+      86,
+      113
+    ],
+    "be": [
+      44
+    ],
+    "reaching": [
+      45
+    ],
+    "its": [
+      46
+    ],
+    "limits,": [
+      47
+    ],
+    "alternative": [
+      48
+    ],
+    "sources": [
+      49
+    ],
+    "high-quality": [
+      51,
+      122
+    ],
+    "paramount": [
+      55
+    ],
+    "support": [
+      57
+    ],
+    "growing": [
+      59
+    ],
+    "aquaculture": [
+      60
+    ],
+    "industry.": [
+      61
+    ],
+    "Thraustochytrids": [
+      62
+    ],
+    "a": [
+      64,
+      99,
+      114,
+      121,
+      203
+    ],
+    "group": [
+      65
+    ],
+    "heterotrophic": [
+      67
+    ],
+    "protists": [
+      68
+    ],
+    "with": [
+      69,
+      164,
+      179
+    ],
+    "capability": [
+      71
+    ],
+    "synthesize": [
+      73
+    ],
+    "accrue": [
+      75
+    ],
+    "large": [
+      76,
+      115
+    ],
+    "amounts": [
+      77
+    ],
+    "DHA.": [
+      79
+    ],
+    "Thus,": [
+      80
+    ],
+    "thraustochytrids": [
+      82
+    ],
+    "prime": [
+      84
+    ],
+    "candidates": [
+      85
+    ],
+    "solve": [
+      87
+    ],
+    "increasing": [
+      89
+    ],
+    "demand": [
+      90
+    ],
+    "using": [
+      94
+    ],
+    "microbial": [
+      95
+    ],
+    "cell": [
+      96
+    ],
+    "factories.": [
+      97
+    ],
+    "However,": [
+      98
+    ],
+    "systems-level": [
+      100
+    ],
+    "understanding": [
+      101,
+      210
+    ],
+    "their": [
+      103
+    ],
+    "metabolic": [
+      104,
+      124,
+      148,
+      167,
+      213,
+      219
+    ],
+    "shift": [
+      105
+    ],
+    "from": [
+      106,
+      155
+    ],
+    "cellular": [
+      107
+    ],
+    "growth": [
+      108,
+      181,
+      186,
+      192
+    ],
+    "into": [
+      109
+    ],
+    "lipid": [
+      110
+    ],
+    "accumulation": [
+      111
+    ],
+    "is,": [
+      112
+    ],
+    "extent,": [
+      116
+    ],
+    "unclear.": [
+      117
+    ],
+    "Here,": [
+      118
+    ],
+    "we": [
+      119,
+      144
+    ],
+    "reconstructed": [
+      120
+    ],
+    "genome-scale": [
+      123
+    ],
+    "model": [
+      125,
+      138,
+      170
+    ],
+    "thraustochytrid": [
+      128
+    ],
+    "Aurantiochytrium": [
+      129
+    ],
+    "sp.": [
+      130
+    ],
+    "T66": [
+      131
+    ],
+    "termed": [
+      132
+    ],
+    "iVS1191.": [
+      133
+    ],
+    "Through": [
+      134
+    ],
+    "iterative": [
+      135
+    ],
+    "rounds": [
+      136
+    ],
+    "refinement": [
+      139
+    ],
+    "extensive": [
+      141
+    ],
+    "manual": [
+      142
+    ],
+    "curation,": [
+      143
+    ],
+    "significantly": [
+      145
+    ],
+    "enhanced": [
+      146
+    ],
+    "scope": [
+      149
+    ],
+    "coverage": [
+      151
+    ],
+    "reconstruction": [
+      154
+    ],
+    "that": [
+      156,
+      174
+    ],
+    "previously": [
+      158
+    ],
+    "published": [
+      159
+    ],
+    "models,": [
+      160
+    ],
+    "making": [
+      161
+    ],
+    "considerable": [
+      162
+    ],
+    "improvements": [
+      163
+    ],
+    "stoichiometric": [
+      165
+    ],
+    "consistency,": [
+      166
+    ],
+    "connectivity,": [
+      168
+    ],
+    "annotations.": [
+      171
+    ],
+    "We": [
+      172
+    ],
+    "show": [
+      173
+    ],
+    "iVS1191": [
+      175,
+      201
+    ],
+    "highly": [
+      177
+    ],
+    "consistent": [
+      178
+    ],
+    "experimental": [
+      180
+    ],
+    "data,": [
+      182
+    ],
+    "reproducing": [
+      183
+    ],
+    "in": [
+      184,
+      224
+    ],
+    "vivo": [
+      185
+    ],
+    "phenotypes": [
+      187
+    ],
+    "as": [
+      188,
+      190,
+      215,
+      217
+    ],
+    "well": [
+      189,
+      216
+    ],
+    "specific": [
+      191
+    ],
+    "rates": [
+      193
+    ],
+    "on": [
+      194
+    ],
+    "minimal": [
+      195
+    ],
+    "carbon": [
+      196
+    ],
+    "media.": [
+      197
+    ],
+    "availability": [
+      199
+    ],
+    "provides": [
+      202
+    ],
+    "solid": [
+      204
+    ],
+    "framework": [
+      205
+    ],
+    "further": [
+      207
+    ],
+    "developing": [
+      208
+    ],
+    "our": [
+      209
+    ],
+    "T66's": [
+      212
+    ],
+    "properties,": [
+      214
+    ],
+    "exploring": [
+      218
+    ],
+    "engineering": [
+      220
+    ],
+    "process-optimization": [
+      222
+    ],
+    "strategies": [
+      223
+    ],
+    "silico": [
+      225
+    ],
+    "increased": [
+      227
+    ],
+    "PUFA": [
+      229
+    ],
+    "production.": [
+      230
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-06-26T08:34:08.712188",
+  "created_date": "2021-03-01T00:00:00"
+}

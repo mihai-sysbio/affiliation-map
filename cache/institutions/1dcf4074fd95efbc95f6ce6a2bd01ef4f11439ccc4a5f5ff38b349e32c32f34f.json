@@ -1,0 +1,16 @@
+{
+  "id": "https://openalex.org/I913481162",
+  "ror": "https://ror.org/04qw24q55",
+  "display_name": "Wageningen University & Research",
+  "country_code": "NL",
+  "type": "education",
+  "geo": {
+    "city": "Wageningen",
+    "geonames_city_id": "2745088",
+    "region": "Gelderland",
+    "country_code": "NL",
+    "country": "The Netherlands",
+    "latitude": 51.97,
+    "longitude": 5.66667
+  }
+}
