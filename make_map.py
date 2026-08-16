@@ -499,25 +499,35 @@ def print_qc(rows):
 
 
 def main():
-    if len(sys.argv) != 2:
-        raise SystemExit("Usage: python make_map.py dois.csv")
+    if len(sys.argv) > 2:
+        raise SystemExit("Usage: python make_map.py [dois.csv]")
 
-    doi_csv = Path(sys.argv[1])
     cache_dir = Path("cache")
 
     affiliations_csv = Path("affiliations.csv")
     svg_path = Path("affiliation_map.svg")
     png_path = Path("affiliation_map.png")
 
-    dois = read_dois(doi_csv)
-    rows = build_affiliation_rows(dois, cache_dir)
+    if affiliations_csv.exists():
+        print(f"Using existing {affiliations_csv}")
+        rows = read_affiliations(affiliations_csv)
+    else:
+        if len(sys.argv) != 2:
+            raise SystemExit(
+                "affiliations.csv does not exist. "
+                "Usage: python make_map.py dois.csv"
+            )
 
-    write_csv(affiliations_csv, rows)
+        doi_csv = Path(sys.argv[1])
+        dois = read_dois(doi_csv)
+        rows = build_affiliation_rows(dois, cache_dir)
+        write_csv(affiliations_csv, rows)
+        print(f"Wrote {affiliations_csv}")
+
     make_static_map(rows, cache_dir, svg_path, png_path)
     print_qc(rows)
 
     print("")
-    print(f"Wrote {affiliations_csv}")
     print(f"Wrote {svg_path}")
     print(f"Wrote {png_path}")
 
